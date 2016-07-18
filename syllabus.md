@@ -1,16 +1,16 @@
 ---
-title: 'University Writing - Contemporary Essays'
-author: G. E. Saretto
-date: January 2016
+title: 'University Writing - Data Sciences and Engineering'
+author: Jenna Schoen
+date: Fall 2016
 ---
 
-|__C1010.002__|__Spring 2016__|
+|__C1010.503__|__Fall 2016__|
 |:-----------:|:-----------|
-|_Day/Time_:|Mondays and Wednesdays - __8:40-9:55 a.m.__|
-|_Location_:|Philosophy Hall __201B__|
-|_Instructor_:|Gianmarco E. Saretto|
-|_Email_:|gs2745@columbia.edu|
-|_Office hours_:|Fri - __9:30__-__11:30a.m.__ - Brownie's (basement of Avery)|
+|_Day/Time_:|Tuesday and Thursday - __11:40_ - _12:55 a.m.__|
+|_Location_:|X Hall __Room__|
+|_Instructor_:|Jenna Schoen|
+|_Email_:|jas2286@columbia.edu|
+|_Office hours_:|Thursday - __1:10__-__3:10 p.m__ - Brownie's (basement of Avery)|
 |_Mailbox Address_:|310 Philosophy Hall|
 
 #Syllabus
@@ -18,7 +18,7 @@ date: January 2016
 
 University Writing is designed to help undergraduates read and write essays in order to participate in the academic conversations that form our intellectual community. We will give special attention to the practices of close reading, rhetorical analysis, research, collaboration, and substantive revision. Students will learn that writing is a process of continual refinement of ideas and their expression. Rather than approaching writing as an innate talent, this course will teach writing as a unique, learned skill that can be practiced and developed.  Over the course of the semester, you will read and discuss texts from a number of fields, complete regular informal reading and writing exercises, write several longer essays, and prepare an editorial for a public audience.
 
-__Note__: Your syllabus is a reference document to be frequently consulted. In it you will find course policies, all major due dates, and a schedule of readings. This syllabus is also available on the [CourseWorks site](http://Courseworks.columbia.edu), and on my [GitHub page](https://github.com/gesaretto).
+__Note__: Your syllabus is a reference document to be frequently consulted. In it you will find course policies, all major due dates, and a schedule of readings. This syllabus is also available on the [CourseWorks site](http://Courseworks.columbia.edu), and on my [GitHub page](https://github.com/jaschoen113).
 
 ##Requirements
 
