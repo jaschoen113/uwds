@@ -6,7 +6,7 @@ date: Fall 2016
 
 |__C1010.503__|__Fall 2016__|
 |:-----------:|:-----------|
-|_Day/Time_:|Tuesday and Thursday - __11:40** - _12:55 a.m.**|
+|_Day/Time_:|Tuesday and Thursday - __11:40__ - _12:55 a.m.__|
 |_Location_:|X Hall __Room__|
 |_Instructor_:|Jenna Schoen|
 |_Email_:|jas2286@columbia.edu|
