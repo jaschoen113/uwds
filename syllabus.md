@@ -16,7 +16,13 @@ date: Fall 2016
 #Syllabus
 ##Course Description
 
-University Writing is designed to help undergraduates read and write essays in order to participate in the academic conversations that form our intellectual community. We will give special attention to the practices of close reading, rhetorical analysis, research, collaboration, and substantive revision. Students will learn that writing is a process of continual refinement of ideas and their expression. Rather than approaching writing as an innate talent, this course will teach writing as a unique, learned skill that can be practiced and developed.  Over the course of the semester, you will read and discuss texts from a number of fields, complete regular informal reading and writing exercises, write several longer essays, and prepare an editorial for a public audience.
+Do animals feel pain, fear, and joy like humans do? Will machines ever be able to think like humans do? What does it mean to feel, to think, and, moreover, to be human? How does technology narrow, extend, reveal, or blur the boundaries between the human and non-human? Might technology transform humans into new creatures? Can a technology become a “living” and “thinking” entity itself? How should we treat future animals, machines, humans, and cyborgs in a world where the human is not the only "feeling" and "thinking" creature?
+
+University Writing is designed to help undergraduates read and write essays in order to participate in the academic conversations that form our intellectual community. In our section, we will be engaging with conversations around animal, machine, and human intelligence. We will be exploring the questions above (and more) as we read essential essays that have shaped these conversations. These essays and our discussions will then provide fodder for your own writing.
+
+However, this class does not presume that students will arrive with any background or identified interest in the data sciences and data engineering. Above all, our focus is to develop as writers and readers. Together, we will study how scholars make and support their arguments. Our readings will include academic essays and book chapters, as well as other scholarly and popular texts, all addressing questions of technology and data sciences in some way. In the process of writing academic essays, we will practice the same kind of critical analysis, revision, collaboration, and research skills that these scholars use in their work every day. The main goal for this course is for you to emerge as a more confident reader and writer, capable of writing clear, persuasive prose – skills that will serve you no matter what field you choose.
+
+ We will give special attention to the practices of close reading, rhetorical analysis, research, collaboration, and substantive revision. Students will learn that writing is a process of continual refinement of ideas and their expression. Rather than approaching writing as an innate talent, this course will teach writing as a unique, learned skill that can be practiced and developed.  Over the course of the semester, you will read and discuss texts from a number of fields, complete regular informal reading and writing exercises, write several longer essays, and prepare an editorial for a public audience.
 
 __Note__: Your syllabus is a reference document to be frequently consulted. In it you will find course policies, all major due dates, and a schedule of readings. This syllabus is also available on the [CourseWorks site](http://Courseworks.columbia.edu), and on my [GitHub page](https://github.com/jaschoen113).
 
@@ -27,8 +33,8 @@ __Note__: Your syllabus is a reference document to be frequently consulted. In i
 1. __Attend__ and participate in all classes and conferences.
 
 1. Prepare reading and __writing exercises__ as assigned.
-	
-	- Submit all of your writing assignments on Courseworks. 
+
+	- Submit all of your writing assignments on Courseworks.
 	- Submit hard copies of your writing assignments to your instructor.
 
 ##Assignments
@@ -38,7 +44,7 @@ You will do at least three types of writing in this course: __exercises__, __dra
 - __Exercises__: (100-750 words) Exercises include any kind of writing that you do in class or on your own to practice skills that you will need for successful completion of the final essay. They are short, preliminary writing tasks designed to help you reflect on the readings, generate ideas, practice skills you will use in an essay, and give feedback to classmates. Exercises are not essays, but each exercise will help you build toward your essay draft. You will do some kind of __informal writing__ every day in class, and __a writing exercise__ will be due for almost every class. Exercises do not receive individual grades. They will be treated as __pass/fail__ assignments.
 
 - __Drafts__: (750+ words) After you have completed a series of exercises, you will write __two drafts__ of your essay for the progression. Like the exercises, the drafts are opportunities to explore your ideas, but they are also the beginnings of formal essays. The better your draft, the more useful will be the feedback you will get on it.  In this class you will learn ways to improve even the best work you can produce on your own. To facilitate revision, your drafts will receive comments from both me and your classmates. Drafts are __required__ but do not receive individual grades.
- 
+
 - __Final Essays__: (750+ words; must have a __title__, __word count__, and a __works cited__ page) Each progression culminates in a __final essay__, which will evolve out of your exercises and drafts. Your final essay will likely differ substantially from the previous drafts in form, and often in content. Your final essay will receive a __formal grade__. All final essays should:
 
 	1. develop an idea or argument in a coherent, compelling way;
@@ -48,8 +54,8 @@ You will do at least three types of writing in this course: __exercises__, __dra
 
 ##Required Texts
 
-- The syllabus, course description, requirements, readings, assignments, and links to resources are available on [__CourseWorks__](https://courseworks.columbia.edu/). 
- 
+- The syllabus, course description, requirements, readings, assignments, and links to resources are available on [__CourseWorks__](https://courseworks.columbia.edu/).
+
 - Additional readings will be assigned from [__The Morningside Review__](http://www.morningsidereview.org), which is the journal of selected essays from Columbia’s Undergraduate Writing Program.
 
 - You might need to consult an up-to-date style manual for current MLA citation formatting conventions. Here is an online version: [__The OnlineWriting Lab from Purdue University__](https://owl.english.purdue.edu/owl/resource/747/01/).
@@ -88,21 +94,18 @@ More than six unexcused absences will result in an automatic F course grade.
 ###Lateness
 Lateness is disruptive to the entire class. __If you arrive once class is underway or depart before the class session has ended, you will be marked as late__. Two latenesses count as one absence in calculating your final course grade.
 
-###No-Screens Policy
-To avoid distractions from workshops and exercises, no screens (laptops, tablets, smartphones, etc.) are allowed in the classroom.
-
 ###Conferences and Office Hours
-You will have at least two 20-30 minute conferences with me during the semester, although I may require more. These conferences give you the opportunity to discuss your ideas, to work through your drafts, to prepare for presentations, or to revise your essays. You are welcome to come and see me in office hours or by appointment to discuss any aspect of the course.
+You will have two 20-30 minute conferences with me during the semester. These conferences give you the opportunity to discuss your ideas, to work through your drafts, to prepare for presentations, or to revise your essays. You are welcome to come and see me in office hours or by appointment to discuss any aspect of the course.
 
 ###Assessment and Response
 
-During the first three progressions, I will write marginal comments and typed end-comments to one preliminary draft as well as your final draft. For your final progression, you will receive end-comments on your final draft that respond to the essay as well as your development over the course of the semester. 
+During the first three progressions, I will write marginal comments and typed end-comments to one preliminary draft as well as your final draft. For your final progression, you will receive end-comments on your final draft that respond to the essay as well as your development over the course of the semester.
 
 My comments are designed to help you assess your draft and prioritize goals for the next stage of your writing. Just as important, my comments will offer you practical strategies designed to further your ongoing development as a writer.  If you have any questions about my comments, please make an appointment with me to review them.
 
 ###Essay Grading
 
-Each final essay will receive a number grade out of 100 possible points. At the end of the semester, I will adjust these numbers for each essay’s weight, total them, round to the tenth place, and assign a course grade as follows: 
+Each final essay will receive a number grade out of 100 possible points. At the end of the semester, I will adjust these numbers for each essay’s weight, total them, round to the tenth place, and assign a course grade as follows:
 
 |Course grade|Number grades|
 |:----------:|:------------|
@@ -118,11 +121,13 @@ Each final essay will receive a number grade out of 100 possible points. At the 
 |D|59.5-69.4|
 |F|0-59.4|
 
-- “__A__” (_100_-_89_) essays not only fulfill the goals of the progression, but push beyond those goals in surprising ways. This is more likely to be possible when the writer has found something compelling to write about and has taken great care to attend to his or her language and form. __A__ essays reflect excellence and artistry. 
+- “__A__” (_100_-_90_) essays not only fulfill the goals of the progression, but push beyond those goals in surprising ways. This is more likely to be possible when the writer has found something compelling to write about and has taken great care to attend to his or her language and form. __A__ essays reflect excellence and artistry.
 
-- “__B__” (_89_-_79_) essays come in two basic varieties: the “solid B” and the “striving B.”  The solid B is a good, competent paper. The striving B may excel in certain areas, but it is sufficiently uneven to preclude it from receiving an __A__. __B__ essays reflect superior understanding of the progression’s goals.
+- “__B+__” (_89_-_87_) essays may excel in certain areas and reflect superior understanding of the progression’s goals, but are sufficiently uneven to preclude it from receiving an __A__.
 
-- “__C__” (_79_-_69_) essays reflect struggle in fulfilling the progression’s goals. This kind of essay may show a fair amount of work, but it does not come together well enough to be a competent paper.
+- "__B__” (_80_-_87_) essays are good, competent papers.
+
+- “__C__” (_79_-_69_) essays reflect struggle in fulfilling the progression’s goals. These kinds of essays may show a fair amount of work, but do not come together well enough to be competent papers.
 
 - “__D__” (_69_-_59_) essays may appear to have been hastily written, incomplete, or thrown together.
 
@@ -130,11 +135,9 @@ Each final essay will receive a number grade out of 100 possible points. At the 
 
 ###Late and Missed Assignments, Drafts, and Final Essays
 
-Late exercises and preliminary drafts may not receive feedback.
+Keeping deadlines is an important aspect of this class, as it gives you the time to develop and revise your ideas, and it gives me the time to offer you productive feedback. If you turn in work late, I may not be able to provide you feedback.
 
-I will not accept any late exercises, and I will not give extensions for typical problems such as computer and printer crashes, conflicts with other course assignments or extracurricular activities, oversleeping or other personal difficulties. If your essay draft is late, I will respond to it if I can, but I will not extend your revision time, making it much harder for you to do well on the essay.
-
-If you do not hand in a preliminary draft at least 48 hours to the deadline for the final draft, your final essay grade will be lowered by one whole grade (e.g. from a B to a C).  Your grade on the final essay will be lowered by 1/3 (e.g. from a B- to a C+) beginning the minute after the deadline. The grade will continue to go down by a third every 24 hours until the essay is submitted.  All work must be submitted to CourseWorks by the deadline in order to be considered on time. Failure to submit the final draft of any essay by the end of the semester will result in an automatic failure for the course.
+Feedback and revision are critical components of this class. If you do not hand in a preliminary draft at least 48 hours before the deadline of the final draft, your final essay grade will be lowered by one whole grade (e.g. from a B to a C). Your grade on the final essay will be lowered by 1/3 (e.g. from a B- to a C+) beginning the minute after its deadline. The grade will continue to go down by a third every 24 hours until the essay is submitted. All work must be submitted to Courseworks by the deadline in order to be considered on time. According to the policy of the Undergraduate Writing Program, failure to submit the final draft of any essay by the end of the semester will result in an automatic failure for the course.
 
 ###Final Grades
 Your course work for the semester will be weighted as follows:
@@ -159,9 +162,9 @@ University Writing will provide you with strategies for working ethically and ac
 - “_Using data gathered by another, claiming it as your own_ – even if you submit an analysis of the data that is yours alone.”
 
 Final drafts that contain plagiarism will receive a zero, may result in failure of the course, and the case will be reported to the director of the [Undergraduate Writing Program and the Office of Judicial Affairs and Community Standards](http://www.studentaffairs.columbia.edu/judicialaffairs/index.php). That office initiates the dean’s discipline process and determines whether to apply sanctions, which range from a warning to expulsion from the university.
- 
+
 ###The Writing Center
-At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you can receive free individual consultations on your writing at any stage in the writing process, including brainstorming. Writing consultants work with all members of the Columbia community on any academic or nonacademic writing. You can make an appointment and view drop in hours on their website. 
+At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you can receive free individual consultations on your writing at any stage in the writing process, including brainstorming. Writing consultants work with all members of the Columbia community on any academic or nonacademic writing. You can make an appointment and view drop in hours on their website.
 
 ###Other Support Services
 
@@ -170,267 +173,228 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - _Counseling and Psychological Services_: [The Office of Counseling and Psychological Services (CPS)](http://www.health.columbia.edu/cps/index.html) provides many kinds of support for student wellness and academic success.
 
 #Course Calendar
-	   
+
 ##Progression One: Critical Response   
 
-###I. __Wednesday 1/20__: _Intepretive Problems_
+###1. __Tuesday 9/6__: _Active and Close Reading_
 - In-class materials:
-	- __Anonymous__, _The fox and the knight_ (from _Sir Gawain and the Green Knight_)
 	- _Syllabus_
+	- **Kain**, Patricia. "How to Do a Close Reading"
+	- [some kind of passage to close read in class]
 
-###II. __Monday 1/25__: _Hermeneutic Circle_
-- Assigned readings:
-	- __Wallace__, David Foster, _Tense Present. Democracy, English, and the Wars over Usage_
-- Assigned exercise:
-	- __Summary__ and __one interpretive problem__ of _Tense Present_ (~400 w.)
+###2. __Thursday 9/8__: _Identifying Interpretive Problems_
+- Primary reading:
+	- **Grandin**, Temple. "Animals are not things."
+- Exercise 1 due:
+	- __Annotate__, __summarize__ and __look closely at one passage__ from "Animals are not things" (~400 w.)
 - In-class materials:
-	- __Ritzenberg__, Aaron, _Rhetorical Elements_
 	- Prompt for the _Critical Response Essay_ (P1)
-
-###III. __Wednesday 1/27__: _Argumentative Scaffolding_
-- Assigned readings:
-	- __Booth__, _Wayne C._, Gregory G. __Colomb__, and Joseph M. __Williams__, _From Questions to Problems_ (from _The Craft of Research_)
-- Assigned exercise:
-	- A developed __hermeneutic circle__ (~400 w.)
-- In-class materials:
+	- __Mendelsohn__, Sue. "9 Ways to Generate an Interpretive Problem"
 	- __Little Red Schoolhouse__, _What Is a Problem?_
 
-###IV. __Monday 2/1__: _Good Manners and Reader-Based Prose_
-- Assigned readings:
-	- __Klempay__, Jack, _The Definitively Non-Standard English of David Foster Wallace_, (from [The Morningside Review](http://morningsidereview.org/essay/the-definitively-non-standard-english-of-david-foster-wallace/))
-- Assigned exercise:
-	- __!__ - __Exploratory draft__ for __P1__ (~800-1000 w.)
-- In-class materials:
-	- __Flower__, Linda, _Writer-Based Prose: A Cognitive Basis for Problems in Writing_
-	- __Williams__, Joseph M. and  Joseph __Bizup__, _Understanding Style_ (from _Style: Lessons in Clarity and Grace_)
+###3. __Tuesday 9/13__: _Developing Interpretive Problems_
+- Primary reading:
+	- **Singer**, Peter. "Speciesism."
+- Craft reading:
+	- **Harris**, Joseph. "Coming to Terms"
+- Exercise 2 due:
+	- "Come to terms" with Singer and find one interpretive problem in the text
+-	In-class materials:
+	- "Rhetorical Terms: Observations, Claims, and Warrants"
 
-###V. __Wednesday 2/3__: _Telling It Right 1: Actions and Characters_
-- Assigned readings:
-	- __Williams__, Joseph M. and  Joseph __Bizup__, _Actions_ and _Characters_ (from _Style: Lessons in Clarity and Grace_)
-- Assigned exercise: 
+###4. __Thursday 9/15__: _Structuring an Essay_
+- TMR readings:
+	- [find two TMR essay, maybe do david foster wallace one?]
+- Exploratory Draft Due:
+	- __!__ - __Exploratory draft__ for __P1__ (~800-1000 w.)
+- In class materials:
+	- [some kind of structure handout?]
+
+###5. __Tuesday 9/20__: _Reader-Based Writing_
+- Craft Reading:
+	- __Flower__, Linda, _Writer-Based Prose: A Cognitive Basis for Problems in Writing_
+	- __Orwell__, George. _Politics and the English Language_
+- Assigned exercise:
 	- First revision: __two formal paragraphs__ and a revised __scaffolding__ (~700 w.)
 - In-class materials:
 	- __Orwell__, George, _Politics and the English Language_
 
-##__!__ - __Formal draft__ for __P1__ (~1000 w.) due __tomorrow__ (Thursday 2/4)!
+##__!__ - __Formal draft__ for __P1__ (~1000 w.) due __tomorrow__ (Wednesday, 9/21)!
 
-###VI. __Monday 2/8__: _Telling It Right 2: Surprising Your Reader_
-- Assigned readings:
-	- __Williams__, Joseph M. and Joseph __Bizup__, _Cohesion and Coherence_ (from _Style: Lessons in Clarity and Grace_)
-	- __Another essay__ from the _Critical response_ section of [The Morningside Review](http://morningsidereview.org/)
-- Assigned exercise:
-	- _Peer review_ of your peer's _formal draft_ (~300 w.)
-
-###VII. __Wednesday 2/10__: _Introducing Interpretations_
-- Assigned readings:
-	- __Williams__, Joseph M. and Joseph __Bizup__, _Motivation_ (from _Style: Lessons in Clarity and Grace_)
-	- __Sontag__, Susan, _Against Interpretation_
-	- __Another essay__ from the _Critical response_ section of [The Morningside Review](http://morningsidereview.org/)
-- Assigned exercise:
-	- Second revision (annotated): addressing two __higher order concerns__ (~700 W.)
+###6. __Thursday 9/22__: _Revising_
+- Craft reading:
+	__Williams__, Joseph M. and  Joseph __Bizup__, _Understanding Style_ (from _Style: Lessons in Clarity and Grace_)
 - In-class materials:
-	- __Little Red Schoolhouse__ on _Introductions_
+	- "Radical Revision"
 
 ##Progression Two: Conversation
 
-###VIII. __Monday, 2/15__: _Unending Conversations_
+###7. __Tuesday 9/27__: _The Start of a Conversation_
+- Primary Reading:
+	- **Turing**, Alan. "Computing Machinery and Intelligence"
+- Exercise 1 [homework or classwork?]
+	- Select a difficult passage, write your best interpretation, and brainstorm why the passage is difficult to unpack (~200 w.)
+- In class materials:
+		- Prompt for the _Conversation Essay_ (P2)
 
-- Assigned readings:
+###8. __Thursday 9/29__: _Challenges in a Conversation_
+- Primary Reading:
+	- **Searle**, John. "Minds, Brains, Programs."
+- Exercise 2 [homework or classwork?]:
+ 	- Summarize Searle's argument and point to where he differs from Turing
+- Craft Reading:
 	- __Graff__, Gerald, and __Birkenstein__, Cathy, _Entering the Conversation_ (from _They Say / I Say_)
+
+##__!__ - __Final draft__ for __P1__ (1500-1800 w.) due __Friday__ (9/30)!
+
+###9. __Tuesday 10/4__: _A Different Direction_
+- Primary Reading:
+	- **Hofstader**, Douglas. "On the Seeming Paradox of Mechanized Creativity."
+- Craft Reading:
+	- __Graff__, Gerald, and __Birkenstein__, Cathy, _Yes/No/Okay, But_ (from _They Say / I Say_)
+- Exercise 3:
+	-  Select a passage or idea from Hofstader and compare to either Turing or Searle (or both)
 - In-class materials:
-	- __Wall__, Jeff, _Dead Troops Talk_
-    	- __Nussbaum__, Martha, _Compassion and Terror_
-	- __Sontag__, Susan, _Looking at War_
-	- Prompt for the _Conversation Essay_ (P2)
+	-	[?]
 
-##__!__ - __Final draft__ for __P1__ (1500-1800 w.) due this __Tuesday__ (2/16)!
-
-###IX. __Wednesday, 2/17__: _Focus on the Exhibit_
-
-- Assigned readings:
-	- __Nussbaum__, Martha, _Compassion and Terror_
-    	- __Hirsch__, Marianne, _Surviving Images_
-    	- __Sontag__, Susan, _Looking at War_
-- Assigned exercise:
-	-  Three texts in conversation and potential exhibits (~200 w.)
-- In-class materials:
-	- __Barthes__, Roland, _The Harcourt Actor_, _Romans in the Movies_, _Garbo's Face_, _Shock Photos_ (from _Mythologies_)	
-
-###X. __Monday, 2/22__: _Doing Things With Sources_
-
-- Assigned readings:
-	- __Graff__, Gerald, and __Birkenstein__, Cathy, _They Say_ (from _They Say / I Say_)
-- Assigned exercise:
-	-  __!__ - __Exploratory draft__ for __P2__ (~1000-1200 w.)
+###10. __Thursday 10/6__: _Conversations Intersecting_
+- Primary Reading:
+	- **Dennett**, Daniel. "Self as a center of narrative gravity."
+- Craft Reading:
+	- _Graff__, Gerald, and __Birkenstein__, Cathy,"So what, who cares?"
+- Exercise 4:
+	- Select a passage from Dennett and compare to either Turing, Searle, or Hofstader
 - In-class materials:
 	- __Bizup__, Joseph, _Developing a Vocabulary for Talking About Sources (BEAM)_
-	- __Girma__, Ida Noel, _Let Me Rest a Little, Humankind_ (from The Morningside Review)
 
-###XI. __Wednesday, 2/24__: _From Quoting to Paraphrasing_
-
-- Assigned readings:
-	- __Percy__, Walker, _The Loss of the Creature_	
-	- __Harris__, Joseph, _Coming to Terms_ (from _Rewriting: How To Do Things With Texts_)
-- Assigned exercise:
-	-  First revision: __two formal paragraphs__ and a __revised scaffolding__ - with BEAM vocabulary (~750 w.)
+###11. __Tuesday 10/11__: _Using Sources_
+- Exploratory Draft Due:
+	-  __!__ - __Exploratory draft__ for __P2__ (~1000-1200 w.)
 - In-class materials:
-	- __Colomb__, Gregory G. and __Williams__, Joseph M., _Quotation, Paraphrase, Citation_ (adapted)
-	- __Howard__, Rebecca Moore, Tanya K. __Rodrigue__, and Tricia C. __Serviss__, _Writing from Sources, Writing from Sentences_
+	- __Colomb__, Gregory G. and __Williams__, Joseph M., _Quotation, Paraphrase, Citation_ (adapted) [check?]
+	- __Howard__, Rebecca Moore, Tanya K. __Rodrigue__, and Tricia C. __Serviss__, _Writing from Sources, Writing from Sentences_ [check?]
 
-###XII. __Monday, 2/29__: _Effective Transitions_
 
-- Assigned readings:
-	- __Golden__, Abigail, _Losing the Accidental: Holocaust Remembrance in the Third Generation_ (from [_The Morningside Review_](http://morningsidereview.org/essay/losing-the-accidental-holocaust-remembrance-in-the-third-generation/))
+###12. __Thursday 10/13__: _Connecting Sentences and Connecting Ideas_
+- TMR Readings:
+	- [find tmr example conversation essay]
+- Craft Reading:
 	- __Graff__, Gerald, and __Birkenstein__, Cathy, _As a Result_ (from _They Say / I Say_)
-- Assigned exercise:
-	-  Second revision (annotated): with a revised use of your __sources__ (~750 w.)
 - In-class materials:
-	- __Žižek__, Slavoj, _Analysis of They Live_, from [The Pervert's Guide to Ideology](youtu.be/18qD9hmU9xg)
 	- __Weber__, Ryan and Karl __Stolley__, _Writing Transitions_ (from __OWL__ at Purdue)
 
-##__!__ - __Formal draft__ for __P2__ (800-1000 w.) due __tomorrow__ (Tuesday 3/1)!
+##__!__ - __Formal draft__ for __P2__ (800-1000 w.) due (Tuesday 10/18)!
 
-###XIII. __Wednesday 3/2__: _Revision as Conversation_
-
-- Assigned readings:
+###13. __Tuesday 10/18__: _Revision as Conversation_
+- Craft Readings:
 	- __Harris__, Joseph,  and _Taking an Approach_ and _Revising_ (from _Rewriting: How To Do Things With Texts_)
-	- __Richardson__, Jacob, _Looking at War, Fishing for Commitment_ (from [The Morningside Review](http://morningsidereview.org/essay/looking-at-war-fishing-for-commitment/))
 -  In-class materials:
-	- __Ritzenberg__, Aaron, _Using Sources MLA Style (ICE)_
+	- [Exercises with revising formal drafts]
 
-###XIV. __Monday 3/7__: _Constructing Positive Feedback_ 
-
-- Assigned exercise:
-
+###14. __Thursday 10/20__: _Constructing Positive Feedback_
+- Craft Reading:
+	-	"John Updike's 6 Rules for Constructive Criticism"
+- Peer Review:
 	- _Peer review_ of your peer's formal draft (~300 w.)
 
 ##Progression Three: Research
 
-###XV. __Wednesday 3/9__: _Seed Texts, Seed Questions_
+###15. __Tuesday 10/25__: _Seed Texts, Seed Questions_
 
-- Assigned readings:
-	- __Cohen__, Jeffrey Jerome, _Monster Culture: Seven Theses_
-- Assigned exercise:
-	- Seed questions for the texts of __P3__, __P2__ and __P1__ (~300 w.)
+- Assigned reading:
+	- __Hayles__, Katherine. _How We Became Posthuman_
 - In-class materials:
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Thinking in Print_ (from _The Craft of Research_)
-
-##__3/14-3/18__: __Spring recess__
 
 ##__!__ - __Final Draft__ for __P2__ (1800-2100 w.) due __Sunday__ (3/20)!
 
-###XVI. __Monday 3/21__: _Reading Plans_
+###16. __Thursday 10/27__: _Reading Plans_
 
-- Assigned readings:
+- Craft Readings:
+	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Thinking in Print_ (from _The Craft of Research_)
 	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Research, Researchers, and Readers_ (from _The Craft of Research_)
-	- __Maier-Balough__, Elizabeth, _Maternal Integrity and the Fetal Image: Ultrasound in the Abortion Rights Debate_ (From [The Morningside Review](http://morningsidereview.org/essay/maternal-integrity-and-the-fetal-image-ultrasound-in-the-abortion-rights-debate/))
-- Assigned exercise:
-	- A research project involving the __seed text__ (~300 w.)
+- TMR Reading:
+	- __Maier-Balough__, Elizabeth, _Maternal Integrity and the Fetal Image: Ultrasound in the Abortion Rights Debate_ (From [The Morningside Review](http://morningsidereview.org/essay/maternal-integrity-and-the-fetal-image-ultrasound-in-the-abortion-rights-debate/)) [or find another kind]
+- Exercise 1 due:
+	- Brainstorm research topic
+- In-class Materials
+	[?]
 
-###XVII. __Wednesday 3/23__: _New Sources_
+###17. __Tuesday 11/1__: _New Sources_
 
 - __!__ __Library Session__
 
-- Assigned readings:
+- Craft Reading:
 	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Engaging Sources_ (from _The Craft of Research_)
+- TMR Reading:
 	- __Hussey__, Clarkie, _Spouses but Strangers: English World War II Marriages After Separation_ (from [The Morningside Review](http://morningsidereview.org/essay/spouses-but-strangers-english-world-war-ii-marriages-after-separation/))
-- Assigned exercise:
-	- Questions for your sources, and questions about finding them (~300 w.)
+- Exercise 2 due:
+	- Choose research topic and brainstorm the kinds of sources you will need/questions about how to find them
 
-###XVIII. __Monday 3/28__: _Writing Plans_
-
-- Assigned readings:
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Asking Questions, Finding Answers_ (from _The Craft of Research_) 
+###18. __Thursday 11/3__: _Writing Plans_
+- Craft Reading:
+	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Asking Questions, Finding Answers_ (from _The Craft of Research_
+- TMR Reading:
 	- __Pelessone__, Marc, _The Problem with Emotion_ (From [The Morningside Review](http://morningsidereview.org/essay/the-problem-with-emotion/))
-- Assigned exercise:
+- Exercise 2 due:
 	- Annotated bibliography (~600 w.)
 
-###XIX. __Wednesday 3/30__: _Project Presentations 1: Drafting_
-
-- Assigned readings:
+###19. __Tuesday 11/10__: _Project Presentations 1: Drafting_
+- Craft readings:
 	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Drafting Your Report_ (from _The Craft of Research_)
-- Assigned exercise:
+- Exploratory Draft Due:
 	- __!__ - __Exploratory draft__ for __P3__ (~1200-1500 w.)
 
-###XX. __Monday 4/4__: _Project Presentations 2: Revising_
+###20. __Thursday 11/15__: _Project Presentations 2: Revising_
 
 - Assigned readings:
 	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Revising Your Organization and Argument_ (from _The Craft of Research_)
 - Assigned exercise:
-	- First revision: __two formal paragraphs__ (~700 w.) and a revised __plan__
+	- First revision: write __two formal paragraphs__ (~700 w.) and a revised __plan__
 
-###XXI. __Wednesday 4/6__: _First and Last Words_
-
+###21. __Tuesday 11/17__: _First and Last Words_
 - Assigned readings:
 	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Introductions and Conclusions_ (from _The Craft of Research_)
 - Assigned exercise:
-	- Second revision: __two formal paragraphs__ and a revised __scaffolding__ (~750 w.)
+	- Second revision: write __two formal paragraphs__ and a revised __scaffolding__ (~750 w.)
 
-###XXII. __Monday 4/11__: _A Workshop for Style_
-
+###22. __Tuesday 11/22__: _A Workshop for Style_
 - Assigned readings:
 	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Revising Style: Telling your Story Clearly_ (from _The Craft of Research_)
-- Assigned exercise: 
+- Formal draft due:
 	- __!__ - __Formal draft__ for __P3__ (~1800-2000 w.)
-
-###XXIII __Wednesday 4/13__: _Writer's Voice, Reader's Presence_
-
-- Assigned readings:
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _The Ethics of Research_ (from _The Craft of Research_)
-	- __Lopate__, Philip, _Making Your Essay Your Own_ (video, from [The Morningside Review](http://morningsidereview.org/essay/phillip-lopate-on-making-your-essay-your-own-2/)
-- Assigned exercise:
-	- _Peer Review_ of your peer's _formal draft_ (~400 w.)
 
 ##Progression Four: The Op-Ed
 
-###XXIV. __Monday 4/18__: _Writing Beyond the University_
+###23. __Tuesday 11/29__: _Writing Beyond the University_
 
-- Assigned readings:
+- Craft readings:
 	- __Orwell__, George, _Why I Write_
-	- Two op-eds from the _Daily Comment_ section of [The New Yorker](http://www.newyorker.com/news/daily-comment), or from another publication of your choice
 	- __Gordon__, Glenn Michael, _Reaching Beyond the University: Writing the Op-Ed_ (from [The Mornigside Review](http://morningsidereview.org/essay/reaching-beyond-the-university-writing-the-op-ed/))
 	- __Columbia UWP__, _Going Public: Writing and Publishing the Op-Ed_ (published Op-Eds, Spring 2015)
-- Assigned exercise:
+- Example Op-Eds:
+	- [find one or two data science related op-eds]
+- Exercise 1:
 	- Claims, motives, and further questions for your first three essays (~300 w.)
 
-###XXV. __Wednesday 4/20__: _Reaching a New Public_
+###24. __Thursday 12/1__: _Reaching a New Public_
 
-- Assigned readings:
-	- __Melkstavik__, Sverre, _A Call for Understanding_ (from [The Morningside Review](http://morningsidereview.org/wp-content/uploads/2012/11/op-ed-Sverre-Melkstavik-Norwegian-American-Weekly-May-4-2012.pdf)]
-	- __Melkstavik__, Sverre, _The Morals of a Madman_ (from [The Morningside Review](http://morningsidereview.org/?essay=the-morals-of-a-madman))
-- In-class materials: 
-	- __Wallack__, Nicole B., _Effective Revision as Radical Revision_
-- Assigned exercise:
-	- A project for a radical revision of one of your essays (~300 w.)
+- TMR Readings:
+	- [find 2 TMR op-eds]
+- Exercise 2:
+	- Brainstorm op-ed topics
 
-####__!__ - __Event__: _Going Public: Writing and Publishing the Op-Ed_
-- Friday, April 22nd 1p.m.-2:30p.m.
-- _At the event, attendees learn how to craft an op-ed, revise material from a former essay, and submit their work for publication._
+##__!__ __Final draft__ for __P3__ (2500-3000 w.) due __this Sunday__ (12/4)!
 
-##__!__ __Final draft__ for __P3__ (2500-3000 w.) due __this Sunday__ (4/24)!
-
-###XXVI. __Monday 4/25__: _Reaching a New Reader_
-
+###25. __Tuesday 12/6__:
 - Assigned readings:
 	- __Williams__, Joseph M. and  Joseph __Bizup__, _The Ethics of Style_ (from _Style: Lessons in Clarity and Grace_)
-- Assigned exercise:
+- Exercise 3:
 	- __!__ - __Exploratory draft__ and __scaffolding__ (~600 w.)
 
-###XXVII. __Wednesday 4/27__: _Surprising a New Reader_
+####__!__ - __Event__: _Going Public: Writing and Publishing the Op-Ed_
+- [date/time]
+- _At the event, attendees learn how to craft an op-ed, revise material from a former essay, and submit their work for publication._
 
-- Assigned readings:
-	- __Columbia UWP__, _Going Public_ (published Op-Eds, Fall 2014)
-	- Two op-eds from the _Daily Comment_ section of [The New Yorker](http://www.newyorker.com/news/daily-comment), or from another publication of your choice
-- In-class materials:
-	- __Gordon__, Michael Glenn, _An Op-Ed Checklist_
-- Assigned exercise:
-	- First revision: __two formal paragraphs__ and a revised scaffolding (~500 w.)
+###26. __Thursday 12/8__: _Last Day of Class_
 
-###XXVIII. __Monday 5/2__: _Going Public_
-
-- In-class materials:
-	- __Ozick__, Cynthia, _Public Intellectuals_
-- Assigned exercise:
-	- __!__ - __Formal draft__ for __P4__ (~750 w.)
-
-##__!__ - __Final draft__ for __P4__ due __Friday__ (5/6)!
+##__!__ - __Final draft__ for __P4__ due __Monday__ (12/12)!
