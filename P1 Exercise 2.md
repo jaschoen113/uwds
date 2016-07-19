@@ -2,9 +2,9 @@
 
 - Word limit: 400 w.
 
-1. First, read Joseph Harris' "Coming to Terms."
+1. First, **read** Joseph Harris' "Coming to Terms."
 
-2. Apply Harris' process as you read Singer's "Speciesism."
+2. **Apply** Harris' process as you read Singer's "Speciesism."
 
   1. Read "Speciesism" once through, annotating along the way.
   2. Put the essay away.
@@ -12,4 +12,4 @@
   4. Pull out the essay again.
   5. Write “an account of the text that makes use of paraphrase and direct quotation.” (1-2 paragraphs)
 
-3. Select one passage in the Singer where you see one of the 9 Interpretive Problems we discussed in class (see handout). Identify the problem, map the problem unto the passage, and propose a possible claim (~100 words). 
+3. Select one passage in the Singer where you see one of the 9 Interpretive Problems we discussed in class (see handout). **Identify** the problem, **map** the problem unto the passage, and **propose** a possible claim (~100 words). 
