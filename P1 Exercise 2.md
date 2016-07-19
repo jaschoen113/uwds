@@ -4,7 +4,7 @@
 
 1. First, read Joseph Harris' "Coming to Terms."
 
-2. Apply Harris' reading process as you read Singer's "Speciesism."
+2. Apply Harris' process as you read Singer's "Speciesism."
 
   1. Read "Speciesism" once through, annotating along the way.
   2. Put the essay away.
