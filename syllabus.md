@@ -16,11 +16,11 @@ date: Fall 2016
 #Syllabus
 ##Course Description
 
-Do animals feel pain, fear, and joy like humans do? Will machines ever be able to think like humans do? What does it mean to feel, to think, and, moreover, to be human? How does technology narrow, extend, reveal, or blur the boundaries between the human and non-human? Might technology transform humans into new creatures? Can a technology become a “living” and “thinking” entity itself? How should we treat future animals, machines, humans, and cyborgs in a world where the human is not the only "feeling" and "thinking" creature?
+Can an animal feel pain, joy, and fear as a human does? Will a machine ever be able to think like a human can? What does it mean to feel, to think, and, moreover, to be human? How does technology narrow, extend, reveal, or blur the boundaries between the human and non-human? Might technology transform humans into new creatures? Can a technology become a “living” and “thinking” being itself? How should we treat future animals, machines, humans, and cyborgs in a world where the human is not the only "feeling" and "thinking" creature?
 
-University Writing is designed to help undergraduates read and write essays in order to participate in the academic conversations that form our intellectual community. In our section, we will be engaging with conversations around animal, machine, and human intelligence. We will be exploring the questions above (and more) as we read essential essays that have shaped these conversations. These essays and our discussions will then provide fodder for your own writing.
+These are some the questions we will be exploring in our data science-themed University Writing class. University Writing is designed to help undergraduates read and write essays in order to participate in the academic conversations that form our intellectual community. In our section, we will be engaging with particular conversations about animal, machine, and human intelligence. We will be exploring the questions above (and more) as we read essential essays that have shaped these conversations. These essays and our discussions will then provide fodder for your own writing.
 
-However, this class does not presume that students will arrive with any background or identified interest in the data sciences and data engineering. Above all, our focus is to develop as writers and readers. Together, we will study how scholars make and support their arguments. Our readings will include academic essays and book chapters, as well as other scholarly and popular texts, all addressing questions of technology and data sciences in some way. In the process of writing academic essays, we will practice the same kind of critical analysis, revision, collaboration, and research skills that these scholars use in their work every day. The main goal for this course is for you to emerge as a more confident reader and writer, capable of writing clear, persuasive prose – skills that will serve you no matter what field you choose.
+Though our readings will draw from debates in science and technology, this class does not presume that students will arrive with any background or identified interest in the data sciences and data engineering. Above all, our focus is to develop as writers and readers. Together, we will study how scholars make and support their arguments. Our readings will include academic essays and book chapters, as well as other scholarly and popular texts, all addressing questions of technology and data sciences in some way. In the process of writing academic essays, we will practice the same kind of critical analysis, revision, collaboration, and research skills that these scholars use in their work every day. The main goal for this course is for you to emerge as a more confident reader and writer, capable of writing clear, persuasive prose – skills that will serve you no matter what field you choose.
 
  We will give special attention to the practices of close reading, rhetorical analysis, research, collaboration, and substantive revision. Students will learn that writing is a process of continual refinement of ideas and their expression. Rather than approaching writing as an innate talent, this course will teach writing as a unique, learned skill that can be practiced and developed.  Over the course of the semester, you will read and discuss texts from a number of fields, complete regular informal reading and writing exercises, write several longer essays, and prepare an editorial for a public audience.
 
@@ -174,7 +174,9 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 #Course Calendar
 
-##Progression One: Critical Response   
+##Progression One: Critical Response Essay
+
+##Unsettling the boundary between human and animal
 
 ###1. __Tuesday 9/6__: _Active and Close Reading_
 - In-class materials:
@@ -204,9 +206,9 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 ###4. __Thursday 9/15__: _Structuring an Essay_
 - TMR readings:
-	- [find two TMR essay, maybe do david foster wallace one?]
+  -  [find two TMR essay, maybe do david foster wallace one?]
 - Exploratory Draft Due:
-	- __!__ - __Exploratory draft__ for __P1__ (~800-1000 w.)
+	- __Exploratory draft__ for __P1__ (~800-1000 w.)
 - In class materials:
 	- [some kind of structure handout?]
 
@@ -214,20 +216,22 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Craft Reading:
 	- __Flower__, Linda, _Writer-Based Prose: A Cognitive Basis for Problems in Writing_
 	- __Orwell__, George. _Politics and the English Language_
-- Assigned exercise:
-	- First revision: __two formal paragraphs__ and a revised __scaffolding__ (~700 w.)
+- Revision due:
+	- Revise __two formal paragraphs__ and __scaffolding__ (~700 w.)
 - In-class materials:
-	- __Orwell__, George, _Politics and the English Language_
+  [?]
 
 ##__!__ - __Formal draft__ for __P1__ (~1000 w.) due __tomorrow__ (Wednesday, 9/21)!
 
 ###6. __Thursday 9/22__: _Revising_
 - Craft reading:
-	__Williams__, Joseph M. and  Joseph __Bizup__, _Understanding Style_ (from _Style: Lessons in Clarity and Grace_)
+	- __Williams__, Joseph M. and  Joseph __Bizup__, _Understanding Style_ (from _Style: Lessons in Clarity and Grace_)
 - In-class materials:
 	- "Radical Revision"
 
 ##Progression Two: Conversation
+
+##Probing the possibility of artificial intelligence
 
 ###7. __Tuesday 9/27__: _The Start of a Conversation_
 - Primary Reading:
@@ -235,19 +239,21 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Exercise 1 [homework or classwork?]
 	- Select a difficult passage, write your best interpretation, and brainstorm why the passage is difficult to unpack (~200 w.)
 - In class materials:
-		- Prompt for the _Conversation Essay_ (P2)
+	- Prompt for the _Conversation Essay_ (P2)
 
 ###8. __Thursday 9/29__: _Challenges in a Conversation_
 - Primary Reading:
 	- **Searle**, John. "Minds, Brains, Programs."
+- Craft Reading:
+  - __Graff__, Gerald, and __Birkenstein__, Cathy, _Entering the Conversation_ (from _They Say / I Say_)
 - Exercise 2 [homework or classwork?]:
  	- Summarize Searle's argument and point to where he differs from Turing
-- Craft Reading:
-	- __Graff__, Gerald, and __Birkenstein__, Cathy, _Entering the Conversation_ (from _They Say / I Say_)
+- In-class materials:
+  - [?]
 
 ##__!__ - __Final draft__ for __P1__ (1500-1800 w.) due __Friday__ (9/30)!
 
-###9. __Tuesday 10/4__: _A Different Direction_
+###9. __Tuesday 10/4__: _Branches in the Conversation_
 - Primary Reading:
 	- **Hofstader**, Douglas. "On the Seeming Paradox of Mechanized Creativity."
 - Craft Reading:
@@ -269,7 +275,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 ###11. __Tuesday 10/11__: _Using Sources_
 - Exploratory Draft Due:
-	-  __!__ - __Exploratory draft__ for __P2__ (~1000-1200 w.)
+	- __Exploratory draft__ for __P2__ (~1000-1200 w.)
 - In-class materials:
 	- __Colomb__, Gregory G. and __Williams__, Joseph M., _Quotation, Paraphrase, Citation_ (adapted) [check?]
 	- __Howard__, Rebecca Moore, Tanya K. __Rodrigue__, and Tricia C. __Serviss__, _Writing from Sources, Writing from Sentences_ [check?]
@@ -299,13 +305,16 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 ##Progression Three: Research
 
+##Exploring the landscape of the posthuman
+
 ###15. __Tuesday 10/25__: _Seed Texts, Seed Questions_
 
 - Assigned reading:
 	- __Hayles__, Katherine. _How We Became Posthuman_
 - In-class materials:
+  -[?]
 
-##__!__ - __Final Draft__ for __P2__ (1800-2100 w.) due __Sunday__ (3/20)!
+##__!__ - __Final Draft__ for __P2__ (1800-2100 w.) due __Wednesday__ (10/26)!
 
 ###16. __Thursday 10/27__: _Reading Plans_
 
@@ -314,14 +323,14 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Research, Researchers, and Readers_ (from _The Craft of Research_)
 - TMR Reading:
 	- __Maier-Balough__, Elizabeth, _Maternal Integrity and the Fetal Image: Ultrasound in the Abortion Rights Debate_ (From [The Morningside Review](http://morningsidereview.org/essay/maternal-integrity-and-the-fetal-image-ultrasound-in-the-abortion-rights-debate/)) [or find another kind]
-- Exercise 1 due:
+- Exercise 1 [in class?]:
 	- Brainstorm research topic
 - In-class Materials
 	[?]
 
 ###17. __Tuesday 11/1__: _New Sources_
 
-- __!__ __Library Session__
+__!__ __Library Session__
 
 - Craft Reading:
 	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Engaging Sources_ (from _The Craft of Research_)
@@ -342,7 +351,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Craft readings:
 	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Drafting Your Report_ (from _The Craft of Research_)
 - Exploratory Draft Due:
-	- __!__ - __Exploratory draft__ for __P3__ (~1200-1500 w.)
+	- __Exploratory draft__ for __P3__ (~1200-1500 w.)
 
 ###20. __Thursday 11/15__: _Project Presentations 2: Revising_
 
@@ -357,16 +366,19 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Assigned exercise:
 	- Second revision: write __two formal paragraphs__ and a revised __scaffolding__ (~750 w.)
 
-###22. __Tuesday 11/22__: _A Workshop for Style_
+__!__ __Formal draft__ for __P3__ due **Tuesday** (11/22)!
+
+###22. __Tuesday 11/22__: _Style Workshop_
 - Assigned readings:
 	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Revising Style: Telling your Story Clearly_ (from _The Craft of Research_)
 - Formal draft due:
-	- __!__ - __Formal draft__ for __P3__ (~1800-2000 w.)
+	- __Formal draft__ for __P3__ (~1800-2000 w.)
 
 ##Progression Four: The Op-Ed
 
-###23. __Tuesday 11/29__: _Writing Beyond the University_
+##Staking a claim in the conversation
 
+###23. __Tuesday 11/29__: _Writing Beyond the University_
 - Craft readings:
 	- __Orwell__, George, _Why I Write_
 	- __Gordon__, Glenn Michael, _Reaching Beyond the University: Writing the Op-Ed_ (from [The Mornigside Review](http://morningsidereview.org/essay/reaching-beyond-the-university-writing-the-op-ed/))
@@ -386,10 +398,10 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 ##__!__ __Final draft__ for __P3__ (2500-3000 w.) due __this Sunday__ (12/4)!
 
 ###25. __Tuesday 12/6__:
-- Assigned readings:
+- Craft Reading:
 	- __Williams__, Joseph M. and  Joseph __Bizup__, _The Ethics of Style_ (from _Style: Lessons in Clarity and Grace_)
-- Exercise 3:
-	- __!__ - __Exploratory draft__ and __scaffolding__ (~600 w.)
+- Due:
+	- __Exploratory draft__ and __scaffolding__ (~600 w.)
 
 ####__!__ - __Event__: _Going Public: Writing and Publishing the Op-Ed_
 - [date/time]
