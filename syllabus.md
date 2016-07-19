@@ -267,7 +267,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Primary Reading:
 	- **Dennett**, Daniel. "Self as a center of narrative gravity."
 - Craft Reading:
-	- _Graff__, Gerald, and __Birkenstein__, Cathy,"So what, who cares?"
+	- __Graff__, Gerald, and __Birkenstein__, Cathy,"So what, who cares?"
 - Exercise 4:
 	- Select a passage from Dennett and compare to either Turing, Searle, or Hofstader
 - In-class materials:
