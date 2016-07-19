@@ -2,8 +2,6 @@
 
 - Word limit: 400 w.
 
-##Text
-
 1. **Annotate**: Print out and carefully read the essay "Animals are not things" by Temple Grandin. Annotate along the way, using at least one new annotation technique that you haven't tried before (i.e. underlining instead of highlighting (or vice versa), circling words you don't understand, bracketing key words, writing questions in the margins, underling topic sentences, summarizing in the margin, drawing arrows between ideas)
 
 1. **Summarize**: In two to three sentences, summarize the essay by describing the author's main claims and intentions. Try to keep your summary as precise as possible (don't exceed 3 sentences).
