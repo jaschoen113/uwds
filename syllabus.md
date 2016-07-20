@@ -222,9 +222,9 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 ###6. __Thursday 9/22__: _Revising_
 - Craft reading:
-	- __Williams__, Joseph M. and  Joseph __Bizup__, _Understanding Style_ (from _Style: Lessons in Clarity and Grace_)
+	- __Williams__, Joseph M. and  Joseph __Bizup__, _Clarity_ (from _Style: Lessons in Clarity and Grace_)
 - Due:
-  - Exercise 4: Revision One Paragraph
+  - Exercise 4: Revise One Paragraph
 - In-class materials:
 	- "Radical Revision"
 
@@ -250,7 +250,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - In-class materials:
   - [?]
 
-##__!__ - __Final draft__ for __P1__ (1500-1800 w.) due __Friday__ (9/30)!
+##__!__ - __Final draft__ for __P1__ (1500-1800 w.) due __Monday__ 10/3!
 
 ###9. __Tuesday 10/4__: _Branches in the Conversation_
 - Primary Reading:
@@ -273,7 +273,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 	- __Bizup__, Joseph, _Developing a Vocabulary for Talking About Sources (BEAM)_
 
 ###11. __Tuesday 10/11__: _Using Sources_
-- Exploratory Draft Due:
+- Due:
 	- __Exploratory draft__ for __P2__ (~1000-1200 w.)
 - In-class materials:
 	- __Colomb__, Gregory G. and __Williams__, Joseph M., _Quotation, Paraphrase, Citation_ (adapted) [check?]

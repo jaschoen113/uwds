@@ -9,11 +9,11 @@ This draft is about finding and exploring ideas and developing the intellectual 
 
 1) **Select** whether you'd like to write on Singer or Grandin (you can only write on one text for this progression).
 
-2) **Select** a passage or pair of passages in which you can identify a potential problem, tension, or complication. Type the passage(s) in a document and cite the page number.
+2) **Select** a passage in which you can identify a potential problem, tension, or complication. Type the passage in a document and cite the page number.
 
-3) Reread the passage(s) you've chosen, then reread the entire essay, making note of any details that are particularly relevant to your selected passage.
+3) **Reread** the passage you've chosen, then reread the entire essay, making note of any details that are particularly relevant to your selected passage.
 
-4) In the same or a separate document, begin analyzing the passage you've chosen. Identify the intellectual problem you've noticed, and build up your support by looking closely at the text.  
+4) In the same or a separate document, begin analyzing the passage you've chosen. **Identify** the intellectual problem you've noticed, and **build up** your support by looking closely at the text.  
 
 Here are some potential questions you might answer in your draft:  
 
@@ -30,14 +30,14 @@ Here are some potential questions you might answer in your draft:
 
 Here are a few more tips:
 
-- Select passages that offer evidence that requires interpretation, terms that shift in meaning, and/or claims that suggest significant room for debate. Don't select passages that simply declare a basic point or sum up the author's ideas.   
+- Select a passage that requires interpretation, has terms that shift in meaning, and/or has claims that suggest significant room for debate. Don't select a passage that simply declares a basic point or sum up the author's ideas.   
 
-- The passage(s) may be a single sentence or several sentences long.
+- The passage may be a single sentence or several sentences long.
 
-- Remember that this is an informal document. Focus on content rather than form.
+- Remember that this is an informal document. Focus on content rather than form. Try not to stop writing even if you're not quite sure where a point may be going. Explore each potential idea and see if the very act of writing can get you to a larger claim.
 
 - You do not need to write a formal introduction for now. Simply start by presenting your problem.
 
-- Don't worry too much about structure, but begin a new paragraph every time you do something new.
+- Don't worry too much about structure, but begin a new paragraph/section every time you do something new.
 
 - Carefully expound each transition. Do not take any logical step for granted.
