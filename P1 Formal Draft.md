@@ -1,5 +1,10 @@
 #P1 Formal Draft
 
+Due Wednesday 9/21
+Email me a copy on Wednesday **and** bring a hardcopy to class on Thursday 9/22
+
+~1000 words
+
 Now that you have explored some interpretive problems in passages from either Grandin or Singer, it's time to shape those ideas into a more formal and cohesive essay.
 
 Remember that the goal of this essay is to help someone read the selected text more deeply, see it in a new light, or understand something about the text that he or she might have missed. You are seeking to illuminate your text for your readers, not simply to say that it is bad or good, likeable or unlikeable, or right or wrong.

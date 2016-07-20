@@ -28,14 +28,11 @@ __Note__: Your syllabus is a reference document to be frequently consulted. In i
 
 ##Requirements
 
-1. Complete four revised essays ranging from 750-3000 words, each accompanied by at least one draft. Students must submit all __four final essays__ in order to pass the class.
+1. Complete four revised essays ranging from 750-3000 words, each accompanied by at least one draft. Students must submit all __four final essays__ in order to pass the class. Final essays must be submitted on [CourseWorks](http://Courseworks.columbia.edu).
 
 1. __Attend__ and participate in all classes and conferences.
 
 1. Prepare reading and __writing exercises__ as assigned.
-
-	- Submit all of your writing assignments on Courseworks.
-	- Submit hard copies of your writing assignments to your instructor.
 
 ##Assignments
 
@@ -187,8 +184,8 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 ###2. __Thursday 9/8__: _Identifying Interpretive Problems_
 - Primary reading:
 	- **Grandin**, Temple. "Animals are not things."
-- Exercise 1 due:
-	- __Annotate__, __summarize__ and __look closely at one passage__ from "Animals are not things" (~400 w.)
+- Due:
+	- Exercise 2: __Annotate__, __summarize__ and __look closely at one passage__ from "Animals are not things"
 - In-class materials:
 	- Prompt for the _Critical Response Essay_ (P1)
 	- __Mendelsohn__, Sue. "9 Ways to Generate an Interpretive Problem"
@@ -199,16 +196,16 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 	- **Singer**, Peter. "Speciesism."
 - Craft reading:
 	- **Harris**, Joseph. "Coming to Terms"
-- Exercise 2 due:
-	- "Come to terms" with Singer and find one interpretive problem in the text
+- Due:
+	- Exercise 2: "Come to terms" with Singer and find one interpretive problem in the text
 -	In-class materials:
 	- "Rhetorical Terms: Observations, Claims, and Warrants"
 
 ###4. __Thursday 9/15__: _Structuring an Essay_
 - TMR readings:
   -  [find two TMR essay, maybe do david foster wallace one?]
-- Exploratory Draft Due:
-	- __Exploratory draft__ for __P1__ (~800-1000 w.)
+- Due:
+	- __Exploratory draft__ for __P1__
 - In class materials:
 	- [some kind of structure handout?]
 
@@ -216,8 +213,8 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Craft Reading:
 	- __Flower__, Linda, _Writer-Based Prose: A Cognitive Basis for Problems in Writing_
 	- __Orwell__, George. _Politics and the English Language_
-- Revision due:
-	- Revise __two formal paragraphs__ and __scaffolding__ (~700 w.)
+- Due:
+	- Exercise 3: Write __two formal paragraphs__ and __scaffolding__ (~700 w.)
 - In-class materials:
   [?]
 
@@ -226,6 +223,8 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 ###6. __Thursday 9/22__: _Revising_
 - Craft reading:
 	- __Williams__, Joseph M. and  Joseph __Bizup__, _Understanding Style_ (from _Style: Lessons in Clarity and Grace_)
+- Due:
+  - Exercise 4: Revision One Paragraph
 - In-class materials:
 	- "Radical Revision"
 

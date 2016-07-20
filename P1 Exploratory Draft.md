@@ -1,6 +1,9 @@
 #P1 Exploratory Draft
 
-(800-1000 words)
+Due Thursday 9/15
+Bring hard copy to class
+
+800-1000 words
 
 This draft is about finding and exploring ideas and developing the intellectual problem that you have discovered through your reading. It is impossible to know if you've chosen a fruitful line of inquiry for your essay before you try to write. This assignment is a chance to explore your project and to discover ideas through writing, without a full-on commitment. The following steps should serve as a guide to your exploration:
 

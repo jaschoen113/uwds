@@ -1,6 +1,8 @@
 #Exercise 1: Annotate, Summarize, and Close Read
 
-- Word limit: 400 w.
+Due Thursday 9/8
+
+(~400 w.)
 
 1. **Annotate**: Print out and carefully read the essay "Animals are not things" by Temple Grandin. Annotate along the way, using at least one new annotation technique that you haven't tried before (i.e. underlining instead of highlighting (or vice versa), circling words you don't understand, bracketing key words, writing questions in the margins, underling topic sentences, summarizing in the margin, drawing arrows between ideas)
 
