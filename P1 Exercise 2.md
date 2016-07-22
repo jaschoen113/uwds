@@ -15,4 +15,4 @@ Bring hard copy to class
   4. Pull out the essay again.
   5. Write “an account of the text that makes use of paraphrase and direct quotation.” (1-2 paragraphs)
 
-3. Select one passage in the Singer where you see one of the 9 Interpretive Problems we discussed in class (see handout). **Identify** the problem, **map** the problem unto the passage, and **propose** a possible claim building off the problem (~100 words).
+3. Select one passage in the Singer where you see one of the 9 Interpretive Problems we discussed in class (see handout). Identify your **observation**, write a corresponding **interpretive problem**, and propose a possible **claim** in response to the problem. (~100 words) 

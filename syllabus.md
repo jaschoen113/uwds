@@ -199,7 +199,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Due:
 	- Exercise 2: "Come to terms" with Singer and find one interpretive problem in the text
 -	In-class materials:
-	- "Rhetorical Terms: Observations, Claims, and Warrants"
+	- "Rhetorical Terms: Observations, Claims, and Warrants" [add "interpretive problems" and motives to worksheet]
 
 ###4. __Thursday 9/15__: _Structuring an Essay_
 - TMR readings:

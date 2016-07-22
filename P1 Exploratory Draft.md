@@ -7,13 +7,13 @@ Bring hard copy to class
 
 This draft is about finding and exploring ideas and developing the intellectual problem that you have discovered through your reading. It is impossible to know if you've chosen a fruitful line of inquiry for your essay before you try to write. This assignment is a chance to explore your project and to discover ideas through writing, without a full-on commitment. The following steps should serve as a guide to your exploration:
 
-1) **Select** whether you'd like to write on Singer or Grandin (you can only write on one text for this progression).
+1) Select whether you'd like to write on **Singer or Grandin** (you can only write on one text for this progression).
 
-2) **Select** a passage in which you can identify a potential problem, tension, or complication. Type the passage in a document and cite the page number.
+2) Select a passage in which you can identify a potential **problem, tension, or complication**. Type the passage in a document and cite the page number.
 
-3) **Reread** the passage you've chosen, then reread the entire essay, making note of any details that are particularly relevant to your selected passage.
+3) **Reread the passage** you've chosen, then **reread the entire essay**, making note of any details that are particularly relevant to your selected passage.
 
-4) In the same or a separate document, begin analyzing the passage you've chosen. **Identify** the intellectual problem you've noticed, and **build up** your support by looking closely at the text.  
+4) In the same or a separate document, begin analyzing the passage you've chosen. Work through an **observation, problem, and claim** and **build up** your support by looking closely at the text. Also explore a potential **motive** for your reading. 
 
 Here are some potential questions you might answer in your draft:  
 
