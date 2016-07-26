@@ -206,8 +206,6 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
   -  [find two TMR essay, maybe do david foster wallace one?]
 - Due:
 	- __Exploratory draft__ for __P1__
-- In class materials:
-	- [some kind of structure handout?]
 
 ###5. __Tuesday 9/20__: _Reader-Based Writing_
 - Craft Reading:
@@ -216,7 +214,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Due:
 	- Exercise 3: Write __two formal paragraphs__ and __scaffolding__ (~700 w.)
 - In-class materials:
-  [?]
+  - Style handout
 
 ##__!__ - __Formal draft__ for __P1__ (~1000 w.) due __tomorrow__ (Wednesday, 9/21)!
 
@@ -226,7 +224,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Due:
   - Exercise 4: Revise One Paragraph
 - In-class materials:
-	- "Radical Revision"
+	- "Radical Revision" 
 
 ##Progression Two: Conversation
 
