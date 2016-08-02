@@ -247,7 +247,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Due:
   - Exercise 2 [might do in class]: Summarize Searle's argument and point to where he differs from Turing
 
-##- __Final draft__ for __P1__ (1500-1800 w.) due __Monday__ 10/3!
+##__Final draft__ for __P1__ (1500-1800 w.) due __Monday__ 10/3!
 
 ###9. __Tuesday 10/4__: Branches in the Conversation
 - Primary reading:
