@@ -313,7 +313,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Thinking in Print" (from _The Craft of Research_)
 	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Research, Researchers, and Readers" (from _The Craft of Research_)
 - TMR reading:
-	- __Maier-Balough__, Elizabeth. "Maternal Integrity and the Fetal Image: Ultrasound in the Abortion Rights Debate" (From [The Morningside Review](http://morningsidereview.org/essay/maternal-integrity-and-the-fetal-image-ultrasound-in-the-abortion-rights-debate/)) [or find another tmr essay]
+	- __Maier-Balough__, Elizabeth. "Maternal Integrity and the Fetal Image: Ultrasound in the Abortion Rights Debate" (From [The Morningside Review](http://morningsidereview.org/essay/maternal-integrity-and-the-fetal-image-ultrasound-in-the-abortion-rights-debate/)) 
 - Due:
 	- Exercise 1: [or in class] Brainstorm research topic
 
