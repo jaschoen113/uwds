@@ -8,17 +8,17 @@ Bring hardcopy to class
 
 2. Make an **outline** of these points and their corresponding evidence. Try to order the points logically, building them up to your larger claim. An example scaffolding might look something like:
 
-Primary Claim  
-I. Point 1  
-  i. evidence  
-  ii. analysis of evidence  
-II. Point 2  
-  i. evidence  
-  ii. analysis of evidence  
-III. Point 3  
-  i. evidence  
-  ii. analysis of evidence
+  Primary Claim  
+  I. Point 1  
+    i. evidence  
+    ii. analysis of evidence  
+  II. Point 2  
+    i. evidence  
+    ii. analysis of evidence  
+  III. Point 3  
+    i. evidence  
+    ii. analysis of evidence
 
-This is a very basic outline and your structure might look very different. But the key here is to keep your scaffolding down to the basics; you shouldn't be simply transferring your draft into outline form. You don't need to write full sentences, in fact you should try to extract your main points as succinctly as possible. This will allow you to compare points side-by-side and think about their relation to each other. Feel free to bring in any new points, evidence, or analyses that you didn't have in your exploratory draft.
+  This is a very basic outline and your structure might look very different. But the key here is to keep your scaffolding down to the basics; you shouldn't be simply transferring your draft into outline form. You don't need to write full sentences, in fact you should try to extract your main points as succinctly as possible. This will allow you to compare points side-by-side and think about their relation to each other. Feel free to bring in any new points, evidence, or analyses that you didn't have in your exploratory draft.
 
 3. Pick **two points** and develop them into **two separate formal paragraphs**. Try to begin each paragraph with a **topic sentence** (state what you will prove in this paragraph and how this connects to your larger claim). Then move into your **evidence**, quoting or paraphrasing from the text. Finally **analyze** your evidence and **connect** your takeaway to your larger claim.
