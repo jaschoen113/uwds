@@ -278,7 +278,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 ###12. __Thursday 10/13__: Connecting Sentences and Connecting Ideas
 - TMR reading:
 	- **Webre,** Jude. "From Scuffling to Channel-Surfing: American Politics in the Television Age"
-   (from [The Morningside Review]((http://morningsidereview.org/essay/from-scuffling-to-channel-surfing-american-politics-in-the-television-age/))
+   (from [The Morningside Review](http://morningsidereview.org/essay/from-scuffling-to-channel-surfing-american-politics-in-the-television-age/))
 - Craft reading:
 	- __Graff__, Gerald, and __Birkenstein__, Cathy. "As a Result" (from _They Say / I Say_)
 - In-class materials:
