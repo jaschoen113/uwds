@@ -5,7 +5,7 @@ Bring a hardcopy to class (along with your entire formal draft)
 
 1. Read Williams and Bizup's "Clarity."
 
-2. Pick what you believe is the best-written paragraph in your essay.
+2. Pick what you believe is the best-written paragraph in your formal draft. 
 
 2. Revise this paragraph with Williams and Bizup's article "Clarity" in mind. Remember to:
 

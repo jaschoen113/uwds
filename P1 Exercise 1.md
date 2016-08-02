@@ -1,6 +1,6 @@
 #Exercise 1: Annotate, Summarize, and Close Read
 
-Due Thursday 9/8
+Due Thursday 9/8  
 Bring hard copy to class
 
 ~400 words
@@ -9,4 +9,4 @@ Bring hard copy to class
 
 1. **Summarize**: In two to three sentences, summarize the essay by describing the author's main claims and intentions. Try to keep your summary as precise as possible (don't exceed 3 sentences).
 
-1. **Close Read**: Carefully choose a short passage that you’d like to investigate. As we have discussed in class, you should look for a __tension__, an __ambiguity__ or a __contradiction__ in the text. Underline words and phrases that are especially resonant; as you annotate, think about the __meaning__ and __purpose__ of the passage. In a document, first write down your **observations**: What is unique about this passage? Then write down a **claim** building off those observations: What is the effect of this tension, ambiguity, or contradiction? How does it relate to or conflict with the larger point (see your summary) that Grandin is making in this essay? Print out the document and bring it class. (~200 words)
+1. **Close Read**: Carefully choose a short passage that you’d like to investigate. As we discussed in class, you should look for a __tension__, an __ambiguity__ or a __contradiction__ in the text. Underline words and phrases that are especially resonant; think about the __meaning__ and __purpose__ of the passage. In a document, first write down your **observation**: What is unique about this passage? Then write down a **claim** building off those observations: What is the effect of this tension, ambiguity, or contradiction? How does it relate to or conflict with the larger point (see your summary) that Grandin is making in this essay? Print out the document and bring it class.

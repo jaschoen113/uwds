@@ -175,23 +175,24 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 ##Unsettling the boundary between human and animal
 
-###1. __Tuesday 9/6__: _Active and Close Reading_
+###1. __Tuesday 9/6__: Active and Close Reading
 - In-class materials:
-	- _Syllabus_
-	- **Kain**, Patricia. "How to Do a Close Reading"
-	- [some kind of passage to close read in class]
+  - Syllabus
+  - Sample close reading passage
 
-###2. __Thursday 9/8__: _Identifying Interpretive Problems_
+###2. __Thursday 9/8__: Identifying Interpretive Problems
 - Primary reading:
 	- **Grandin**, Temple. "Animals are not things."
+- Craft reading:
+  - **Kain**, Patricia. "How to Do a Close Reading"
 - Due:
-	- Exercise 2: __Annotate__, __summarize__ and __look closely at one passage__ from "Animals are not things"
+	- Exercise 1: Annotate, summarize and look closely at one passage from "Animals are not things"
 - In-class materials:
-	- Prompt for the _Critical Response Essay_ (P1)
+	- Prompt for the Critical Response Essay (P1)
 	- __Mendelsohn__, Sue. "9 Ways to Generate an Interpretive Problem"
-	- __Little Red Schoolhouse__, _What Is a Problem?_
+	- __Little Red Schoolhouse__, "What Is a Problem?""
 
-###3. __Tuesday 9/13__: _Developing Interpretive Problems_
+###3. __Tuesday 9/13__: Developing Interpretive Problems
 - Primary reading:
 	- **Singer**, Peter. "Speciesism."
 - Craft reading:
@@ -201,209 +202,214 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 -	In-class materials:
 	- "Rhetorical Terms: Observations, Claims, and Warrants" [add "interpretive problems" and motives to worksheet]
 
-###4. __Thursday 9/15__: _Structuring an Essay_
-- TMR readings:
-  -  [find two TMR essay, maybe do david foster wallace one?]
+###4. __Thursday 9/15__: Structuring an Essay
+- TMR reading:
+  - **Bahk**, Sue. "The Final Judgement in 'Monster Culture'" (from [The Morningside Review]((http://morningsidereview.org/essay/the-final-judgement-in-monster-culture/))
 - Due:
 	- __Exploratory draft__ for __P1__
 
-###5. __Tuesday 9/20__: _Reader-Based Writing_
-- Craft Reading:
-	- __Flower__, Linda, _Writer-Based Prose: A Cognitive Basis for Problems in Writing_
-	- __Orwell__, George. _Politics and the English Language_
+###5. __Tuesday 9/20__: Reader-Based Writing
+- Craft reading:
+	- __Flower__, Linda. "Writer-Based Prose: A Cognitive Basis for Problems in Writing"
+	- __Orwell__, George. "Politics and the English Language"
 - Due:
-	- Exercise 3: Write __two formal paragraphs__ and __scaffolding__ (~700 w.)
+	- Exercise 3: Write two formal paragraphs and a scaffolding (~700 w.)
 - In-class materials:
   - Style handout
 
 ##__!__ - __Formal draft__ for __P1__ (~1000 w.) due __tomorrow__ (Wednesday, 9/21)!
 
-###6. __Thursday 9/22__: _Revising_
+###6. __Thursday 9/22__: Revising
 - Craft reading:
-	- __Williams__, Joseph M. and  Joseph __Bizup__, _Clarity_ (from _Style: Lessons in Clarity and Grace_)
+	- __Williams__, Joseph M. and  Joseph __Bizup__, "Clarity" (from _Style: Lessons in Clarity and Grace_)
 - Due:
-  - Exercise 4: Revise One Paragraph
+  - Exercise 4: Revise one paragraph
 - In-class materials:
-	- "Radical Revision" 
+	- "Radical Revision"
 
 ##Progression Two: Conversation
 
 ##Probing the possibility of artificial intelligence
 
-###7. __Tuesday 9/27__: _The Start of a Conversation_
-- Primary Reading:
+###7. __Tuesday 9/27__: The Start of a Conversation
+- Primary reading:
 	- **Turing**, Alan. "Computing Machinery and Intelligence"
-- Exercise 1 [homework or classwork?]
-	- Select a difficult passage, write your best interpretation, and brainstorm why the passage is difficult to unpack (~200 w.)
+- Due:
+  - Exercise 1 [might do in class]: Select a difficult passage from Turing, write your best interpretation, and brainstorm why the passage is difficult to unpack (~200 w.)
 - In class materials:
-	- Prompt for the _Conversation Essay_ (P2)
+	- Prompt for the Conversation Essay (P2)
 
-###8. __Thursday 9/29__: _Challenges in a Conversation_
-- Primary Reading:
+###8. __Thursday 9/29__: Challenges in a Conversation
+- Primary reading:
 	- **Searle**, John. "Minds, Brains, Programs."
-- Craft Reading:
-  - __Graff__, Gerald, and __Birkenstein__, Cathy, _Entering the Conversation_ (from _They Say / I Say_)
-- Exercise 2 [homework or classwork?]:
- 	- Summarize Searle's argument and point to where he differs from Turing
-- In-class materials:
-  - [?]
+- Craft reading:
+  - __Graff__, Gerald, and __Birkenstein__, Cathy, "Entering the Conversation" (from _They Say / I Say_)
+- Due:
+  - Exercise 2 [might do in class]: Summarize Searle's argument and point to where he differs from Turing
 
 ##__!__ - __Final draft__ for __P1__ (1500-1800 w.) due __Monday__ 10/3!
 
-###9. __Tuesday 10/4__: _Branches in the Conversation_
-- Primary Reading:
+###9. __Tuesday 10/4__: Branches in the Conversation
+- Primary reading:
 	- **Hofstader**, Douglas. "On the Seeming Paradox of Mechanized Creativity."
-- Craft Reading:
-	- __Graff__, Gerald, and __Birkenstein__, Cathy, _Yes/No/Okay, But_ (from _They Say / I Say_)
-- Exercise 3:
-	-  Select a passage or idea from Hofstader and compare to either Turing or Searle (or both)
-- In-class materials:
-	-	[?]
+- Craft reading:
+	- __Graff__, Gerald, and __Birkenstein__, Cathy. "Yes/No/Okay, But" (from _They Say / I Say_)
+- Due:
+  - Exercise 3: Select a passage or idea from Hofstader that you can compare to either Turing or Searle (or both)
 
-###10. __Thursday 10/6__: _Conversations Intersecting_
-- Primary Reading:
+###10. __Thursday 10/6__: Conversations Intersecting
+- Primary reading:
 	- **Dennett**, Daniel. "Self as a center of narrative gravity."
-- Craft Reading:
-	- __Graff__, Gerald, and __Birkenstein__, Cathy,"So what, who cares?"
-- Exercise 4:
-	- Select a passage from Dennett and compare to either Turing, Searle, or Hofstader
+- Craft reading:
+	- __Graff__, Gerald, and __Birkenstein__, Cathy. "So what, who cares?"
+- Due:
+  - Exercise 4: Select a passage from Dennett and compare to either Turing, Searle, or Hofstader
 - In-class materials:
-	- __Bizup__, Joseph, _Developing a Vocabulary for Talking About Sources (BEAM)_
+	- __Bizup__, Joseph. "Developing a Vocabulary for Talking About Sources (BEAM)"
 
-###11. __Tuesday 10/11__: _Using Sources_
+###11. __Tuesday 10/11__: Using Sources
 - Due:
 	- __Exploratory draft__ for __P2__ (~1000-1200 w.)
 - In-class materials:
-	- __Colomb__, Gregory G. and __Williams__, Joseph M., _Quotation, Paraphrase, Citation_ (adapted) [check?]
-	- __Howard__, Rebecca Moore, Tanya K. __Rodrigue__, and Tricia C. __Serviss__, _Writing from Sources, Writing from Sentences_ [check?]
+	- __Colomb__, Gregory G. and __Williams__, Joseph M. "Quotation, Paraphrase, Citation"
+	- __Howard__, Rebecca Moore, Tanya K. __Rodrigue__, and Tricia C. __Serviss__. "Writing from Sources, Writing from Sentences"
 
 
-###12. __Thursday 10/13__: _Connecting Sentences and Connecting Ideas_
-- TMR Readings:
-	- [find tmr example conversation essay]
-- Craft Reading:
-	- __Graff__, Gerald, and __Birkenstein__, Cathy, _As a Result_ (from _They Say / I Say_)
+###12. __Thursday 10/13__: Connecting Sentences and Connecting Ideas
+- TMR reading:
+	- **Webre,** Jude. "From Scuffling to Channel-Surfing: American Politics in the Television Age"
+   (from [The Morningside Review]((http://morningsidereview.org/essay/from-scuffling-to-channel-surfing-american-politics-in-the-television-age/))
+- Craft reading:
+	- __Graff__, Gerald, and __Birkenstein__, Cathy. "As a Result" (from _They Say / I Say_)
 - In-class materials:
-	- __Weber__, Ryan and Karl __Stolley__, _Writing Transitions_ (from __OWL__ at Purdue)
+	- __Weber__, Ryan and Karl __Stolley__. "Writing Transitions" (from __OWL__ at Purdue)
 
 ##__!__ - __Formal draft__ for __P2__ (800-1000 w.) due (Tuesday 10/18)!
 
-###13. __Tuesday 10/18__: _Revision as Conversation_
-- Craft Readings:
-	- __Harris__, Joseph,  and _Taking an Approach_ and _Revising_ (from _Rewriting: How To Do Things With Texts_)
--  In-class materials:
-	- [Exercises with revising formal drafts]
+###13. __Tuesday 10/18__: Revision as Conversation
+- Craft reading:
+	- __Harris__, Joseph. "Taking an Approach" and "Revising" (from _Rewriting: How To Do Things With Texts_)
+- Due:
+  - **Formal draft** for **P2**
 
-###14. __Thursday 10/20__: _Constructing Positive Feedback_
-- Craft Reading:
-	-	"John Updike's 6 Rules for Constructive Criticism"
-- Peer Review:
-	- _Peer review_ of your peer's formal draft (~300 w.)
+###14. __Thursday 10/20__: Constructing Positive Feedback
+- Craft reading:
+	-	__Updike__, John. "6 Rules for Constructive Criticism"
+- Due:
+	- Peer review of your classmate's formal draft (~300 w.)
 
 ##Progression Three: Research
 
 ##Exploring the landscape of the posthuman
 
-###15. __Tuesday 10/25__: _Seed Texts, Seed Questions_
+###15. __Tuesday 10/25__: Seed Texts, Seed Questions
 
-- Assigned reading:
-	- __Hayles__, Katherine. _How We Became Posthuman_
-- In-class materials:
-  -[?]
+- Primary reading:
+	- __Hayles__, Katherine. "Toward Embodied Virtuality" (from _How We Became Posthuman_).
 
-##__!__ - __Final Draft__ for __P2__ (1800-2100 w.) due __Wednesday__ (10/26)!
+###16. __Thursday 10/27__: Reading Plans
 
-###16. __Thursday 10/27__: _Reading Plans_
+- Craft readings:
+	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Thinking in Print" (from _The Craft of Research_)
+	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Research, Researchers, and Readers" (from _The Craft of Research_)
+- TMR reading:
+	- __Maier-Balough__, Elizabeth. "Maternal Integrity and the Fetal Image: Ultrasound in the Abortion Rights Debate" (From [The Morningside Review](http://morningsidereview.org/essay/maternal-integrity-and-the-fetal-image-ultrasound-in-the-abortion-rights-debate/)) [or find another tmr essay]
+- Due:
+	- Exercise 1: [or in class] Brainstorm research topic
 
-- Craft Readings:
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Thinking in Print_ (from _The Craft of Research_)
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Research, Researchers, and Readers_ (from _The Craft of Research_)
-- TMR Reading:
-	- __Maier-Balough__, Elizabeth, _Maternal Integrity and the Fetal Image: Ultrasound in the Abortion Rights Debate_ (From [The Morningside Review](http://morningsidereview.org/essay/maternal-integrity-and-the-fetal-image-ultrasound-in-the-abortion-rights-debate/)) [or find another kind]
-- Exercise 1 [in class?]:
-	- Brainstorm research topic
-- In-class Materials
-	[?]
+##__!__ - __Final Draft__ for __P2__ (1800-2100 w.) due __Friday__ (10/28)!
 
-###17. __Tuesday 11/1__: _New Sources_
+###17. __Tuesday 11/1__: New Sources
 
 __!__ __Library Session__
 
-- Craft Reading:
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Engaging Sources_ (from _The Craft of Research_)
-- TMR Reading:
-	- __Hussey__, Clarkie, _Spouses but Strangers: English World War II Marriages After Separation_ (from [The Morningside Review](http://morningsidereview.org/essay/spouses-but-strangers-english-world-war-ii-marriages-after-separation/))
-- Exercise 2 due:
-	- Choose research topic and brainstorm the kinds of sources you will need/questions about how to find them
+- Craft reading:
+	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Engaging Sources" (from _The Craft of Research_)
+- TMR reading:
+	- **Jakub**, Lucy. "Who Swims with the Blobfish?: Anthropomorphic Bias in Conservation" (From [The Morningside Review](http://morningsidereview.org/essay/who-swims-with-the-blobfish-anthropomorphic-bias-in-conservation/))
+- Due:
+	- Exercise 2: Choose research topic, brainstorm what types of sources you will need for this topic, and bring any questions about finding sources to the library session
 
-###18. __Thursday 11/3__: _Writing Plans_
-- Craft Reading:
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Asking Questions, Finding Answers_ (from _The Craft of Research_
-- TMR Reading:
-	- __Pelessone__, Marc, _The Problem with Emotion_ (From [The Morningside Review](http://morningsidereview.org/essay/the-problem-with-emotion/))
-- Exercise 2 due:
-	- Annotated bibliography (~600 w.)
+###18. __Thursday 11/3__: Writing Plans
+- Craft reading:
+	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Asking Questions, Finding Answers" (from _The Craft of Research_
+- TMR reading:
+	- **Wright**, Rebecca. "Hives, Damn Hives, and the Internet" (From [The Morningside Review](http://morningsidereview.org/essay/hives-damn-hives-and-the-internet/))
+- Due:
+	- Exercise 3: Annotated bibliography for two sources (~600 w.)
 
-###19. __Tuesday 11/10__: _Project Presentations 1: Drafting_
-- Craft readings:
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Drafting Your Report_ (from _The Craft of Research_)
-- Exploratory Draft Due:
+###19. __Tuesday 11/10__: Drafting
+- Craft reading:
+	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Drafting Your Report" (from _The Craft of Research_)
+- Due:
 	- __Exploratory draft__ for __P3__ (~1200-1500 w.)
 
-###20. __Thursday 11/15__: _Project Presentations 2: Revising_
+###20. __Thursday 11/15__: Revising
 
-- Assigned readings:
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Revising Your Organization and Argument_ (from _The Craft of Research_)
-- Assigned exercise:
-	- First revision: write __two formal paragraphs__ (~700 w.) and a revised __plan__
+- Craft reading:
+	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Revising Your Organization and Argument" (from _The Craft of Research_)
+- Due:
+	- Exercise 4: Write two formal paragraphs (~700 w.) and a revised outline
 
-###21. __Tuesday 11/17__: _First and Last Words_
-- Assigned readings:
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Introductions and Conclusions_ (from _The Craft of Research_)
-- Assigned exercise:
-	- Second revision: write __two formal paragraphs__ and a revised __scaffolding__ (~750 w.)
+###21. __Tuesday 11/17__: First and Last Words
+- Craft reading:
+	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Introductions and Conclusions" (from _The Craft of Research_)
+-  Due:
+	- Exercise 5: Write two formal paragraphs (~600 words)
 
 __!__ __Formal draft__ for __P3__ due **Tuesday** (11/22)!
 
-###22. __Tuesday 11/22__: _Style Workshop_
-- Assigned readings:
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__, _Revising Style: Telling your Story Clearly_ (from _The Craft of Research_)
-- Formal draft due:
+###22. __Tuesday 11/22__: Style Workshop
+- Craft reading:
+	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Revising Style: Telling your Story Clearly" (from _The Craft of Research_)
+-  Due:
 	- __Formal draft__ for __P3__ (~1800-2000 w.)
 
 ##Progression Four: The Op-Ed
 
 ##Staking a claim in the conversation
 
-###23. __Tuesday 11/29__: _Writing Beyond the University_
+###23. __Tuesday 11/29__: Writing Beyond the University
 - Craft readings:
-	- __Orwell__, George, _Why I Write_
-	- __Gordon__, Glenn Michael, _Reaching Beyond the University: Writing the Op-Ed_ (from [The Mornigside Review](http://morningsidereview.org/essay/reaching-beyond-the-university-writing-the-op-ed/))
-	- __Columbia UWP__, _Going Public: Writing and Publishing the Op-Ed_ (published Op-Eds, Spring 2015)
-- Example Op-Eds:
-	- [find one or two data science related op-eds]
-- Exercise 1:
-	- Claims, motives, and further questions for your first three essays (~300 w.)
+	- __Gordon__, Glenn Michael, "Reaching Beyond the University: Writing the Op-Ed" (from [The Mornigside Review](http://morningsidereview.org/essay/reaching-beyond-the-university-writing-the-op-ed/))
+- TMR readings:  
+  - "Going Public: Writing and Publishing the Op-Ed" (packet of published Op-Eds, Spring 2016)
+- Due:
+	- Exercise 1: Claims, motives, and further questions for your first three essays (~300 w.)
 
-###24. __Thursday 12/1__: _Reaching a New Public_
+###24. __Thursday 12/1__: Reaching a New Public
 
-- TMR Readings:
-	- [find 2 TMR op-eds]
-- Exercise 2:
-	- Brainstorm op-ed topics
+- Check out the [Electric Typewriter](http://tetw.org/) for various opinion pieces written on technology and the internet. Here are some examples of shorter op-ed pieces you might read:
+	- **Crawford,** Kate. "Artificial Intelligence's White Guy Problem" (from [The New York Times](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html))
+
+  - **Hawking,** Stephen. "Transcendence looks at the implications of artificial intelligence - but are we taking AI seriously enough?"" (from [The Independent](http://www.independent.co.uk/news/science/stephen-hawking-transcendence-looks-at-the-implications-of-artificial-intelligence-but-are-we-taking-9313474.html))
+  - **Chen,** Adrien. "Don't be a stranger" (from [The New Inquiry](http://thenewinquiry.com/essays/dont-be-a-stranger/))
+  - **Bissell**, Tom. "Video games: the addiction" (from [The Guardian](https://www.theguardian.com/theobserver/2010/mar/21/tom-bissell-video-game-cocaine-addiction))
+
+- Due:
+  - Exercise 2: Brainstorm op-ed topics
 
 ##__!__ __Final draft__ for __P3__ (2500-3000 w.) due __this Sunday__ (12/4)!
 
-###25. __Tuesday 12/6__:
-- Craft Reading:
-	- __Williams__, Joseph M. and  Joseph __Bizup__, _The Ethics of Style_ (from _Style: Lessons in Clarity and Grace_)
+###25. __Tuesday 12/6__: Crafting an Opinion
+- Craft reading:
+	- __Williams__, Joseph M. and  Joseph __Bizup__. "The Ethics of Style" (from _Style: Lessons in Clarity and Grace_)
 - Due:
 	- __Exploratory draft__ and __scaffolding__ (~600 w.)
 
-####__!__ - __Event__: _Going Public: Writing and Publishing the Op-Ed_
+####__!__ - __Event__: Going Public: Writing and Publishing the Op-Ed
 - [date/time]
 - _At the event, attendees learn how to craft an op-ed, revise material from a former essay, and submit their work for publication._
 
-###26. __Thursday 12/8__: _Last Day of Class_
+###26. __Thursday 12/8__: Last Day of Class
 
 ##__!__ - __Final draft__ for __P4__ due __Monday__ (12/12)!
+
+#Key Dates
+
+| Progression | Exploratory Draft | Formal Draft | Final Draft |
+|:-----------:|:------------:|:-----------:|:-------:|
+|P1| Thursday 9/15 | Wednesday 9/21 | Monday 10/3 |
+|P2| Tuesday 10/11 | Tuesday 10/18 | Friday 10/28 |
+|P3| Tuesday 11/10 | Tuesday 11/22 | Sunday 12/4 |
+|P4| Tuesday 12/6 | --- | Monday 12/12 |
