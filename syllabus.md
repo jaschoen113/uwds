@@ -217,7 +217,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - In-class materials:
   - Style handout
 
-##__!__ - __Formal draft__ for __P1__ (~1000 w.) due __tomorrow__ (Wednesday, 9/21)!
+##__Formal draft__ for __P1__ (~1000 w.) due __tomorrow__ (Wednesday, 9/21)!
 
 ###6. __Thursday 9/22__: Revising
 - Craft reading:
@@ -247,7 +247,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Due:
   - Exercise 2 [might do in class]: Summarize Searle's argument and point to where he differs from Turing
 
-##__!__ - __Final draft__ for __P1__ (1500-1800 w.) due __Monday__ 10/3!
+##- __Final draft__ for __P1__ (1500-1800 w.) due __Monday__ 10/3!
 
 ###9. __Tuesday 10/4__: Branches in the Conversation
 - Primary reading:
@@ -284,7 +284,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - In-class materials:
 	- __Weber__, Ryan and Karl __Stolley__. "Writing Transitions" (from __OWL__ at Purdue)
 
-##__!__ - __Formal draft__ for __P2__ (800-1000 w.) due (Tuesday 10/18)!
+##__Formal draft__ for __P2__ (800-1000 w.) due (Tuesday 10/18)!
 
 ###13. __Tuesday 10/18__: Revision as Conversation
 - Craft reading:
@@ -317,11 +317,11 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Due:
 	- Exercise 1: [or in class] Brainstorm research topic
 
-##__!__ - __Final Draft__ for __P2__ (1800-2100 w.) due __Friday__ (10/28)!
+##__Final Draft__ for __P2__ (1800-2100 w.) due __Friday__ (10/28)!
 
 ###17. __Tuesday 11/1__: New Sources
 
-__!__ __Library Session__
+__Library Session__
 
 - Craft reading:
 	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Engaging Sources" (from _The Craft of Research_)
@@ -357,7 +357,7 @@ __!__ __Library Session__
 -  Due:
 	- Exercise 5: Write two formal paragraphs (~600 words)
 
-__!__ __Formal draft__ for __P3__ due **Tuesday** (11/22)!
+##__Formal draft__ for __P3__ due **Tuesday** (11/22)!
 
 ###22. __Tuesday 11/22__: Style Workshop
 - Craft reading:
@@ -389,21 +389,21 @@ __!__ __Formal draft__ for __P3__ due **Tuesday** (11/22)!
 - Due:
   - Exercise 2: Brainstorm op-ed topics
 
-##__!__ __Final draft__ for __P3__ (2500-3000 w.) due __this Sunday__ (12/4)!
+__Final draft__ for __P3__ (2500-3000 w.) due __this Sunday__ (12/4)!
 
 ###25. __Tuesday 12/6__: Crafting an Opinion
 - Craft reading:
 	- __Williams__, Joseph M. and  Joseph __Bizup__. "The Ethics of Style" (from _Style: Lessons in Clarity and Grace_)
 - Due:
-	- __Exploratory draft__ and __scaffolding__ (~600 w.)
+	- __Exploratory draft__ and __outline__ (~600 w.)
 
-####__!__ - __Event__: Going Public: Writing and Publishing the Op-Ed
+#### __Event__: Going Public: Writing and Publishing the Op-Ed
 - [date/time]
 - _At the event, attendees learn how to craft an op-ed, revise material from a former essay, and submit their work for publication._
 
 ###26. __Thursday 12/8__: Last Day of Class
 
-##__!__ - __Final draft__ for __P4__ due __Monday__ (12/12)!
+##__Final draft__ for __P4__ due __Monday__ (12/12)!
 
 #Key Dates
 
