@@ -381,10 +381,9 @@ __Library Session__
 
 - Check out the [Electric Typewriter](http://tetw.org/) for various opinion pieces written on technology and the internet. Here are some examples of shorter op-ed pieces you might read:
 	- **Crawford,** Kate. "Artificial Intelligence's White Guy Problem" (from [The New York Times](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html))
-
-  - **Hawking,** Stephen. "Transcendence looks at the implications of artificial intelligence - but are we taking AI seriously enough?"" (from [The Independent](http://www.independent.co.uk/news/science/stephen-hawking-transcendence-looks-at-the-implications-of-artificial-intelligence-but-are-we-taking-9313474.html))
-  - **Chen,** Adrien. "Don't be a stranger" (from [The New Inquiry](http://thenewinquiry.com/essays/dont-be-a-stranger/))
-  - **Bissell**, Tom. "Video games: the addiction" (from [The Guardian](https://www.theguardian.com/theobserver/2010/mar/21/tom-bissell-video-game-cocaine-addiction))
+  	- **Hawking,** Stephen. "Transcendence looks at the implications of artificial intelligence - but are we taking AI seriously enough?"" (from [The Independent](http://www.independent.co.uk/news/science/stephen-hawking-transcendence-looks-at-the-implications-of-artificial-intelligence-but-are-we-taking-9313474.html))
+  	- **Chen,** Adrien. "Don't be a stranger" (from [The New Inquiry](http://thenewinquiry.com/essays/dont-be-a-stranger/))
+  	- **Bissell**, Tom. "Video games: the addiction" (from [The Guardian](https://www.theguardian.com/theobserver/2010/mar/21/tom-bissell-video-game-cocaine-addiction))
 
 - Due:
   - Exercise 2: Brainstorm op-ed topics
