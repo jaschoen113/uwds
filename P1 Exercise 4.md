@@ -1,6 +1,6 @@
 #P1 Exercise 4
 
-Due Thursday 9/22
+Due Thursday 9/22  
 Bring a hardcopy to class (along with your entire formal draft)
 
 1. Read Williams and Bizup's "Clarity."
