@@ -1,7 +1,7 @@
 #P1 Exercise 3: Start a Formal Draft
 
-Due Tuesday 9/20
-Two paragraphs and an outline (~600 words)
+Due Tuesday 9/20  
+Two paragraphs and an outline (~600 words)  
 Bring hardcopy to class
 
 1. Re-read your exploratory draft. As you read, identify and underline what you think your primary **claim** is (if you haven't yet reached a claim you are satisfied with, identify a claim that you think you can develop further). Identify **individual points** that support your claim and any **evidence** supporting those points. If there's any section (sentence, paragraph, etc) that you don't think should be transferred to your next draft, then you don't need to annotate it.
