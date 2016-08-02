@@ -204,7 +204,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 ###4. __Thursday 9/15__: Structuring an Essay
 - TMR reading:
-  - **Bahk**, Sue. "The Final Judgement in 'Monster Culture'" (from [The Morningside Review]((http://morningsidereview.org/essay/the-final-judgement-in-monster-culture/))
+  - **Bahk**, Sue. "The Final Judgement in 'Monster Culture'" (from [The Morningside Review](http://morningsidereview.org/essay/the-final-judgement-in-monster-culture/))
 - Due:
 	- __Exploratory draft__ for __P1__
 
