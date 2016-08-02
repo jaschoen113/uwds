@@ -16,7 +16,7 @@ date: Fall 2016
 #University Writing - Data Sciences and Engineering Syllabus
 ##Course Description
 
-Can an animal feel pain, joy, and fear as a human does? Will a machine ever be able to think like a human can? What does it mean to feel, to think, and, moreover, to be human? How does technology narrow, extend, reveal, or blur the boundaries between the human and non-human? Might technology transform humans into new creatures? Can a technology become a living and thinking being itself? How should we treat future animals, machines, humans, and cyborgs in a world where the human is not the only feeling and thinking creature?
+Can an animal feel pain, joy, or fear as a human does? Will a machine ever be able to think like a human can? What does it mean to feel, to think, and, moreover, to be human? How does technology narrow, extend, reveal, or blur the boundaries between the human and non-human? Might technology transform humans into new creatures? Can a technology become a living and thinking being itself? How should we treat future animals, machines, humans, and cyborgs in a world where the human is not the only feeling and thinking creature?
 
 These are some the questions we will be exploring in our data science-themed University Writing class. University Writing is designed to help undergraduates read and write essays in order to participate in the academic conversations that form our intellectual community. In our section, we will be engaging with particular conversations about animal, machine, and human intelligence. We will be exploring the questions above (and more) as we read essential essays that have shaped these conversations. These essays and our discussions will then provide fodder for your own writing.
 
