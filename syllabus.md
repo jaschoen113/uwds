@@ -13,7 +13,7 @@ date: Fall 2016
 |_Office hours_:|Thursday - __1:10__-__3:10 p.m__ - Brownie's (basement of Avery)|
 |_Mailbox Address_:|310 Philosophy Hall|
 
-#Syllabus
+#University Writing - Data Sciences and Engineering Syllabus
 ##Course Description
 
 Can an animal feel pain, joy, and fear as a human does? Will a machine ever be able to think like a human can? What does it mean to feel, to think, and, moreover, to be human? How does technology narrow, extend, reveal, or blur the boundaries between the human and non-human? Might technology transform humans into new creatures? Can a technology become a living and thinking being itself? How should we treat future animals, machines, humans, and cyborgs in a world where the human is not the only feeling and thinking creature?
