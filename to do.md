@@ -44,7 +44,7 @@
 - describe "strong point" better
 
 ##ex 3
-- make sure interpreetive problem is in there
+- make sure interpretive problem is in there
 - take out topic sentences? rephrase it?
 
 ##syllabus
@@ -61,4 +61,4 @@
 - tips for better incorporating theme? obviously working with texts will help this, but i am worried that its hard to balance
 - when is the op-ed workshop?
 - grade weights - is there any flexibility beyond the two options? simon said 40% is high for p3, but thats the only option unless you do the 5% floating
-- suggestions about distinguishing between close reading and interpretive problems/would it help to start with interpretive problems on day one? 
+- suggestions about distinguishing between close reading and interpretive problems/would it help to start with interpretive problems on day one?
