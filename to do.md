@@ -47,3 +47,6 @@
 - make sure interpreetive problem is in there 
 - take out topic sentences? rephrase it? 
 
+
+##syllabus
+- change grade weights 
