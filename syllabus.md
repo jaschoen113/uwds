@@ -7,7 +7,7 @@ date: Fall 2016
 |__C1010.503__|__Fall 2016__|
 |:-----------:|:-----------|
 |_Day/Time_:|Tuesday and Thursday - __11:40__ - __12:55 a.m.__|
-|_Location_:|X Hall __Room__|
+|_Location_:|Philosophy Hall __Room 201B__|
 |_Instructor_:|Jenna Schoen|
 |_Email_:|jas2286@columbia.edu|
 |_Office hours_:|Thursday - __1:10__-__3:10 p.m__ - Brownie's (basement of Avery)|
