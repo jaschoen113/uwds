@@ -68,3 +68,4 @@
 - give them little red schoolhouse handout, maybe after exploratory 
 - complex arguments - research and writing process (Experienced arguments come up with complex arguments); work with drafts and transitional moments to assess whether complex or simple (the language which signals a shift in the arugment) 
 - peer review: teach in p1 and p2; only responsbility to be a reader (then revise the comments) 
+- assign peer review as an assignment 
