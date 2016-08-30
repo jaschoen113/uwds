@@ -62,3 +62,9 @@
 - when is the op-ed workshop?
 - grade weights - is there any flexibility beyond the two options? simon said 40% is high for p3, but thats the only option unless you do the 5% floating
 - suggestions about distinguishing between close reading and interpretive problems/would it help to start with interpretive problems on day one?
+
+##after exploratory draft
+
+- give them little red schoolhouse handout, maybe after exploratory 
+- complex arguments - research and writing process (Experienced arguments come up with complex arguments); work with drafts and transitional moments to assess whether complex or simple (the language which signals a shift in the arugment) 
+- peer review: teach in p1 and p2; only responsbility to be a reader (then revise the comments) 
