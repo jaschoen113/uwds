@@ -1,7 +1,6 @@
 #Exercise 1: Annotate, Summarize, and Close Read
 
 Due Thursday 9/8  
-Bring hard copy to class
 
 ~400 words
 

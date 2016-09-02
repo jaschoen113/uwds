@@ -2,7 +2,6 @@
 
 Due Tuesday 9/20  
 Two paragraphs and an outline (~600 words)  
-Bring hardcopy to class
 
 1. Re-read your exploratory draft. As you read, identify and underline your **interpretive problem=** and your corresponding **claim** is (if you haven't yet reached a problem or claim you are satisfied with, identify one that you think you can develop further). Identify **individual points** that support your claim and any **evidence** supporting those points. If there's any section (sentence, paragraph, etc) that you don't think should be transferred to your next draft, then you don't need to annotate it.
 

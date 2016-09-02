@@ -1,7 +1,6 @@
 #Exercise 2: "Come to Terms" and Generate an Interpretive Problem
 
 Due Tuesday 9/13  
-Bring hard copy to class
 
 ~400 words
 
