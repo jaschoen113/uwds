@@ -15,7 +15,7 @@ This draft is about finding and exploring ideas and developing the intellectual 
 
 4) In the same or a separate document, begin analyzing the passage you've chosen. Work through an **observation, problem,** and **claim** and **build up** your support by looking closely at the text. Also explore a potential **motive** for your reading.
 
-Here are some potential questions you might answer in your draft:  
+If you are still struggling to come up with a rich interpretive problem at this point, here are some potential questions you might consider as you brainstorm:
 
 - Why do you think the author chooses these terms to convey his or her point?
 - How does the author construct a problem?
@@ -31,7 +31,7 @@ Here are some potential questions you might answer in your draft:
 Here are a few more tips:
 
 - Select a passage that requires interpretation, has terms that shift in meaning, and/or has claims that suggest significant room for debate. Don't select a passage that simply declares a basic point or sum up the author's ideas.   
-- The passage may be a single sentence or several sentences long.
+- The passage may be a single sentence or several sentences long. The "passage" may also be a term/expression/image/device/question, etc. that occurs in different places throughout the essay. But you shouldn't just be piling up examples; you need to raise a _specific_ problem as a result of a _specifc_ observation.
 - Remember that this is an informal document. Focus on content rather than form. Try not to stop writing even if you're not quite sure where a point may be going. Explore each potential idea and see if the very act of writing can get you to a larger claim.
 - You do not need to write a formal introduction for now. Simply start by presenting your problem.
 - Don't worry too much about structure, but begin a new paragraph/section every time you do something new.
