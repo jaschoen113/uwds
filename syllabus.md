@@ -208,24 +208,21 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Due:
 	- __Exploratory draft__ for __P1__
 
-###5. __Tuesday 9/20__: Reader-Based Writing
-- Craft reading:
-	- __Flower__, Linda. "Writer-Based Prose: A Cognitive Basis for Problems in Writing"
-	- __Orwell__, George. "Politics and the English Language"
+###5. __Tuesday 9/20__: Radical Revision
 - Due:
-	- Exercise 3: Write two formal paragraphs and a scaffolding (~700 w.)
-- In-class materials:
-  - Style handout
+	- Exercise 3: Write two formal paragraphs and an outline (~700 w.)
+- Craft Reading;
+  - "Radical Revision"
 
 ##__Formal draft__ for __P1__ (~1000 w.) due __tomorrow__ (Wednesday, 9/21)!
 
-###6. __Thursday 9/22__: Revising
+###6. __Thursday 9/22__: Reader-Based Writing
 - Craft reading:
 	- __Williams__, Joseph M. and  Joseph __Bizup__, "Clarity" (from _Style: Lessons in Clarity and Grace_)
+  - __Flower__, Linda. "Writer-Based Prose: A Cognitive Basis for Problems in Writing"
+  - __Orwell__, George. "Politics and the English Language"
 - Due:
   - Exercise 4: Revise one paragraph
-- In-class materials:
-	- "Radical Revision"
 
 ##Progression Two: Conversation
 
@@ -313,7 +310,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Thinking in Print" (from _The Craft of Research_)
 	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Research, Researchers, and Readers" (from _The Craft of Research_)
 - TMR reading:
-	- __Maier-Balough__, Elizabeth. "Maternal Integrity and the Fetal Image: Ultrasound in the Abortion Rights Debate" (From [The Morningside Review](http://morningsidereview.org/essay/maternal-integrity-and-the-fetal-image-ultrasound-in-the-abortion-rights-debate/)) 
+	- __Maier-Balough__, Elizabeth. "Maternal Integrity and the Fetal Image: Ultrasound in the Abortion Rights Debate" (From [The Morningside Review](http://morningsidereview.org/essay/maternal-integrity-and-the-fetal-image-ultrasound-in-the-abortion-rights-debate/))
 - Due:
 	- Exercise 1: [or in class] Brainstorm research topic
 
