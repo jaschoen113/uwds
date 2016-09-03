@@ -4,7 +4,7 @@ template:
     # Or if you are using a remote template, you can set the Git URL
     url: https://github.com/CouscousPHP/Template-Light.git
     # Name of the index file (default is "README.md")
-    index: index.md
+    index: README.md
 
 
 # Base URL of the published website (no "/" at the end!)
