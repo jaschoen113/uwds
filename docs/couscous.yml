@@ -1,0 +1,24 @@
+template:
+    # Name of the directory containing the website template (default is "website")
+    directory: website
+    # Or if you are using a remote template, you can set the Git URL
+    url: https://github.com/CouscousPHP/Template-Light.git
+    # Name of the index file (default is "README.md")
+    index: index.md
+
+
+# Base URL of the published website (no "/" at the end!)
+# You are advised to set and use this variable to write your links in the HTML layouts
+baseUrl: https://jaschoen113.github.io/uwds/
+
+# The left menu bar
+menu:
+    items:
+        home:
+            text: Home page
+            # You can use relative urls
+            relativeUrl: doc/syllabus.html
+        foo:
+            text: Assignments
+            # Or absolute urls
+            relative Url: assignments
