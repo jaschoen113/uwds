@@ -142,8 +142,8 @@ Your course work for the semester will be weighted as follows:
 | Progression | Final Essay | Word Limit | Weight |
 |:-----------:|:------------|:-----------|-------:|
 |Progression 1|_Critical Response_|1500-1800 w.| __20%__ |
-|Progression 2|_Conversation Essay_|1800-2100 w.| __30%__ |
-|Progression 3|_Research Essay_|2500-3000 w.| __40%__ |
+|Progression 2|_Conversation Essay_|1800-2100 w.| __25%__ |
+|Progression 3|_Research Essay_|2500-3000 w.| __35%__ |
 |Progression 4|_Editorial Essay_|750-1000 w. | __20%__|
 |__Total__ |  |  | __100%__|
 
