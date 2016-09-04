@@ -21,7 +21,8 @@
 - change grade weights
 - either take out or leave in exercises for p2 and p3
 - add date/time for op-ed workshop
-- decide whether to do exhibit or not in p2 
+- decide whether to do exhibit or not in p2
+- change word limits
 
 ##courseworks/site
 - make sure all p1 materials are on courseworks - readings, handouts, excercises, prompts; add links between github site and courseworks?
@@ -32,3 +33,5 @@
 
 ##after exploratory draft
 - work with drafts and transitional moments to assess whether complex or simple (the language which signals a shift in the arugment)
+
+- tell meadhbh to upload whichever texts i pick
