@@ -1,6 +1,7 @@
 #Exercise 2: "Come to Terms" and Generate an Interpretive Problem
 
 Due Tuesday 9/13  
+Write this exercise beneath Exercise 1 in your project document on Google Drive 
 
 ~400 words
 

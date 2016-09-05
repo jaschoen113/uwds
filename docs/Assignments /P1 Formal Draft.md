@@ -1,9 +1,8 @@
 #P1 Formal Draft
 
 Due Wednesday 9/21  
-Email me a copy on Wednesday **and** bring a hardcopy to class on Thursday 9/22
 
-~1000 words
+~900 words
 
 Now that you have explored some interpretive problems in passages from either Grandin or Singer, it's time to shape those ideas into a more formal and cohesive essay.
 

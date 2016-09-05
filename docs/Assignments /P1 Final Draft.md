@@ -1,7 +1,7 @@
 #P1 Final Draft
 
 Due during Progression 2 on Monday 10/3  
-Upload to Courseworks on Monday and bring hard copy to class on Tuesday 10/4
+Upload to **Courseworks** on Monday
 
 
 1200-1500 words

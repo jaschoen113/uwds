@@ -4,7 +4,7 @@ Due Friday 9/23
 Via Google Docs (your peer's P1 project file)
 
 In the margins, identify the following:
-  - The clearest statement of an **interpretive problem** Is your classmate's interpretive "problem" stated clearly enough for you to easily understand the interesting tension or complication that your classmate is writing about? Indicate any questions or confusions you have here as a reader, that might your classmate focus, clarify, deepen, or expand their interpretive "problem."
+  - The clearest statement of an **interpretive problem**. Is your classmate's interpretive "problem" stated clearly enough for you to easily understand the interesting tension or complication that your classmate is writing about? Indicate any questions or confusions you have here as a reader that might help your classmate focus, clarify, deepen, or expand their interpretive "problem."
   - A summary of the selected **author's primary argument** (that is, Singer's or Grandin's). Does this read as a fair and complete summary? Is any more information needed to make it so?  
   - One or two places where **evidence** from the text could be clearer or more convincing. Try to indicate why the writer's use of evidence is not as effective as it could be.
   - Any moments where the writer might not be fully fleshing out the primary text's argument and underlying assumptions. As a reader, did you feel there were places where your classmate could further explore the richness and ambiguity of the subject matter?

@@ -1,7 +1,3 @@
-##Lesson 1
-
-- make handout of maldive shark
-- keep patricia klein close reading OR have a selection of just three good close readings? due for day 2
 
 ##Lesson 3
 
@@ -18,20 +14,16 @@
 
 
 ##syllabus
-- change grade weights
-- either take out or leave in exercises for p2 and p3
-- add date/time for op-ed workshop
 - decide whether to do exhibit or not in p2
-- change word limits
+- add stuff about google docs
 
 ##courseworks/site
-- make sure all p1 materials are on courseworks - readings, handouts, excercises, prompts; add links between github site and courseworks?
+- make sure all p1 materials are on google site - readings, handouts, excercises, prompts; add links between github site and courseworks?
 
-##questions
-- when is the op-ed workshop?
-- grade weights - is there any flexibility beyond the two options? simon said 40% is high for p3, but thats the only option unless you do the 5% floating
-
-##after exploratory draft
-- work with drafts and transitional moments to assess whether complex or simple (the language which signals a shift in the arugment)
+##other admin
 
 - tell meadhbh to upload whichever texts i pick
+- send syllabus and videos to offic
+
+##other ideas
+- work with drafts and transitional moments to assess whether complex or simple (the language which signals a shift in the arugment)
