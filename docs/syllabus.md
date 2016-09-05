@@ -51,7 +51,7 @@ You will do at least three types of writing in this course: __exercises__, __dra
 
 You will write four essays, which can be broadly described as follows:
 
-- **First progression: textual analysis of one object.**  You will write about a single essay, identifying a textual problem or question and answering it through close reading of the content and form of the essay. The goal of this essay is to deepen our understanding of the value or implications of a single rich text by extending its work or by filling in its gaps.
+- **First progression: textual analysis of one object.**  You will write about a single essay, identifying a textual problem or question and answering it through a close reading of the content and form of the essay. The goal of this essay is to deepen our understanding of the value or implications of a single rich text by extending its work or by filling in its gaps.
 - **Second progression: supplementing textual analysis with theoretical tools.** You will read a set of scholarly texts with rich definitions, concepts, and oppositions. You will then select two of these texts to read alongside an exhibit of your choice. The goal of this progression is to produce a rich close reading of an exhibit via an intellectual conversation.
 - **Third progression: developing and executing a research project**. You will read a major text which raises a series of questions, and in response to one of those questions, present a textual problem in an exhibit of your own choosing. The goal of this progression is to develop a research project of your own that engages with contemporary scholarship.
 - **Fourth progression: speaking to a wider audience**: You will write an opinion piece that would be suitable for publication. The goal of this progression is to develop a compelling, unique authorial voice.
@@ -62,11 +62,11 @@ You will write four essays, which can be broadly described as follows:
 
 - Additional readings will be assigned from [__The Morningside Review__](http://www.morningsidereview.org), which is the journal of selected essays from Columbia’s Undergraduate Writing Program.
 
-- You might need to consult an up-to-date style manual for current MLA citation formatting conventions. Here is an online version:[__The OnlineWriting Lab from Purdue University__](https://owl.english.purdue.edu/owl/resource/747/01/).
+- You might need to consult an up-to-date style manual for current MLA citation formatting conventions. Here is an online version: [__The OnlineWriting Lab from Purdue University__](https://owl.english.purdue.edu/owl/resource/747/01/).
 
 ### Technology
 
-- As mentioned above, we will be using a [Google Site](https://sites.google.com/site/uwfall2016/) instead of Courseworks. On the Google Site, you find the syllabus, announcements, additional resources, and links to two important Google Drive folders. The [first folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDRVUzMFdjOW9xY3M) contains all of our course readings, organized by progression and class day. The [second folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDb2o0M2NuSU9ZWGs) will be where you complete all of your writing exercises and drafts. After the first day of class, create a document in the "P1" folder, and title it with your last name. This will be your "project file" for the first progression. You will complete all of your writing exercises and drafts in this file (labeling them accordingly). We will then work directly with these files in class, and your peers and I will comment directly on drafts during peer reviews, etc.
+- As mentioned above, we will be using a [Google Site](https://sites.google.com/site/uwfall2016/) instead of Courseworks. On the Google Site, you find the syllabus, announcements, additional resources, and links to two important Google Drive folders. The [first folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDRVUzMFdjOW9xY3M) (Readings) contains all of our course readings, organized by progression and class day. The [second folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDb2o0M2NuSU9ZWGs) (Writing) will be where you complete all of your writing exercises and drafts. After the first day of class, create a document in the "P1" folder, and title it with your last name. This will be your "project file" for the first progression. You will complete all of your writing exercises and drafts in this file (labeling them accordingly). We will then work directly with these files in class, and your peers and I will comment directly on drafts during peer reviews, etc.
 
 - Because we will be working directly with Google Docs in class, this means you must bring your laptop to every class. If you do not have a personal laptop that you can bring, this is fine. Just email me after the first class and we will work something out.
 
@@ -193,17 +193,17 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 ### 1. __Tuesday 9/6__: Active and Close Reading
 - In-class materials:
-  - Syllabus
-  - "Maldive Shark"
+    - Syllabus
+    - "Maldive Shark"
 
 ### 2. __Thursday 9/8__: Identifying Interpretive Problems
 - Primary reading:
 	- **Grandin**, Temple. "Animals are not things."
 - Craft reading:
-  - **Kain**, Patricia. "How to Do a Close Reading"
-  - **Arsic**, Branka. "Our Things" (excerpt)
-  - **Johnson**, Barbara. "Apostrophe, Animation, and Abortion" (excerpt)
-  - **Mead**, Rebecca. "The Semiotics of Rose Gold"
+    - **Kain**, Patricia. "How to Do a Close Reading"
+    - **Arsic**, Branka. "Our Things" (excerpt)
+    - **Johnson**, Barbara. "Apostrophe, Animation, and Abortion" (excerpt)
+    - **Mead**, Rebecca. "The Semiotics of Rose Gold"
 - Due:
 	- Exercise 1
 - In-class materials:
@@ -218,11 +218,11 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Due:
 	- Exercise 2
 -	In-class materials:
-	- "Rhetorical Terms: Observations, Claims, and Warrants" [add "interpretive problems" and motives to worksheet]
+	- "Rhetorical Terms: Observations, Claims, Warrants, and Motives"
 
 ### 4. __Thursday 9/15__: Structuring an Essay
 - TMR reading:
-  - **Bahk**, Sue. "The Final Judgement in 'Monster Culture'" (from [The Morningside Review](http://morningsidereview.org/essay/the-final-judgement-in-monster-culture/))
+    - **Bahk**, Sue. "The Final Judgement in 'Monster Culture'" (from [The Morningside Review](http://morningsidereview.org/essay/the-final-judgement-in-monster-culture/))
 - Due:
 	- __Exploratory draft__ for __P1__
 
@@ -231,15 +231,17 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 ### 5. __Tuesday 9/20__: Radical Revision
 - Due:
 	- Exercise 3
+- In class materials:
+    - "Radical Revision"
 
 ## __Formal draft__ for __P1__ due Wednesday, 9/21!
 
 ### 6. __Thursday 9/22__: Reader-Based Writing
 - Craft reading:
-  - __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Revising Style: Telling your Story Clearly" (from _The Craft of Research_))
-  - __Orwell__, George. "Politics and the English Language"
+    - __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Revising Style: Telling your Story Clearly" (from _The Craft of Research_))
+    - __Orwell__, George. "Politics and the English Language"
 - Due:
-  - Exercise 4
+    - Exercise 4
 
 ## **Peer Review** of Formal Draft due **tomorrow** Friday 9/22
 
@@ -257,9 +259,9 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Primary reading:
 	- **Searle**, John. "Minds, Brains, Programs."
 - Craft reading:
-  - __Graff__, Gerald, and __Birkenstein__, Cathy, "Entering the Conversation" (from _They Say / I Say_)
+    - __Graff__, Gerald, and __Birkenstein__, Cathy, "Entering the Conversation" (from _They Say / I Say_)
 - Due:
-  - Exercise 1
+    - Exercise 1
 
 ## __Final draft__ for __P1__ due __Monday__ 10/3!
 
@@ -269,7 +271,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Craft reading:
 	- __Graff__, Gerald, and __Birkenstein__, Cathy. "Yes/No/Okay, But" (from _They Say / I Say_)
 - Due:
-  - Exercise 2
+    - Exercise 2
 
 ### 10. __Thursday 10/6__: Conversations Intersecting
 - Primary reading:
@@ -277,7 +279,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Craft reading:
 	- __Graff__, Gerald, and __Birkenstein__, Cathy. "So what, who cares?"
 - Due:
-  - Exercise 3
+    - Exercise 3
 - In-class materials:
 	- __Bizup__, Joseph. "Developing a Vocabulary for Talking About Sources (BEAM)"
 
@@ -295,7 +297,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Craft reading:
 	- __Graff__, Gerald, and __Birkenstein__, Cathy. "As a Result" (from _They Say / I Say_)
 - Due:
-  - **Peer review** of your classmate's exploratory draft
+    - **Peer review** of your classmate's exploratory draft
 - In-class materials:
 	- __Weber__, Ryan and Karl __Stolley__. "Writing Transitions" (from __OWL__ at Purdue)
 
@@ -303,7 +305,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Craft reading:
 	- __Harris__, Joseph. "Taking an Approach" and "Revising" (from _Rewriting: How To Do Things With Texts_)
 - Due:
-  - **Formal draft** for **P2**
+    - **Formal draft** for **P2**
 
 ### 14. __Thursday 10/20__: Peer Review Workshop
 - Due:
@@ -361,7 +363,7 @@ __Library Session__
 	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Revising Your Organization and Argument" (from _The Craft of Research_)
 - Due:
 	- Exercise 4
-  - **Peer review** of your classmate's exploratory draft
+    - **Peer review** of your classmate's exploratory draft
 
 ### 21. __Tuesday 11/17__: First and Last Words
 - Craft reading:
@@ -382,24 +384,24 @@ __Library Session__
 ### 23. __Tuesday 11/29__: Writing Beyond the University
 - Craft readings:
 	- __Gordon__, Glenn Michael, "Reaching Beyond the University: Writing the Op-Ed" (from [The Mornigside Review](http://morningsidereview.org/essay/reaching-beyond-the-university-writing-the-op-ed/))
-- TMR readings:
-  - "Going Public: Writing and Publishing the Op-Ed" (packet of published Op-Eds, Spring 2016)
+- TMR reading:
+     - "Going Public: Writing and Publishing the Op-Ed" (packet of published Op-Eds, Spring 2016)
 - Due:
 	- Exercise 1
 
 ### 24. __Thursday 12/1__: Reaching a New Public
 
 - Check out the [Electric Typewriter](http://tetw.org/) for various opinion pieces written on technology and the internet. Here are some examples of shorter op-ed pieces you might read:
-  - **Crawford,** Kate. "Artificial Intelligence's White Guy Problem" (from [The New York Times](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html))
-  - **Hawking,** Stephen. "Transcendence looks at the implications of artificial intelligence - but are we taking AI seriously enough?"" (from [The Independent](http://www.independent.co.uk/news/science/stephen-hawking-transcendence-looks-at-the-implications-of-artificial-intelligence-but-are-we-taking-9313474.html))
-  - **Chen,** Adrien. "Don't be a stranger" (from [The New Inquiry](http://thenewinquiry.com/essays/dont-be-a-stranger/))
-  - **Bissell**, Tom. "Video games: the addiction" (from [The Guardian](https://www.theguardian.com/theobserver/2010/mar/21/tom-bissell-video-game-cocaine-addiction))
+    - **Crawford,** Kate. "Artificial Intelligence's White Guy Problem" (from [The New York Times](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html))
+    - **Hawking,** Stephen. "Transcendence looks at the implications of artificial intelligence - but are we taking AI seriously enough?"" (from [The Independent](http://www.independent.co.uk/news/science/stephen-hawking-transcendence-looks-at-the-implications-of-artificial-intelligence-but-are-we-taking-9313474.html))
+    - **Chen,** Adrien. "Don't be a stranger" (from [The New Inquiry](http://thenewinquiry.com/essays/dont-be-a-stranger/))
+    - **Bissell**, Tom. "Video games: the addiction" (from [The Guardian](https://www.theguardian.com/theobserver/2010/mar/21/tom-bissell-video-game-cocaine-addiction))
 - Due:
-  - Exercise 2
+    - Exercise 2
 
 ####  __Friday 12/2__: Going Public: Writing and Publishing the Op-Ed (1-2:30pm)
 
-## __Final draft__ for __P3__ (2500-3000 w.) due __this Sunday__ (12/4)!
+## __Final draft__ for __P3__ due __Sunday__ 12/4!
 
 ### 25. __Tuesday 12/6__: Crafting an Opinion
 - Craft reading:
@@ -410,7 +412,7 @@ __Library Session__
 
 ### 26. __Thursday 12/8__: Last Day of Class
 
-## __Final draft__ for __P4__ due __Monday__ (12/12)!
+## __Final draft__ for __P4__ due __Monday__ 12/12!
 
 # Key Dates
 

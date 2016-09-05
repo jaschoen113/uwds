@@ -14,8 +14,6 @@
 
 
 ##syllabus
-- decide whether to do exhibit or not in p2
-- add stuff about google docs
 
 ##courseworks/site
 - make sure all p1 materials are on google site - readings, handouts, excercises, prompts; add links between github site and courseworks?
@@ -24,6 +22,8 @@
 
 - tell meadhbh to upload whichever texts i pick
 - send syllabus and videos to offic
+
+- do practice run of lesson
 
 ##other ideas
 - work with drafts and transitional moments to assess whether complex or simple (the language which signals a shift in the arugment)
