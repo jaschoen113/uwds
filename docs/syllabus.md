@@ -132,7 +132,8 @@ Each final essay will receive a number grade out of 100 possible points. At the 
 |C|72.5-77.4|
 |C-|69.5-72.4|
 |D|59.5-69.4|
-|F|0-59.4|
+|F|0-59.4|  
+
 
 - “__A__” (_100_-_90_) essays not only fulfill the goals of the progression, but push beyond those goals in surprising ways. This is more likely to be possible when the writer has found something compelling to write about and has taken great care to attend to his or her language and form. __A__ essays reflect excellence and artistry.
 
