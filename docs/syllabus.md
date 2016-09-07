@@ -421,5 +421,5 @@ __Library Session__
 |:-----------:|:------------:|:-----------:|:-------:|
 |P1| Thursday 9/15 | Wednesday 9/21 | Monday 10/3 |
 |P2| Tuesday 10/11 | Tuesday 10/18 | Friday 10/28 |
-|P3| Tuesday 11/10 | Tuesday 11/22 | Sunday 12/4 |
+|P3| Thursday 11/10 | Tuesday 11/22 | Sunday 12/4 |
 |P4| Tuesday 12/6 | --- | Monday 12/12 |
