@@ -1,8 +1,11 @@
 ##Progression one: Critical Response Essay
 
 Draft Deadlines:
+
 Exploratory draft due **Thursday 9/15**
-Formal draft due **Wednesday 9/21**
+
+Formal draft due **Wednesday 9/21**  
+
 Final draft due **Monday 10/3**   
 
 Prompt:
