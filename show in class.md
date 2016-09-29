@@ -1,13 +1,17 @@
 things to show in class
 
 7. turing - chatterbot
-8. searle - moral machine?
+8. searle - bristlcone snag poem
 9. Hofstader -
-http://deepdreamgenerator.com/gallery (do for class)
-10. shakespeare twitter and turing test poems
+http://deepdreamgenerator.com/gallery
+https://deepart.io/
+(do for class)
+also show google neural network image
+try to find a side by side analysis for exhibit lesson (poem and artwork, etc)
+10. Twitter bots: deep drumpf, pentamatron,
 11. https://www.youtube.com/watch?v=LSHZ_b05W7o&app=desktop (flow-machine - show in class)
-12. 
-13.
+12. moral machine
+13. 
 14.
 
 other links:
