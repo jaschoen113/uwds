@@ -281,20 +281,18 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 	- __Graff__, Gerald, and __Birkenstein__, Cathy. "So what, who cares?"
 - Due:
     - Exercise 3
-- In-class materials:
-	- __Bizup__, Joseph. "Developing a Vocabulary for Talking About Sources (BEAM)"
 
 ### 11. __Tuesday 10/11__: Using Sources
 - Due:
 	- __Exploratory draft__ for __P2__
 - In-class materials:
 	- __Colomb__, Gregory G. and __Williams__, Joseph M. "Quotation, Paraphrase, Citation"
-	- __Howard__, Rebecca Moore, Tanya K. __Rodrigue__, and Tricia C. __Serviss__. "Writing from Sources, Writing from Sentences"
+  - ICE (Introduce, Explain, Cite) handout
 
-###12. __Thursday 10/13__: Connecting Sentences and Connecting Ideas
+### 12. __Thursday 10/13__: Connecting Sentences and Connecting Ideas
 - TMR reading:
-	- **Webre,** Jude. "From Scuffling to Channel-Surfing: American Politics in the Television Age"
-   (from [The Morningside Review](http://morningsidereview.org/essay/from-scuffling-to-channel-surfing-american-politics-in-the-television-age/))
+	- Benedict, T.R. "“The Giddiness of the Performance”: An Investigation of Disturbing, Delightful Drag" (from [The Morningside Review](http://morningsidereview.org/essay/the-giddiness-of-the-performance-an-investigation-of-disturbing-delightful-drag/))
+  - Man, Emily. "Brainy or Busty? Both. Sexuality and Intelligence in BBC’s Sherlock" (from [The Morningside Review](http://morningsidereview.org/essay/brainy-or-busty-both-sexuality-and-intelligence-in-bbcs-sherlock/))
 - Craft reading:
 	- __Graff__, Gerald, and __Birkenstein__, Cathy. "As a Result" (from _They Say / I Say_)
 - Due:
