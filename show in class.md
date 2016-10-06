@@ -10,8 +10,8 @@ also show google neural network image
 try to find a side by side analysis for exhibit lesson (poem and artwork, etc)
 10. Twitter bots: deep drumpf, pentamatron,
 11. https://www.youtube.com/watch?v=LSHZ_b05W7o&app=desktop (flow-machine - show in class)
-12. moral machine
-13. 
+12. AI screenplay
+13. moral machine  
 14.
 
 other links:
