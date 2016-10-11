@@ -1,4 +1,4 @@
-P2 Peer Review
+P2 Exploratory Draft Peer Review
 Due Thursday 10/13
 
 - Read through your peer's exploratory draft (on his/her project file in Google Drive)
