@@ -300,15 +300,18 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - In-class materials:
 	- __Weber__, Ryan and Karl __Stolley__. "Writing Transitions" (from __OWL__ at Purdue)
 
-### 13. __Tuesday 10/18__: Revision as Conversation
-- Craft reading:
-	- __Harris__, Joseph. "Taking an Approach" and "Revising" (from _Rewriting: How To Do Things With Texts_)
+### 13. __Tuesday 10/18__: Revision as Conversation"
 - Due:
     - **Formal draft** for **P2**
 
 ### 14. __Thursday 10/20__: Peer Review Workshop
+- Craft reading:
+  - __Harris__, Joseph. "Revising"
 - Due:
-	- **Peer review** of your classmate's formal draft
+  - Revise according to Tuesday's workshop feedback
+  - Write a formal draft abstract and questions for reader
+- In class:
+  	- **Peer review** of your classmate's formal draft
 
 ## Progression Three: Research
 
