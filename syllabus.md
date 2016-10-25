@@ -323,8 +323,6 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 	- __Hayles__, Katherine. "Embodied Virtuality: Or How to Put Bodies Back into the Picture"
 
 ### 16. __Thursday 10/27__: Reading Plans
-- Primary reading:
-  - __Zizi__, Papacharissi. "The virtual sphere: The internet as a public sphere"
 - Craft readings:
 	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Thinking in Print" (from _The Craft of Research_)
 - TMR reading:

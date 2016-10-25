@@ -1,0 +1,5 @@
+P3 Exercise 1
+
+1. Re-read Hayles' "Embodied Virtuality." Find three separate moments where Hayles is entering into a different intellectual conversation (i.e. gender studies). Type up a quote from each of these moments (1-2 sentences). Identify what specific conversation Hayles is entering, what other voices/sources she engages incorporates to do so, and what she says about virtual reality and that other conversation.
+
+2. Start exploring virtual reality films--look at the suggestions on the Google Site, and search for other films as well. Try watching some with your Google Cardboard (if you don't have one yet, then watch them in non-VR mod for now). You don't have to necessarily watch the entire films (especially if some are long and you are not interested after a couple minutes). List two VR films that you particularly liked, and briefly describe (bullet points are fine) what you liked about them and potential avenues of research with them. Research avenues can be either cultural/historical (i.e. virtual reality and post-colonialism) or genre-based (i.e. freedom/constraints of perspective in virtual reality). 
