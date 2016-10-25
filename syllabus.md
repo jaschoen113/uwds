@@ -320,13 +320,13 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 ### 15. __Tuesday 10/25__: Seed Texts, Seed Questions
 
 - Primary reading:
-	- __Hayles__, Katherine. "Toward Embodied Virtuality" (from _How We Became Posthuman_).
+	- __Hayles__, Katherine. "Embodied Virtuality: Or How to Put Bodies Back into the Picture"
 
 ### 16. __Thursday 10/27__: Reading Plans
-
+- Primary reading:
+  - __Zizi__, Papacharissi. "The virtual sphere: The internet as a public sphere"
 - Craft readings:
 	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Thinking in Print" (from _The Craft of Research_)
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Research, Researchers, and Readers" (from _The Craft of Research_)
 - TMR reading:
 	- __Maier-Balough__, Elizabeth. "Maternal Integrity and the Fetal Image: Ultrasound in the Abortion Rights Debate" (From [The Morningside Review](http://morningsidereview.org/essay/maternal-integrity-and-the-fetal-image-ultrasound-in-the-abortion-rights-debate/))
 - Due:
