@@ -337,7 +337,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 __Library Session__
 
 - Craft reading:
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Engaging Sources" (from _The Craft of Research_)
+	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "From Topics to Questions" and "From Questions to Problems" (from _The Craft of Research_)
 - TMR reading:
 	- **Jakub**, Lucy. "Who Swims with the Blobfish?: Anthropomorphic Bias in Conservation" (From [The Morningside Review](http://morningsidereview.org/essay/who-swims-with-the-blobfish-anthropomorphic-bias-in-conservation/))
 - Due:
@@ -345,11 +345,11 @@ __Library Session__
 
 ### 18. __Thursday 11/3__: Writing Plans
 - Craft reading:
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Asking Questions, Finding Answers" (from _The Craft of Research_
+	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Using Sources" (from _The Craft of Research_
 - TMR reading:
 	- **Wright**, Rebecca. "Hives, Damn Hives, and the Internet" (From [The Morningside Review](http://morningsidereview.org/essay/hives-damn-hives-and-the-internet/))
 - Due:
-	- Annotated bibliography
+	- Exercise 3
 
 ### 19. __Thursday 11/10__: Drafting
 - Craft reading:
