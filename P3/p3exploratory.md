@@ -4,7 +4,7 @@ As with previous exploratory drafts, you should use this assignment to explore n
 
 Because a research essay requires you to tailor your research according to your research question, by the end of this exercise you should have a narrow and original research question. I've broken this exploratory draft down between your own claims and your research. But you will inevitably work between the various sections as you research/write. For example, you might start with a research question in section 1, but as you add more sources to section 3, you might tweak and develop that question in section 1.  
 
-1. (~500 words) Describe your general research project/topic. Make sure to accomplish the following:
+1. (~300-500 words) Describe your general research project/topic. Make sure to accomplish the following:
   - Describe the exhibit you have chosen
   - Describe what specifically you are examining about the exhibit
   - Describe the larger conversation you are entering via your exhibit (historical/cultural conversation or genre conversation - and which specific one). You might include some preliminary research here, or at least a summary of background research. That is, include the more "encyclopedic" research that sets the context for your specific research question.
