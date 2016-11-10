@@ -354,8 +354,9 @@ __Library Session__
 ### 19. __Thursday 11/10__: Drafting
 - Craft reading:
 	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Drafting Your Report" (from _The Craft of Research_)
-- Due:
-	- __Exploratory draft__ for __P3__
+
+
+__Exploratory draft__ for __P3__ due Saturday 11/12 at 5pm
 
 ### 20. __Tuesday 11/15__: Revising
 
@@ -363,7 +364,8 @@ __Library Session__
 	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Revising Your Organization and Argument" (from _The Craft of Research_)
 - Due:
 	- Exercise 4
-    - **Peer review** of your classmate's exploratory draft
+- In-class:
+  - **Peer review** of your classmate's exploratory draft
 
 ### 21. __Thursday 11/17__: First and Last Words
 - Craft reading:
