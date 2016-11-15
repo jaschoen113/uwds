@@ -360,8 +360,6 @@ __Exploratory draft__ for __P3__ due Saturday 11/12 at 5pm
 
 ### 20. __Tuesday 11/15__: Revising
 
-- Craft reading:
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Revising Your Organization and Argument" (from _The Craft of Research_)
 - Due:
 	- Exercise 4
 - In-class:
