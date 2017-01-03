@@ -1,16 +1,16 @@
 ---
 title: 'University Writing - Data Sciences and Engineering'
 author: Jenna Schoen
-date: Fall 2016
+date: Spring 2016
 ---
 
-|__C1010.503__|__Fall 2016__|
+|__C1010.503__|__Spring 2017__|
 |:-----------:|:-----------|
-|_Day/Time_:|Tuesday and Thursday - __11:40__ - __12:55 a.m.__|
-|_Location_:|Philosophy Hall __Room 201B__|
+|_Day/Time_:|Tuesday and Thursday - __10:10__ - __11:25 a.m.__|
+|_Location_:| |
 |_Instructor_:|Jenna Schoen|
 |_Email_:|jas2286@columbia.edu|
-|_Office hours_:|Thursday - __1:10__-__3:10 p.m__ - Brownie's (basement of Avery)|
+|_Office hours_:|Thursday - __11:30__-__1:30 p.m__ - Brownie's (basement of Avery)|
 |_Mailbox Address_:|310 Philosophy Hall|
 
 # University Writing - Data Sciences and Engineering Syllabus
@@ -18,27 +18,33 @@ date: Fall 2016
 
 Can an animal feel pain, joy, or fear as a human does? Will a machine ever be able to think like a human can? What does it mean to feel, to think, and, moreover, to be human? How does technology narrow, extend, reveal, or blur the boundaries between the human and non-human? Might technology transform humans into new creatures? Can a technology become a living and thinking being itself? How should we treat future animals, machines, humans, and cyborgs in a world where the human is not the only feeling and thinking creature?
 
-These are some the questions we will be exploring in our data science-themed University Writing class. University Writing is designed to help undergraduates read and write essays in order to participate in the academic conversations that form our intellectual community. In our section, we will be engaging with particular conversations surrounding animal, machine, and human intelligence. We will be exploring the questions above (and more) as we read essential essays that have shaped these conversations. These essays and our discussions will then provide fodder for your own writing.
+These are some the questions we will be exploring in our data science-themed University Writing class. University Writing is designed to help undergraduates read and write essays in order to participate in the academic conversations that form our intellectual community. In our section, we will be discussing what it means to be human and how science and technology complicate that question. We will be reading essays that approach this question in various ways. These essays and our discussions will then provide fodder for your own writing.
 
-Though our readings will draw from debates in science and technology, this class does not presume that students will arrive with any background or identified interest in the data sciences and data engineering. Above all, our focus is to develop as writers and readers. Together, we will study how scholars make and support their arguments. Our readings will include academic essays and book chapters, as well as other scholarly and popular texts, all addressing questions of technology and data sciences in some way. In the process of writing academic essays, we will practice the same kind of critical analysis, revision, collaboration, and research skills that these scholars use in their work every day. The main goal for this course is for you to emerge as a more confident reader and writer, capable of writing clear, persuasive prose – skills that will serve you no matter what field you choose.
+This class does not presume that students will arrive with any background or identified interest in the data sciences and data engineering. Above all, our focus is to develop as writers and readers. Together, we will study how scholars make and support their arguments. Our readings will include academic essays and book chapters, as well as other scholarly and popular texts, all addressing questions of technology and science in some way. In the process of writing academic essays, we will practice the same kind of critical analysis, revision, collaboration, and research skills that these scholars use in their work every day. The main goal for this course is for you to emerge as a more confident reader and writer, capable of writing clear, persuasive prose – skills that will serve you no matter what field you choose.
 
- We will give special attention to the practices of close reading, rhetorical analysis, research, collaboration, and substantive revision. Students will learn that writing is a process of continual refinement of ideas and their expression. Rather than approaching writing as an innate talent, this course will teach writing as a unique, learned skill that can be practiced and developed.  Over the course of the semester, you will read and discuss texts from a number of fields, complete regular informal reading and writing exercises, write several longer essays, and prepare an editorial for a public audience.
+We will give special attention to the practices of close reading, rhetorical analysis, research, collaboration, and substantive revision. Students will learn that writing is a process of continual refinement of ideas and their expression. Rather than approaching writing as an innate talent, this course will teach writing as a unique, learned skill that can be practiced and developed.  Over the course of the semester, you will read and discuss texts from a number of fields, complete regular informal reading and writing exercises, write several longer essays, and prepare an editorial for a public audience.
+
+In this course, writing will be taught both through praxis (“doing”) and analysis (“breaking up into pieces”). Classes are divided into **Reading Days** and **Writing Days.** For both of these you will come to class having thoroughly prepared a brief assigned reading: that is, you will have done the reading at least twice, marked especially interesting or challenging passages, and prepared several well thought-out discussion questions; in addition, on Writing Days, you will have prepared a Response Letter (details in class). The primary difference between Reading Days and Writing Days is that on the former we will be discussing Course Readings, which are published essays in modern English; and on the latter we will be discussing your own work and development.
 
 __Note__: Your syllabus is a reference document to be frequently consulted. In it you will find course policies, all major due dates, and a schedule of readings. The syllabus is available online on our [Google Site](https://sites.google.com/site/uwfall2016/). Readings and due dates are subject to change throughout the semester, but I will give you warning well advance and update the online syllabus if anything changes.
 
 ## Requirements
 
-1. Complete four revised essays ranging from 750-3000 words, each accompanied by at least one draft. Students must submit all __four final essays__ in order to pass the class. Final essays must be submitted on [CourseWorks](http://Courseworks.columbia.edu).
+1. Four **progression essays** ranging from 750-3000 words. Final essays must be submitted on [CourseWorks](http://Courseworks.columbia.edu)
 
-1. __Attend__ and participate in all classes and conferences.
+1. **Reading assignments** and __writing exercises__. Complete all exercises in your project file on our shared [Google Drive](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDb2o0M2NuSU9ZWGs)
 
-1. Prepare reading and __writing exercises__ as assigned. Complete all exercises in your project file on our shared [Google Drive](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDb2o0M2NuSU9ZWGs)
+1. One **Reading Day Presentation**, in which you’ll contextualize a Course Reading, historically and biographically (10 minutes max.), and lead discussion
+
+1. One **Writing Day Workshop**, in anticipation of which you will upload a shared Google Doc to the Workshop folder on our [Google Drive](link to drive folder)
+
+1.  Attend and participate in all classes and conferences
 
 ### Assignments
 
 You will do at least three types of writing in this course: __exercises__, __drafts__, and __final essays__. These assignments will connect with one another in a developmental sequence called a __progression__. We will be working on __four progressions__ this semester.
 
-- __Exercises__: (100-750 words) Exercises include any kind of writing that you do in class or on your own to practice skills that you will need for successful completion of the final essay. They are short, preliminary writing tasks designed to help you reflect on the readings, generate ideas, practice skills you will use in an essay, and give feedback to classmates. Exercises are not essays, but each exercise will help you build toward your essay draft. You will do some kind of __informal writing__ every day in class, and __a writing exercise__ will be due for almost every class. Exercises do not receive individual grades. They will be treated as __pass/fail__ assignments.
+- __Exercises__: (100-750 words) Exercises include any kind of writing that you do in class or on your own to practice skills that you will need for successful completion of the final essay. They are short, preliminary writing tasks designed to help you reflect on the readings, generate ideas, practice skills you will use in an essay, and give feedback to classmates. Exercises are not essays, but each exercise will help you build toward your essay draft. Exercises do not receive individual grades. They will be treated as __pass/fail__ assignments.
 
 - __Drafts__: (750+ words) After you have completed a series of exercises, you will write __two drafts__ of your essay for the progression. Like the exercises, the drafts are opportunities to explore your ideas, but they are also the beginnings of formal essays. The better your draft, the more useful will be the feedback you will get on it.  In this class you will learn ways to improve even the best work you can produce on your own. To facilitate revision, your drafts will receive comments from both me and your classmates. Drafts are __required__ but do not receive individual grades.
 
@@ -75,46 +81,17 @@ You will write four essays, which can be broadly described as follows:
 
 ## Course Policies
 
-### Attendance
+### Final Grades
+Your course work for the semester will be weighted as follows:
 
-The discussion and workshop elements that are at the center of this course cannot be made up, so __attendance is vital__.
-
-### Documentation for excused absences
-
-- __Religious observance__: By the fourth class session, send an email to your instructor — copied to your academic advisor — in which you outline all of the dates you will be absent for the semester. Create a plan with your instructor to make up work or reschedule deadlines.
-
-- __Athletic commitments__: Only participation in athletic contests will count as excused absences; practice sessions do not.  Prior to any absence, you must submit to your instructor a completed and signed [“Columbia University Intercollegiate Athletics Academic Absence Notification Form”](http://www.college.columbia.edu/sites/default/files/intercollegiate_athletic_academic_absence_notification_form.pdf).
-
-- __Illness__: A signed doctor’s note is required to excuse an absence. You should bring the note to class on the day you are able to return. It is also advisable to contact your instructor by email in order to alert him or her that you will be unable to attend class.
-
-- __Section changes__: If you change your section of University Writing in the first two weeks of class, you must provide your new instructor a completed and signed “University Writing Attendance Confirmation” form. Please see Mr. John Stobo in the Undergraduate Writing Program office, 310 Philosophy Hall, for a copy of the form.
-
-### Unexcused absences
-
-All other absences, including those due to late registration, are considered __unexcused__. Unexcused absences will be penalized according to the chart below. Please also note the Lateness policy in the next section to understand how latenesses count towards your total number of absences.
-
-More than six unexcused absences will result in an automatic F course grade.
-
-|Number of absences|Grade Penalty|
-|:----------------:|:------------|
-|1-3|You may incur 1/3 of a letter on the final grade for the progression per absence.|
-|4|1/3 of a letter, course grade|
-|5|full letter, course grade|
-|6|2 full letters, course grade|
-|7|F or UW, course grade|
-
-
-### Lateness
-Lateness is disruptive to the entire class. If you arrive once class is underway or depart before the class session has ended, you will be marked as late. Two latenesses count as one absence in calculating your final course grade.
-
-### Conferences and Office Hours
-You will have two 20-30 minute conferences with me during the semester. These conferences give you the opportunity to discuss your ideas, to work through your drafts, to prepare for presentations, or to revise your essays. You are welcome to come and see me in office hours or by appointment to discuss any aspect of the course.
-
-### Assessment and Response
-
-During the first three progressions, I will write marginal comments and typed end-comments to one preliminary draft as well as your final draft. For your final progression, you will receive end-comments on your final draft that respond to the essay as well as your development over the course of the semester.
-
-My comments are designed to help you assess your draft and prioritize goals for the next stage of your writing. Just as important, my comments will offer you practical strategies designed to further your ongoing development as a writer.  If you have any questions about my comments, please make an appointment with me to review them.
+| Progression |  Word Limit | Weight |
+|:-----------:|:------------|:-----------|-------:|
+|Progression 1: _Critical Response_|1200-1500 w.| __15%__ |
+|Progression 2: _Conversation Essay_|1500-2000 w.| __20%__ |
+|Progression 3: _Research Essay_|2400-3000 w.| __35%__ |
+|Progression 4: _Editorial Essay_|~750 w. | __15%__|
+|Presentation, Workshop & Participation|  | __15%__|
+|__Total__ |   | __100%__|
 
 ### Essay Grading
 
@@ -151,21 +128,43 @@ Each final essay will receive a number grade out of 100 possible points. At the 
 
 Keeping deadlines is an important aspect of this class, as it gives you the time to develop and revise your ideas, and it gives me the time to offer you productive feedback. If you turn in work late, I may not be able to provide you feedback.
 
-Feedback and revision are critical components of this class. If you do not hand in a preliminary draft at least 48 hours before the deadline of the final draft, your final essay grade will be lowered by one whole grade (e.g. from a B to a C). Your grade on the final essay will be lowered by 1/3 (e.g. from a B- to a C+) beginning the minute after its deadline. The grade will continue to go down by a third every 24 hours until the essay is submitted. All final drafts must be submitted to Courseworks by the deadline in order to be considered on time. According to the policy of the Undergraduate Writing Program, failure to submit the final draft of any essay by the end of the semester will result in an automatic failure for the course.
+If you hand in a **formal draft 48+ hours late**, your **final essay grade will be lowered by 10 points**. If you hand in a **final essay late**, your **final essay grade will be lowered by 3 points for every day that it is late**.  
 
-### Final Grades
-Your course work for the semester will be weighted as follows:
+All final drafts must be submitted to Courseworks by the deadline in order to be considered on time. According to the policy of the Undergraduate Writing Program, failure to submit the final draft of any essay by the end of the semester will result in an automatic failure for the course.
 
-| Progression | Final Essay | Word Limit | Weight |
-|:-----------:|:------------|:-----------|-------:|
-|Progression 1|_Critical Response_|1200-1500 w.| __20%__ |
-|Progression 2|_Conversation Essay_|1500-2000 w.| __25%__ |
-|Progression 3|_Research Essay_|2400-3000 w.| __35%__ |
-|Progression 4|_Editorial Essay_|~750 w. | __20%__|
-|__Total__ |  |  | __100%__|
+### Presentation, Workshop, and Participation Grade  
 
-### Participation
-There is no separate grade for participation. In rare cases I may adjust a final grade up or down by one-third of a letter grade to account for exceptional participation or lack of participation—i.e. chronic lateness, missed conferences, or lack of preparation for class. A normal level of participation will receive no adjustment.
+Your presentation, workshop, and general participation make up 15% of your grade. Presentation and workshop grades are based on the requirements of each assignment (short context presentation, prepared discussion questions, workshop draft ready 24 hours in advance, etc). Your participation grade is based on attendance, tardiness, and attention in class. Unexcused absences will affect your grade as follows:
+
+|Number of absences|Grade Penalty|
+|:----------------:|:------------|
+|1-3| 3 points off participation grade per absence |
+|4| 3 points off final course grade |
+|5| 10 points off final course grade |
+|6| 20 points off final course grade |
+|7| F or UW, course grade |
+
+It is also critical that you are on time for class. Every **2 latenesses** will count as **1 absence**.
+
+The following are the only reasons for **excused** absences:   
+
+- __Religious observance__: By the fourth class session, send me an email — copied to your academic advisor — in which you outline all of the dates you will be absent for the semester.
+
+- __Athletic commitments__: Only participation in athletic contests will count as excused absences; practice sessions do not.  Prior to any absence, you must send me a completed and signed [“Columbia University Intercollegiate Athletics Academic Absence Notification Form”](http://www.college.columbia.edu/sites/default/files/intercollegiate_athletic_academic_absence_notification_form.pdf).
+
+- __Illness__: A signed doctor’s note is required to excuse an absence. You should bring the note to class on the day you are able to return. You should also email me and tell me that you'll be missing class.
+
+- __Section changes__: If you change your section of University Writing in the first two weeks of class, you must provide your new instructor a completed and signed “University Writing Attendance Confirmation” form. Please see Mr. John Stobo in the Undergraduate Writing Program office, 310 Philosophy Hall, for a copy of the form.
+
+### Conferences and Office Hours
+You will also have **two** 20-30 minute conferences with me during the semester. These conferences give you the opportunity to discuss your ideas, to work through your drafts, to prepare for presentations, or to revise your essays. You are welcome to come and see me in office hours or by appointment to discuss any aspect of the course. These conferences also count towards your participation grade (a missed conference will incur 10 points off the participation grade).
+
+### Assessment and Response
+
+During the first three progressions, I will write marginal comments and typed end-comments to your formal draft as well as your final draft. For your final progression, you will receive end-comments on your exploratory draft, and marginal and end comments on your final draft.
+
+My comments are designed to help you assess your draft and prioritize goals for the next stage of your writing. Just as important, my comments will offer you practical strategies designed to further your ongoing development as a writer.  If you have any questions about my comments, please make an appointment with me to review them.
+
 
 ### Academic Integrity
 University Writing will provide you with strategies for working ethically and accurately with the texts you engage and fulfilling the [Columbia Undergraduate Honor Code](http://www.college.columbia.edu/ccschonorcode). We will discuss source use practices that prevent plagiarism, a serious academic offense that runs counter to our academic community’s core values of honesty and respect for others. Here is a partial list from the [Columbia University Undergraduate Guide to Academic Integrity](https://www.college.columbia.edu/academics/academicintegrity) of some of the forms plagiarism can take:
@@ -190,176 +189,173 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 ## Progression One: Close Reading
 
-### 1. __Tuesday 1/17__: Course Introduction
-- In-class materials:
-    - Syllabus
+### 1. __Tuesday 1/17__
+- Course Introduction
 
-### 2. __Thursday 1/19__: Close Reading
+### 2. __Thursday 1/19__
 - Reading:
     - **Martin**, Emily. "The Egg and the Sperm: How Science Has Constructed a Romance Based on Stereotypical Male-Female Roles"
     - **Bahk**, Sue. "The Final Judgement in 'Monster Culture.'" (from [The Morningside Review](http://morningsidereview.org/essay/the-final-judgement-in-monster-culture/))
 - Presentation 1 (Martin)
 
-### 3. __Tuesday 1/24__: Artificial Intelligence
+### 3. __Tuesday 1/24__
 - Reading:
-  - **Jamison**, Leslie. "The Empathy Exams."
+    - **Jamison**, Leslie. "The Empathy Exams."
 - Presentation 2 (Jamison)
 
-### 4. __Thursday 1/26__: Empathy
+### 4. __Thursday 1/26__
 - Reading:
-	- **Turing**, Alan. "Computing Machinery and Intelligence."
+    - **Turing**, Alan. "Computing Machinery and Intelligence."
 - Presentation 3 (Turing)  
 
-### 5. __Tuesday 1/31__: Structure
+### 5. __Tuesday 1/31__
 - Workshop 1 (P1 Draft)
 - Due:
-  - Exploratory Draft
+    - Exploratory Draft
 
-### 6. __Thursday 2/2__: Feedback  
+### 6. __Thursday 2/2__  
 - Reading:
-  - **Hofstadter,** Douglas. "On the Seeming Paradox Mechanized Creativity."
+    - **Hofstadter,** Douglas. "On the Seeming Paradox Mechanized Creativity."
 - Presentation 4 (Hofstadter)
 
-### 7. __Tuesday 2/7__: Style  
+### 7. __Tuesday 2/7__  
 - Workshop 2 & 3 (P1 Draft)
 - Due:
-  - P1 Formal Draft  
+    - P1 Formal Draft  
 
 ### **Peer Review** of P1 Formal Draft due Thursday 2/9
 
 ## Progression Two: Conversing
 
-### 8. __Thursday 2/9__: Alternative Intelligence
+### 8. __Thursday 2/9__
 - Reading:
-  - **Sacks,** Oliver. "Anthropologist on Mars."
-  - __Booth__, __Colomb__, and __Williams__. "Revising Style: Telling your Story Clearly."
+    - **Sacks,** Oliver. "Anthropologist on Mars."
+    - __Booth__, __Colomb__, and __Williams__. "Revising Style: Telling your Story Clearly."
 - Presentation 5 (Sacks)
 
-### 9. __Tuesday 2/14__: Animal Intelligence
+### 9. __Tuesday 2/14__
+Reading:
+  - **Man**, Emily. "Brainy or Busty? Both. Sexuality and Intelligence in BBC’s Sherlock" (from [The Morningside Review](http://morningsidereview.org/essay/brainy-or-busty-both-sexuality-and-intelligence-in-bbcs-sherlock/))
 - Workshop 4 (P1 Draft)
 
-### 10. __Thursday 2/16__: Bodies
+### 10. __Thursday 2/16__
 - Reading:
-  - **Grandin,** Temple. "Animals are not things."
+    - **Grandin,** Temple. "Animals are not things."
 - Presentation 6 (Grandin)
 - Due:
     - Exercise 1
 
 ### __Final draft__ for __P1__ due __Friday 2/17__!
 
-### 11. __Tuesday 2/21__: Selfhood  
+### 11. __Tuesday 2/21__
 - Workshop 5 (P2 draft)
 
-### 12. __Thursday 2/23__: Forms
+### 12. __Thursday 2/23__
 - Reading:
-  - **Slater,** Lauren. "Dr. Daedalus."
-  - **Man**, Emily. "Brainy or Busty? Both. Sexuality and Intelligence in BBC’s Sherlock" (from [The Morningside Review](http://morningsidereview.org/essay/brainy-or-busty-both-sexuality-and-intelligence-in-bbcs-sherlock/))
+    - **Slater,** Lauren. "Dr. Daedalus."
 - Presentation 7 (Slater)
 - Due:
-	- Exploratory Draft
+	 - Exploratory Draft
 
-### 13. __Tuesday 2/28__: Engaging
+### 13. __Tuesday 2/28__
 - Workshops 6 & 7 (P2 Drafts)
 
-### 14. __Thursday 3/2__: Style
+### 14. __Thursday 3/2__
 - Reading:
-  - **Dennett**, Daniel. "Self as a center of narrative gravity."
+    - **Dennett**, Daniel. "Self as a center of narrative gravity."
 - Presentation 8 (Dennett)
 - Due:
-  - Formal Draft
+    - Formal Draft
 
 ## Progression Three: Researching
 
-### 15. __Tuesday 3/7__: Virtual Bodies
+### 15. __Tuesday 3/7__
 - Reading:
-	- __Hayles__, Katherine. "Embodied Virtuality: Or How to Put Bodies Back into the Picture"
+	 - __Hayles__, Katherine. "Embodied Virtuality: Or How to Put Bodies Back into the Picture"
 - Presentation 9 (Hayles)
 
-### 16. __Thursday 3/9__: Virtual Reality
+### 16. __Thursday 3/9__
 - Workshop 8 (P2 Draft)
 - Due:
-	- Exercise 1
+	 -  Exercise 1
 
 ### __Final Draft__ for __P2__ due __Sunday__ 3/12!
 
 ##  Spring Break 3/13 & 3/17
 
-### 17. __Tuesday 3/21__: Library
+### 17. __Tuesday 3/21__
 __Meet in Butler 306__
 - Reading:
-	- __Booth__, __Colomb__, and __Williams__. "From Topics to Questions" and "From Questions to Problems"
+	 - __Booth__, __Colomb__, and __Williams__. "From Topics to Questions" and "From Questions to Problems"
 - Due:
-	- Exercise 2
+	 - Exercise 2
 
 ### 18. __Thursday 3/23__:
 - Reading:
-  - **Doniger, Wendy**. "Many Masks, Many Selves."
+    - **Doniger, Wendy**. "Many Masks, Many Selves."
 - Presentation 10 (Doniger)
 
-### 19. __Tuesday 3/28__: Models
+### 19. __Tuesday 3/28__
 - Workshop 9 (P3 Draft)
 - Reading:
-	- **Wright**, Rebecca. "Hives, Damn Hives, and the Internet" (From [The Morningside Review](http://morningsidereview.org/essay/hives-damn-hives-and-the-internet/))
-  - **Jakub**, Lucy. "Who Swims with the Blobfish?: Anthropomorphic Bias in Conservation" (From [The Morningside Review](http://morningsidereview.org/essay/who-swims-with-the-blobfish-anthropomorphic-bias-in-conservation/))
+	 - **Wright**, Rebecca. "Hives, Damn Hives, and the Internet" (From [The Morningside Review](http://morningsidereview.org/essay/hives-damn-hives-and-the-internet/))
+   - **Jakub**, Lucy. "Who Swims with the Blobfish?: Anthropomorphic Bias in Conservation" (From [The Morningside Review](http://morningsidereview.org/essay/who-swims-with-the-blobfish-anthropomorphic-bias-in-conservation/))
 
-### __Exploratory draft__ for __P3__ due Saturday 11/12 at 5pm
+### __Exploratory draft__ for __P3__ due Wednesday 3/29!
 
-### 20. __Thursday 3/30__: Revising
+### 20. __Thursday 3/30__
 - Reading:
-  - **McLuhan, Marshall.** "The Gadget Lover: Narcissus as Narcosis."
+    - **McLuhan, Marshall.** "The Gadget Lover: Narcissus as Narcosis."
 - Presentation 11 (McLuhan)  
-- Due:
-	- Exercise 4
 
-### 21. __Tuesday 4/4__: Intros & Conclusions
+### 21. __Tuesday 4/4__
 - Reading:
-	- __Booth__, __Colomb__, and __Williams__. "Introductions and Conclusions."
+	 - __Booth__, __Colomb__, and __Williams__. "Introductions and Conclusions."
 - Workshop 10 (P3 Draft)  
--  Due:
-	- Exercise 5
 
 ### 22. __Thursday 4/6__:
 - Reading:
-  - Nagel, Thomas. "What is it like to be a bat?"
+    - Nagel, Thomas. "What is it like to be a bat?"
 - Presentation 12 (Nagel)
 - Due:
-  - __Formal draft__ for __P3__
+    - __Formal draft__ for __P3__
 
-### 23. __Tuesday 4/11__:
+### 23. __Tuesday 4/11__
 - Workshop 11 (P3 Draft)
 
 ## Progression Four: Opining
 
-### 24. __Thursday 4/13__: Publics
+### 24. __Thursday 4/13__
 - Reading:
     - Formerly published UW Op-Eds
 - Due:
-	- Exercise 1
+    - Exercise 1
 
 ### __Final draft__ for __P3__ due __Sunday__ 4/16!
 
-### 25. __Tuesday 4/18__: Crafting an Opinion
+### 25. __Tuesday 4/18__
 - Reading:
-  - **Dyson, Freeman.** "Science, Guided by Ethics, Can Lift Up the Poor."
-  - **Crawford,** Kate. "Artificial Intelligence's White Guy Problem" (from [The New York Times](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html))
-  - **Hawking,** Stephen. "Transcendence looks at the implications of artificial intelligence - but are we taking AI seriously enough?"" (from [The Independent](http://www.independent.co.uk/news/science/stephen-hawking-transcendence-looks-at-the-implications-of-artificial-intelligence-but-are-we-taking-9313474.html))
-- Presentation 13
+    - **Dyson, Freeman.** "Science, Guided by Ethics, Can Lift Up the Poor."
+    - **Crawford,** Kate. "Artificial Intelligence's White Guy Problem" (from [The New York Times](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html))
+    - **Hawking,** Stephen. "Transcendence looks at the implications of artificial intelligence - but are we taking AI seriously enough?"" (from [The Independent](http://www.independent.co.uk/news/science/stephen-hawking-transcendence-looks-at-the-implications-of-artificial-intelligence-but-are-we-taking-9313474.html))
+- Presentation 13 (Dyson)
 - Due:
     - Exercise 2
 
-### 26. __Thursday 4/20__:
-- **Sagan, Carl**. "Pale Blue Dot."
-- Presentation 14
+### 26. __Thursday 4/20__
+- Reading:
+    - **Sagan, Carl**. "Pale Blue Dot."
+- Presentation 14 (Sagan)
 - Workshop 12 (P4 Draft)
 
 ####  __Friday 4/21__: Going Public: Writing and Publishing the Op-Ed (1-2:30pm)
 
-### 27. __Tuesday 4/25__:
+### 27. __Tuesday 4/25__
 - Workshops 13 & 14 (P4 Drafts)
 
-### 28. __Thursday 4/27__: Last Day
+### 28. __Thursday 4/27__
 - Due:
-  - Formal draft
+    - Exploratory draft
 
 ### __Final draft__ for __P4__ due __Friday May 5__ !
 
@@ -367,7 +363,7 @@ __Meet in Butler 306__
 
 | Progression | Exploratory Draft | Formal Draft | Final Draft |
 |:-----------:|:------------:|:-----------:|:-------:|
-|P1| Thursday 9/15 | Wednesday 9/21 | Monday 10/3 |
-|P2| Tuesday 10/11 | Tuesday 10/18 | Friday 10/28 |
-|P3| Thursday 11/10 | Tuesday 11/22 | Sunday 12/4 |
+|P1| Tuesday 1/31 | Tuesday 2/7 | Friday 2/17 |
+|P2| Thursday 2/23 | Thursday 3/2 | Sunday 3/12 |
+|P3| Wednesday 3/29 | Thursday 4/6 | Sunday 4/16 |
 |P4| Tuesday 12/6 | --- | Monday 12/12 |
