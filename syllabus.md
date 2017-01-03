@@ -188,231 +188,178 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 # Course Calendar
 
-## Progression One: Critical Response Essay
+## Progression One: Close Reading
 
-### Unsettling the boundary between human and animal
-
-### 1. __Tuesday 9/6__: Active and Close Reading
+### 1. __Tuesday 1/17__: Course Introduction
 - In-class materials:
     - Syllabus
-    - "Maldive Shark"
+    - [poem]
 
-### 2. __Thursday 9/8__: Identifying Interpretive Problems
-- Primary reading:
-	- **Grandin**, Temple. "Animals are not things."
-- Craft reading:
-    - **Kain**, Patricia. "How to Do a Close Reading"
-    - **Arsic**, Branka. "Our Things" (excerpt)
-    - **Johnson**, Barbara. "Apostrophe, Animation, and Abortion" (excerpt)
-    - **Mead**, Rebecca. "The Semiotics of Rose Gold"
+### 2. __Thursday 1/19__: Close Reading
+- Reading:
+    - **Martin**, Emily. "The Egg and Sperm: How Science Has Constructed a Romance Based on Stereotypical Male Female Roles"
 - Due:
 	- Exercise 1
-- In-class materials:
-	- Prompt for the Critical Response Essay (P1)
-	- __Mendelsohn__, Sue. "9 Ways to Generate an Interpretive Problem"
 
-### 3. __Tuesday 9/13__: Developing Interpretive Problems
-- Primary reading:
-	- **Singer**, Peter. "Speciesism."
-- Craft reading:
-	- **Harris**, Joseph. "Coming to Terms"
+### 3. __Tuesday 1/24__: Artificial Intelligence
+- Reading:
+	- **Turing**, Alan. "Computing Machinery and Intelligence."
 - Due:
 	- Exercise 2
--	In-class materials:
-	- "Rhetorical Terms: Observations, Claims, Warrants, and Motives"
 
-### 4. __Thursday 9/15__: Structuring an Essay
-- TMR reading:
-    - **Bahk**, Sue. "The Final Judgement in 'Monster Culture'" (from [The Morningside Review](http://morningsidereview.org/essay/the-final-judgement-in-monster-culture/))
+### 4. __Thursday 1/26__: Empathy
+- Reading:
+  - **Jamison**, Leslie. "The Empathy Exams."
 - Due:
-	- __Exploratory draft__ for __P1__
+  - Exercise 3  
 
-## **Peer Review** of Exploratory Draft due Friday 9/16
-
-### 5. __Tuesday 9/20__: Radical Revision
+### 5. __Tuesday 1/31__: Structure
+- Reading:
+    - **Bahk**, Sue. "The Final Judgement in 'Monster Culture.'" (from [The Morningside Review](http://morningsidereview.org/essay/the-final-judgement-in-monster-culture/))
 - Due:
-	- Exercise 3
-- In class materials:
-    - "Radical Revision"
+  - Exploratory Draft
+- Workshop 1
 
-## __Formal draft__ for __P1__ due Wednesday, 9/21!
-
-### 6. __Thursday 9/22__: Reader-Based Writing
-- Craft reading:
-    - __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Revising Style: Telling your Story Clearly" (from _The Craft of Research_))
-    - __Orwell__, George. "Politics and the English Language"
+### 6. __Thursday 2/2__: Feedback  
+- Workshops 2 & 3
 - Due:
-    - Exercise 4
+  - Exercise 4
 
-## **Peer Review** of Formal Draft due **tomorrow** Friday 9/22
+### 7. __Tuesday 2/7__: Style  
+- Reading:
+  - __Booth__, __Colomb__, and __Williams__. "Revising Style: Telling your Story Clearly."
+- Due:
+  - Formal Draft  
+- Workshop 4
 
-## Progression Two: Conversation
+## **Peer Review** of P1 Formal Draft due Thursday 2/9
 
-### Probing the possibility of artificial intelligence
+## Progression Two: Conversing
 
-### 7. __Tuesday 9/27__: The Start of a Conversation
-- Primary reading:
-	- **Turing**, Alan. "Computing Machinery and Intelligence"
-- In class materials:
-	- Prompt for the Conversation Essay (P2)
+### 8. __Thursday 2/9__: Alternative Intelligence
+- Reading:
+  - **Sacks, Oliver**. "Anthropologist on Mars."
 
-### 8. __Thursday 9/29__: Challenges in a Conversation
-- Primary reading:
-	- **Searle**, John. "Minds, Brains, Programs."
-- Craft reading:
-    - __Graff__, Gerald, and __Birkenstein__, Cathy, "Entering the Conversation" (from _They Say / I Say_)
+### 9. __Tuesday 2/14__: Animal Intelligence
+- Reading:
+  - **Grandin, Temple**. "Animals are not things."
+
+### 10. __Thursday 2/16__: Bodies
+- Reading:
+  - **Slater, Lauren**. "Dr. Daedalus."
+  - __Graff__, __Gerald__, and __Birkenstein__, Cathy, "Yes/No/Okay/But."
 - Due:
     - Exercise 1
 
-## __Final draft__ for __P1__ due __Monday__ 10/3!
+## __Final draft__ for __P1__ due __Friday 2/17__!
 
-### 9. __Tuesday 10/4__: Branches in the Conversation
-- Primary reading:
-	- **Hofstader**, Douglas. "On the Seeming Paradox of Mechanized Creativity."
-- Craft reading:
-	- __Graff__, Gerald, and __Birkenstein__, Cathy. "Yes/No/Okay, But" (from _They Say / I Say_)
-- Due:
-    - Exercise 2
-
-### 10. __Thursday 10/6__: Conversations Intersecting
-- Primary reading:
+### 11. __Tuesday 2/21__: Selfhood  
+- Reading:
 	- **Dennett**, Daniel. "Self as a center of narrative gravity."
-- Craft reading:
-	- __Graff__, Gerald, and __Birkenstein__, Cathy. "So what, who cares?"
-- Due:
-    - Exercise 3
 
-### 11. __Tuesday 10/11__: Using Sources
-- Due:
-	- __Exploratory draft__ for __P2__
-- In-class materials:
-	- __Colomb__, Gregory G. and __Williams__, Joseph M. "Quotation, Paraphrase, Citation"
-  - ICE (Introduce, Explain, Cite) handout
-
-### 12. __Thursday 10/13__: Connecting Sentences and Connecting Ideas
-- TMR reading:
-	- Benedict, T.R. "“The Giddiness of the Performance”: An Investigation of Disturbing, Delightful Drag" (from [The Morningside Review](http://morningsidereview.org/essay/the-giddiness-of-the-performance-an-investigation-of-disturbing-delightful-drag/))
+### 12. __Thursday 2/23__: Forms
+- Reading:
   - Man, Emily. "Brainy or Busty? Both. Sexuality and Intelligence in BBC’s Sherlock" (from [The Morningside Review](http://morningsidereview.org/essay/brainy-or-busty-both-sexuality-and-intelligence-in-bbcs-sherlock/))
-- Craft reading:
-	- __Graff__, Gerald, and __Birkenstein__, Cathy. "As a Result" (from _They Say / I Say_)
 - Due:
-    - **Peer review** of your classmate's exploratory draft
-- In-class materials:
-	- __Weber__, Ryan and Karl __Stolley__. "Writing Transitions" (from __OWL__ at Purdue)
+  - Exercise 3
+	- Exploratory Draft
+- Workshop 5
 
-### 13. __Tuesday 10/18__: Revision as Conversation"
+### 13. __Tuesday 2/28__: Engaging
+- Workshop 6
+
+### 14. __Thursday 3/2__: Style
+- Reading:
+  - **Orwell, George.** "Politics and the English Language"
 - Due:
-    - **Formal draft** for **P2**
+  - Formal Draft
+- Workshop 7
 
-### 14. __Thursday 10/20__: Peer Review Workshop
-- Craft reading:
-  - __Harris__, Joseph. "Revising"
-- Due:
-  - Revise according to Tuesday's workshop feedback
-  - Write a formal draft abstract and questions for reader
-- In class:
-  	- **Peer review** of your classmate's formal draft
+## Progression Three: Researching
 
-## Progression Three: Research
-
-### Exploring the landscape of the posthuman
-
-### 15. __Tuesday 10/25__: Seed Texts, Seed Questions
-
-- Primary reading:
+### 15. __Tuesday 3/7__: Virtual Bodies
+- Reading:
 	- __Hayles__, Katherine. "Embodied Virtuality: Or How to Put Bodies Back into the Picture"
 
-### 16. __Thursday 10/27__: Reading Plans
-- Craft readings:
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Thinking in Print" (from _The Craft of Research_)
-- TMR reading:
-	- __Maier-Balough__, Elizabeth. "Maternal Integrity and the Fetal Image: Ultrasound in the Abortion Rights Debate" (From [The Morningside Review](http://morningsidereview.org/essay/maternal-integrity-and-the-fetal-image-ultrasound-in-the-abortion-rights-debate/))
+### 16. __Thursday 3/9__: Virtual Reality
+- Reading:
+  - __Harris, Joseph__. "Forwarding"
 - Due:
 	- Exercise 1
 
-## __Final Draft__ for __P2__ due __Friday__ 10/28!
+## __Final Draft__ for __P2__ due __Sunday__ 3/12!
 
-### 17. __Tuesday 11/1__: New Sources
+##  Spring Break 3/13 & 3/17
 
-__Library Session__
+### 17. __Tuesday 3/21__: Library
 
-- Craft reading:
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "From Topics to Questions" and "From Questions to Problems" (from _The Craft of Research_)
-- TMR reading:
-	- **Jakub**, Lucy. "Who Swims with the Blobfish?: Anthropomorphic Bias in Conservation" (From [The Morningside Review](http://morningsidereview.org/essay/who-swims-with-the-blobfish-anthropomorphic-bias-in-conservation/))
+__Meet in Butler__
+
+- Reading:
+	- __Booth__, __Colomb__, and __Williams__. "From Topics to Questions" and "From Questions to Problems"
 - Due:
 	- Exercise 2
 
-### 18. __Thursday 11/3__: Writing Plans
-- Craft reading:
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Using Sources" (from _The Craft of Research_
-- TMR reading:
-	- **Wright**, Rebecca. "Hives, Damn Hives, and the Internet" (From [The Morningside Review](http://morningsidereview.org/essay/hives-damn-hives-and-the-internet/))
+### 18. __Thursday 3/23__:
 - Due:
 	- Exercise 3
+- Workshop 8
 
-### 19. __Thursday 11/10__: Drafting
-- Craft reading:
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Drafting Your Report" (from _The Craft of Research_)
-
+### 19. __Tuesday 3/28__: Models
+- Reading:
+	- **Wright**, Rebecca. "Hives, Damn Hives, and the Internet" (From [The Morningside Review](http://morningsidereview.org/essay/hives-damn-hives-and-the-internet/))
+  - **Jakub**, Lucy. "Who Swims with the Blobfish?: Anthropomorphic Bias in Conservation" (From [The Morningside Review](http://morningsidereview.org/essay/who-swims-with-the-blobfish-anthropomorphic-bias-in-conservation/))
 
 __Exploratory draft__ for __P3__ due Saturday 11/12 at 5pm
 
-### 20. __Tuesday 11/15__: Revising
-
+### 20. __Thursday 3/30__: Revising
 - Due:
 	- Exercise 4
 - In-class:
   - **Peer review** of your classmate's exploratory draft
 
-### 21. __Thursday 11/17__: First and Last Words
+### 21. __Tuesday 4/4__: Intros & Conclusions
 - Craft reading:
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Introductions and Conclusions" (from _The Craft of Research_)
+	- __Booth__, __Colomb__, and __Williams__. "Introductions and Conclusions."
 -  Due:
 	- Exercise 5
 
-### 22. __Tuesday 11/22__: Style Workshop
-- Craft reading:
-	- __Booth__, Wayne C., Gregory C. __Colomb__, and Joseph M. __Williams__. "Revising Style: Telling your Story Clearly" (from _The Craft of Research_)
+### 22. __Thursday 4/6__:
 -  Due:
 	- __Formal draft__ for __P3__
 
-## Progression Four: The Op-Ed
+### 23. __Tuesday 4/11__:
 
-### Staking a claim in the conversation
+## Progression Four: Opining
 
-### 23. __Tuesday 11/29__: Writing Beyond the University
-- Craft readings:
-	- __Gordon__, Glenn Michael, "Reaching Beyond the University: Writing the Op-Ed" (from [The Mornigside Review](http://morningsidereview.org/essay/reaching-beyond-the-university-writing-the-op-ed/))
-- TMR reading:
+### 24. __Thursday 4/13__: Reaching a New Public
+- Reading:
      - "Going Public: Writing and Publishing the Op-Ed" (packet of published Op-Eds, Spring 2016)
 - Due:
 	- Exercise 1
 
-### 24. __Thursday 12/1__: Reaching a New Public
+## __Final draft__ for __P3__ due __Sunday__ 4/16!
 
-- Check out the [Electric Typewriter](http://tetw.org/) for various opinion pieces written on technology and the internet. Here are some examples of shorter op-ed pieces you might read:
+### 25. __Tuesday 4/18__: Crafting an Opinion
+- Reading:
     - **Crawford,** Kate. "Artificial Intelligence's White Guy Problem" (from [The New York Times](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html))
     - **Hawking,** Stephen. "Transcendence looks at the implications of artificial intelligence - but are we taking AI seriously enough?"" (from [The Independent](http://www.independent.co.uk/news/science/stephen-hawking-transcendence-looks-at-the-implications-of-artificial-intelligence-but-are-we-taking-9313474.html))
-    - **Chen,** Adrien. "Don't be a stranger" (from [The New Inquiry](http://thenewinquiry.com/essays/dont-be-a-stranger/))
-    - **Bissell**, Tom. "Video games: the addiction" (from [The Guardian](https://www.theguardian.com/theobserver/2010/mar/21/tom-bissell-video-game-cocaine-addiction))
 - Due:
     - Exercise 2
 
-####  __Friday 12/2__: Going Public: Writing and Publishing the Op-Ed (1-2:30pm)
+### 26. __Thursday 4/20__:
 
-## __Final draft__ for __P3__ due __Sunday__ 12/4!
+####  __Friday 4/21__: Going Public: Writing and Publishing the Op-Ed (1-2:30pm)
 
-### 25. __Tuesday 12/6__: Crafting an Opinion
-- Craft reading:
-	- __Williams__, Joseph M. and  Joseph __Bizup__. "The Ethics of Style" (from _Style: Lessons in Clarity and Grace_)
+### 27. __Tuesday 4/25__:
+- Reading:
+  - **Orwell, George.** "Why I Write."
+
+### 28. __Thursday 4/27__: Last Day
 - Due:
-	- __Exploratory draft__ and __outline__
+  - Formal draft
 
-
-### 26. __Thursday 12/8__: Last Day of Class
-
-## __Final draft__ for __P4__ due __Monday__ 12/12!
+## __Final draft__ for __P4__ due __Friday May 5__ !
 
 # Key Dates
 
