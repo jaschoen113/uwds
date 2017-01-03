@@ -193,173 +193,175 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 ### 1. __Tuesday 1/17__: Course Introduction
 - In-class materials:
     - Syllabus
-    - [poem]
 
 ### 2. __Thursday 1/19__: Close Reading
 - Reading:
-    - **Martin**, Emily. "The Egg and Sperm: How Science Has Constructed a Romance Based on Stereotypical Male Female Roles"
-- Due:
-	- Exercise 1
+    - **Martin**, Emily. "The Egg and the Sperm: How Science Has Constructed a Romance Based on Stereotypical Male-Female Roles"
+    - **Bahk**, Sue. "The Final Judgement in 'Monster Culture.'" (from [The Morningside Review](http://morningsidereview.org/essay/the-final-judgement-in-monster-culture/))
+- Presentation 1 (Martin)
 
 ### 3. __Tuesday 1/24__: Artificial Intelligence
 - Reading:
-	- **Turing**, Alan. "Computing Machinery and Intelligence."
-- Due:
-	- Exercise 2
+  - **Jamison**, Leslie. "The Empathy Exams."
+- Presentation 2 (Jamison)
 
 ### 4. __Thursday 1/26__: Empathy
 - Reading:
-  - **Jamison**, Leslie. "The Empathy Exams."
-- Due:
-  - Exercise 3  
+	- **Turing**, Alan. "Computing Machinery and Intelligence."
+- Presentation 3 (Turing)  
 
 ### 5. __Tuesday 1/31__: Structure
-- Reading:
-    - **Bahk**, Sue. "The Final Judgement in 'Monster Culture.'" (from [The Morningside Review](http://morningsidereview.org/essay/the-final-judgement-in-monster-culture/))
+- Workshop 1 (P1 Draft)
 - Due:
   - Exploratory Draft
-- Workshop 1
 
 ### 6. __Thursday 2/2__: Feedback  
-- Workshops 2 & 3
-- Due:
-  - Exercise 4
+- Reading:
+  - **Hofstadter,** Douglas. "On the Seeming Paradox Mechanized Creativity."
+- Presentation 4 (Hofstadter)
 
 ### 7. __Tuesday 2/7__: Style  
-- Reading:
-  - __Booth__, __Colomb__, and __Williams__. "Revising Style: Telling your Story Clearly."
+- Workshop 2 & 3 (P1 Draft)
 - Due:
-  - Formal Draft  
-- Workshop 4
+  - P1 Formal Draft  
 
-## **Peer Review** of P1 Formal Draft due Thursday 2/9
+### **Peer Review** of P1 Formal Draft due Thursday 2/9
 
 ## Progression Two: Conversing
 
 ### 8. __Thursday 2/9__: Alternative Intelligence
 - Reading:
-  - **Sacks, Oliver**. "Anthropologist on Mars."
+  - **Sacks,** Oliver. "Anthropologist on Mars."
+  - __Booth__, __Colomb__, and __Williams__. "Revising Style: Telling your Story Clearly."
+- Presentation 5 (Sacks)
 
 ### 9. __Tuesday 2/14__: Animal Intelligence
-- Reading:
-  - **Grandin, Temple**. "Animals are not things."
+- Workshop 4 (P1 Draft)
 
 ### 10. __Thursday 2/16__: Bodies
 - Reading:
-  - **Slater, Lauren**. "Dr. Daedalus."
-  - __Graff__, __Gerald__, and __Birkenstein__, Cathy, "Yes/No/Okay/But."
+  - **Grandin,** Temple. "Animals are not things."
+- Presentation 6 (Grandin)
 - Due:
     - Exercise 1
 
-## __Final draft__ for __P1__ due __Friday 2/17__!
+### __Final draft__ for __P1__ due __Friday 2/17__!
 
 ### 11. __Tuesday 2/21__: Selfhood  
-- Reading:
-	- **Dennett**, Daniel. "Self as a center of narrative gravity."
+- Workshop 5 (P2 draft)
 
 ### 12. __Thursday 2/23__: Forms
 - Reading:
-  - Man, Emily. "Brainy or Busty? Both. Sexuality and Intelligence in BBC’s Sherlock" (from [The Morningside Review](http://morningsidereview.org/essay/brainy-or-busty-both-sexuality-and-intelligence-in-bbcs-sherlock/))
+  - **Slater,** Lauren. "Dr. Daedalus."
+  - **Man**, Emily. "Brainy or Busty? Both. Sexuality and Intelligence in BBC’s Sherlock" (from [The Morningside Review](http://morningsidereview.org/essay/brainy-or-busty-both-sexuality-and-intelligence-in-bbcs-sherlock/))
+- Presentation 7 (Slater)
 - Due:
-  - Exercise 3
 	- Exploratory Draft
-- Workshop 5
 
 ### 13. __Tuesday 2/28__: Engaging
-- Workshop 6
+- Workshops 6 & 7 (P2 Drafts)
 
 ### 14. __Thursday 3/2__: Style
 - Reading:
-  - **Orwell, George.** "Politics and the English Language"
+  - **Dennett**, Daniel. "Self as a center of narrative gravity."
+- Presentation 8 (Dennett)
 - Due:
   - Formal Draft
-- Workshop 7
 
 ## Progression Three: Researching
 
 ### 15. __Tuesday 3/7__: Virtual Bodies
 - Reading:
 	- __Hayles__, Katherine. "Embodied Virtuality: Or How to Put Bodies Back into the Picture"
+- Presentation 9 (Hayles)
 
 ### 16. __Thursday 3/9__: Virtual Reality
-- Reading:
-  - __Harris, Joseph__. "Forwarding"
+- Workshop 8 (P2 Draft)
 - Due:
 	- Exercise 1
 
-## __Final Draft__ for __P2__ due __Sunday__ 3/12!
+### __Final Draft__ for __P2__ due __Sunday__ 3/12!
 
 ##  Spring Break 3/13 & 3/17
 
 ### 17. __Tuesday 3/21__: Library
-
-__Meet in Butler__
-
+__Meet in Butler 306__
 - Reading:
 	- __Booth__, __Colomb__, and __Williams__. "From Topics to Questions" and "From Questions to Problems"
 - Due:
 	- Exercise 2
 
 ### 18. __Thursday 3/23__:
-- Due:
-	- Exercise 3
-- Workshop 8
+- Reading:
+  - **Doniger, Wendy**. "Many Masks, Many Selves."
+- Presentation 10 (Doniger)
 
 ### 19. __Tuesday 3/28__: Models
+- Workshop 9 (P3 Draft)
 - Reading:
 	- **Wright**, Rebecca. "Hives, Damn Hives, and the Internet" (From [The Morningside Review](http://morningsidereview.org/essay/hives-damn-hives-and-the-internet/))
   - **Jakub**, Lucy. "Who Swims with the Blobfish?: Anthropomorphic Bias in Conservation" (From [The Morningside Review](http://morningsidereview.org/essay/who-swims-with-the-blobfish-anthropomorphic-bias-in-conservation/))
 
-__Exploratory draft__ for __P3__ due Saturday 11/12 at 5pm
+### __Exploratory draft__ for __P3__ due Saturday 11/12 at 5pm
 
 ### 20. __Thursday 3/30__: Revising
+- Reading:
+  - **McLuhan, Marshall.** "The Gadget Lover: Narcissus as Narcosis."
+- Presentation 11 (McLuhan)  
 - Due:
 	- Exercise 4
-- In-class:
-  - **Peer review** of your classmate's exploratory draft
 
 ### 21. __Tuesday 4/4__: Intros & Conclusions
-- Craft reading:
+- Reading:
 	- __Booth__, __Colomb__, and __Williams__. "Introductions and Conclusions."
+- Workshop 10 (P3 Draft)  
 -  Due:
 	- Exercise 5
 
 ### 22. __Thursday 4/6__:
--  Due:
-	- __Formal draft__ for __P3__
+- Reading:
+  - Nagel, Thomas. "What is it like to be a bat?"
+- Presentation 12 (Nagel)
+- Due:
+  - __Formal draft__ for __P3__
 
 ### 23. __Tuesday 4/11__:
+- Workshop 11 (P3 Draft)
 
 ## Progression Four: Opining
 
-### 24. __Thursday 4/13__: Reaching a New Public
+### 24. __Thursday 4/13__: Publics
 - Reading:
-     - "Going Public: Writing and Publishing the Op-Ed" (packet of published Op-Eds, Spring 2016)
+    - Formerly published UW Op-Eds
 - Due:
 	- Exercise 1
 
-## __Final draft__ for __P3__ due __Sunday__ 4/16!
+### __Final draft__ for __P3__ due __Sunday__ 4/16!
 
 ### 25. __Tuesday 4/18__: Crafting an Opinion
 - Reading:
-    - **Crawford,** Kate. "Artificial Intelligence's White Guy Problem" (from [The New York Times](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html))
-    - **Hawking,** Stephen. "Transcendence looks at the implications of artificial intelligence - but are we taking AI seriously enough?"" (from [The Independent](http://www.independent.co.uk/news/science/stephen-hawking-transcendence-looks-at-the-implications-of-artificial-intelligence-but-are-we-taking-9313474.html))
+  - **Dyson, Freeman.** "Science, Guided by Ethics, Can Lift Up the Poor."
+  - **Crawford,** Kate. "Artificial Intelligence's White Guy Problem" (from [The New York Times](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html))
+  - **Hawking,** Stephen. "Transcendence looks at the implications of artificial intelligence - but are we taking AI seriously enough?"" (from [The Independent](http://www.independent.co.uk/news/science/stephen-hawking-transcendence-looks-at-the-implications-of-artificial-intelligence-but-are-we-taking-9313474.html))
+- Presentation 13
 - Due:
     - Exercise 2
 
 ### 26. __Thursday 4/20__:
+- **Sagan, Carl**. "Pale Blue Dot."
+- Presentation 14
+- Workshop 12 (P4 Draft)
 
 ####  __Friday 4/21__: Going Public: Writing and Publishing the Op-Ed (1-2:30pm)
 
 ### 27. __Tuesday 4/25__:
-- Reading:
-  - **Orwell, George.** "Why I Write."
+- Workshops 13 & 14 (P4 Drafts)
 
 ### 28. __Thursday 4/27__: Last Day
 - Due:
   - Formal draft
 
-## __Final draft__ for __P4__ due __Friday May 5__ !
+### __Final draft__ for __P4__ due __Friday May 5__ !
 
 # Key Dates
 
