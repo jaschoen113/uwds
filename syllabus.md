@@ -1,7 +1,7 @@
 ---
 title: 'University Writing - Data Sciences and Engineering'
 author: Jenna Schoen
-date: Spring 2016
+date: Spring 2017
 ---
 
 |__C1010.503__|__Spring 2017__|
@@ -42,11 +42,15 @@ __Note__: Your syllabus is a reference document to be frequently consulted. In i
 
 ### Assignments
 
-You will do at least three types of writing in this course: __exercises__, __drafts__, and __final essays__. These assignments will connect with one another in a developmental sequence called a __progression__. We will be working on __four progressions__ this semester.
+You will do at least three types of writing in this course: __responses__, __drafts__, and __final essays__. These assignments will connect with one another in a developmental sequence called a __progression__. We will be working on __four progressions__ this semester.
 
-- __Exercises__: (100-750 words) Exercises include any kind of writing that you do in class or on your own to practice skills that you will need for successful completion of the final essay. They are short, preliminary writing tasks designed to help you reflect on the readings, generate ideas, practice skills you will use in an essay, and give feedback to classmates. Exercises are not essays, but each exercise will help you build toward your essay draft. Exercises do not receive individual grades. They will be treated as __pass/fail__ assignments.
+- __Responses__: (100-300 words) You will have a response assigned for every class this semester. There are two kinds of responses: reading responses and writing responses. **Reading responses** are assigned on Reading Days, and answer prompts designed to elucidate the assigned reading. These are meant to direct your attention to the style and form of the essays, as well as to provide practice on various reading and writing skills. Often these responses will feed directly into your essay writing. **Writing responses** are assigned on Writing Days, and consist of marginal and end-note comments on your peer's workshop essay. These responses are essential not only because they provide feedback to your peer, but also because they foster a critical and revisory perspective towards your own writing. Responses are graded __pass/fail__.
 
-- __Drafts__: (750+ words) After you have completed a series of exercises, you will write __two drafts__ of your essay for the progression. Like the exercises, the drafts are opportunities to explore your ideas, but they are also the beginnings of formal essays. The better your draft, the more useful will be the feedback you will get on it.  In this class you will learn ways to improve even the best work you can produce on your own. To facilitate revision, your drafts will receive comments from both me and your classmates. Drafts are __required__ but do not receive individual grades.
+- **Reading Day Presentation**: Once during the semester you will present on a reading assignment. You will have 5-10 minutes (10 minutes **max**) to contextualize the reading (historically, theoretically, and/or biographically). Then you will lead a class discussion for 25-30 minutes, asking prepared and thoughtful questions on the assigned essay.
+
+- **Writing Day Workshop**: Once during the semester you will workshop one draft of an essay. You must have the essay shared on the class Google Drive **24 hours** in advance of the workshop, so that your peers can read and comment on your essay.
+
+- __Drafts__: (500-2800 words). You will be writing your essays in a series of drafts (the number of drafts varies per progression). Drafts are opportunities to explore your ideas, but they are also the beginnings of formal essays. The better your draft, the more useful will be the feedback you will get on it. To facilitate revision, your drafts will receive comments from both me and your classmates. Drafts are __required__, and though they do not receive grades, if you fail to submit any draft of a progression (proposal, exploratory, formal, peer review), you will not receive my feedback on your formal draft. So it is critical that you submit all drafts on-time.
 
 - __Final Essays__: (750+ words; must have a __title__, __word count__, and a __works cited__ page) Each progression culminates in a __final essay__, which will evolve out of your exercises and drafts. Your final essay will likely differ substantially from the previous drafts in form, and often in content. Your final essay will receive a __formal grade__. All final essays should:
 
@@ -57,7 +61,7 @@ You will do at least three types of writing in this course: __exercises__, __dra
 
 You will write four essays, which can be broadly described as follows:
 
-- **First progression: textual analysis of one object.**  You will write about a single essay, identifying a textual problem or question and answering it through a close reading of the content and form of the essay. The goal of this essay is to deepen our understanding of the value or implications of a single rich text by extending its work or by filling in its gaps.
+- **First progression: textual analysis of one object.**  You will write about a single essay, identifying a textual question and answering it through a close reading of the content and form of the essay. The goal of this essay is to deepen our understanding of the value or implications of a single rich text by extending its work or by filling in its gaps.
 - **Second progression: supplementing textual analysis with theoretical tools.** You will read a set of scholarly texts with rich definitions, concepts, and oppositions. You will then select two of these texts to read alongside an exhibit of your choice. The goal of this progression is to produce a rich close reading of an exhibit via an intellectual conversation.
 - **Third progression: developing and executing a research project**. You will read a major text which raises a series of questions, and in response to one of those questions, present a textual problem in an exhibit of your own choosing. The goal of this progression is to develop a research project of your own that engages with contemporary scholarship.
 - **Fourth progression: speaking to a wider audience**: You will write an opinion piece that would be suitable for publication. The goal of this progression is to develop a compelling, unique authorial voice.
@@ -69,6 +73,10 @@ You will write four essays, which can be broadly described as follows:
 - Additional readings will be assigned from [__The Morningside Review__](http://www.morningsidereview.org), which is the journal of selected essays from Columbia’s Undergraduate Writing Program.
 
 - You might need to consult an up-to-date style manual for current MLA citation formatting conventions. Here is an online version: [__The OnlineWriting Lab from Purdue University__](https://owl.english.purdue.edu/owl/resource/747/01/).
+
+### Required VR Headset
+
+- Though there are no required textbooks for this class, you are required to purchase a VR headset for P3. I strongly [__Google Cardboard__](https://store.google.com/product/google_cardboard?utm_source=en-ha-na-us-sem&utm_medium=desktop&utm_content=plas&utm_campaign=Cardboard&gl=us&gclid=CjwKEAiA17LDBRDElqOGq8vR7m8SJAA1AC0_y-3E_vLBK_jun2ZcLzhysLTJ8RrTAekvfJgFBKa9ihoC5_Dw_wcB&dclid=CNmyiYfYqdECFUdDDAodTgsCSg&sku=_google_cardboard_single) which is only $15 and works perfectly well with most VR experiences.  
 
 ### Technology
 
@@ -132,9 +140,9 @@ If you hand in a **formal draft 48+ hours late**, your **final essay grade will 
 
 All final drafts must be submitted to Courseworks by the deadline in order to be considered on time. According to the policy of the Undergraduate Writing Program, failure to submit the final draft of any essay by the end of the semester will result in an automatic failure for the course.
 
-### Presentation, Workshop, and Participation Grade  
+### Presentation, Workshop, Response, and Participation Grade  
 
-Your presentation, workshop, and general participation make up 15% of your grade. Presentation and workshop grades are based on the requirements of each assignment (short context presentation, prepared discussion questions, workshop draft ready 24 hours in advance, etc). Your participation grade is based on attendance, tardiness, and attention in class. Unexcused absences will affect your grade as follows:
+Your presentation, workshop, response, and general participation make up 15% of your grade. Like the essays, this grade is out of 100 points. Presentation and workshop grades are based on the requirements of each assignment (short context presentation, prepared discussion questions, workshop draft ready 24 hours in advance, etc). Response grades are pass/fail: one point will be deducted per missed or late response. Your participation grade is based on attendance, tardiness, and attention in class. Unexcused absences will affect your grade as follows:
 
 |Number of absences|Grade Penalty|
 |:----------------:|:------------|
@@ -194,144 +202,176 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 ### 2. __Thursday 1/19__
 - Reading:
-    - **Martin**, Emily. "The Egg and the Sperm: How Science Has Constructed a Romance Based on Stereotypical Male-Female Roles"
     - **Bahk**, Sue. "The Final Judgement in 'Monster Culture.'" (from [The Morningside Review](http://morningsidereview.org/essay/the-final-judgement-in-monster-culture/))
-- Presentation 1 (Martin)
 
 ### 3. __Tuesday 1/24__
 - Reading:
-    - **Jamison**, Leslie. "The Empathy Exams."
-- Presentation 2 (Jamison)
+    - **Turing**, Alan. "Computing Machinery and Intelligence."
+- Presentation 1 (Turing)
+- Due:
+    - RR (Reading Response) 1
 
 ### 4. __Thursday 1/26__
 - Reading:
-    - **Turing**, Alan. "Computing Machinery and Intelligence."
-- Presentation 3 (Turing)  
+    - **Jamison**, Leslie. "The Empathy Exams."
+- Presentation 2 (Jamison)
+- Due:
+    - RR 2
 
 ### 5. __Tuesday 1/31__
-- Workshop 1 (P1 Draft)
+- Reading:
+    - **Martin,** Emily. "The Egg and the Sperm: How Science Has Constructed a Romance Based on Stereotypical Male-Female Roles."
+- Presentation 3 (Martin)
 - Due:
-    - Exploratory Draft
+    - RR 3
+    - **P1 Exploratory Draft**
 
 ### 6. __Thursday 2/2__  
+- Workshop 1 & 2 (P1 Draft)
+- Due:
+    - WR (Writing Response) 1 & 2
+
+### 7. __Tuesday 2/7__  
 - Reading:
     - **Hofstadter,** Douglas. "On the Seeming Paradox Mechanized Creativity."
 - Presentation 4 (Hofstadter)
-
-### 7. __Tuesday 2/7__  
-- Workshop 2 & 3 (P1 Draft)
 - Due:
-    - P1 Formal Draft  
+    - RR 4
+    - **P1 Formal Draft**  
 
-### **Peer Review** of P1 Formal Draft due Thursday 2/9
+#### **P1 Formal Draft Peer Review** due __Friday 2/10__
 
 ## Progression Two: Conversing
 
 ### 8. __Thursday 2/9__
 - Reading:
-    - **Sacks,** Oliver. "Anthropologist on Mars."
-    - __Booth__, __Colomb__, and __Williams__. "Revising Style: Telling your Story Clearly."
-- Presentation 5 (Sacks)
+    - **Man**, Emily. "Brainy or Busty? Both. Sexuality and Intelligence in BBC’s Sherlock" (from [The Morningside Review](http://morningsidereview.org/essay/brainy-or-busty-both-sexuality-and-intelligence-in-bbcs-sherlock/))
+- Workshop 3 (P1 Draft)
+- Due:
+    - WR 3  
 
 ### 9. __Tuesday 2/14__
-Reading:
-  - **Man**, Emily. "Brainy or Busty? Both. Sexuality and Intelligence in BBC’s Sherlock" (from [The Morningside Review](http://morningsidereview.org/essay/brainy-or-busty-both-sexuality-and-intelligence-in-bbcs-sherlock/))
-- Workshop 4 (P1 Draft)
+- Reading:
+    - **Sacks,** Oliver. "Anthropologist on Mars."
+- Presentation 5 (Sacks)
+- Due:
+  - RR 5
 
 ### 10. __Thursday 2/16__
+- Reading:
+    - __Booth__, __Colomb__, and __Williams__. "Revising Style: Telling your Story Clearly."
+- Workshop 4 (P1 Draft)
+- Due:
+    - WR 4
+
+### __P1 Final draft__ due __Friday 2/17__
+
+### 11. __Tuesday 2/21__
 - Reading:
     - **Grandin,** Temple. "Animals are not things."
 - Presentation 6 (Grandin)
 - Due:
-    - Exercise 1
-
-### __Final draft__ for __P1__ due __Friday 2/17__!
-
-### 11. __Tuesday 2/21__
-- Workshop 5 (P2 draft)
+    - RR 6
 
 ### 12. __Thursday 2/23__
+- Workshop 5 (P2 draft)
+- Due:
+    - WR 5
+    - **P2 Proposal**
+
+### 13. __Tuesday 2/28__
 - Reading:
     - **Slater,** Lauren. "Dr. Daedalus."
 - Presentation 7 (Slater)
 - Due:
-	 - Exploratory Draft
-
-### 13. __Tuesday 2/28__
-- Workshops 6 & 7 (P2 Drafts)
+    - RR 7
+    - **P2 Exploratory Draft**
 
 ### 14. __Thursday 3/2__
+- Workshops 6 & 7 (P2 Drafts)
+- Due:
+    - WR 6 & 7
+
+### 15. __Tuesday 3/7__
 - Reading:
     - **Dennett**, Daniel. "Self as a center of narrative gravity."
 - Presentation 8 (Dennett)
 - Due:
-    - Formal Draft
+    - RR 8
+    - **P2 Formal Draft**
+
+#### __P2 Formal Draft Peer Review__ due __Friday 3/10__
 
 ## Progression Three: Researching
 
-### 15. __Tuesday 3/7__
-- Reading:
-	 - __Hayles__, Katherine. "Embodied Virtuality: Or How to Put Bodies Back into the Picture"
-- Presentation 9 (Hayles)
-
 ### 16. __Thursday 3/9__
+- Reading:
+    - **Wright**, Rebecca. "Hives, Damn Hives, and the Internet" (From [The Morningside Review](http://morningsidereview.org/essay/hives-damn-hives-and-the-internet/))
 - Workshop 8 (P2 Draft)
 - Due:
-	 -  Exercise 1
+    - WR 8
 
-### __Final Draft__ for __P2__ due __Sunday__ 3/12!
+#### __P2 Final Draft__ due __Sunday 3/20__
 
 ##  Spring Break 3/13 & 3/17
 
 ### 17. __Tuesday 3/21__
-__Meet in Butler 306__
 - Reading:
-	 - __Booth__, __Colomb__, and __Williams__. "From Topics to Questions" and "From Questions to Problems"
+    - __Hayles__, Katherine. "Embodied Virtuality: Or How to Put Bodies Back into the Picture"
+- Presentation 9 (Hayles)
 - Due:
-	 - Exercise 2
+    - RR 9
 
-### 18. __Thursday 3/23__:
-- Reading:
-    - **Doniger, Wendy**. "Many Masks, Many Selves."
-- Presentation 10 (Doniger)
+### 18. __Thursday 3/23__
+- __Meet in Butler 306__
 
 ### 19. __Tuesday 3/28__
-- Workshop 9 (P3 Draft)
 - Reading:
-	 - **Wright**, Rebecca. "Hives, Damn Hives, and the Internet" (From [The Morningside Review](http://morningsidereview.org/essay/hives-damn-hives-and-the-internet/))
-   - **Jakub**, Lucy. "Who Swims with the Blobfish?: Anthropomorphic Bias in Conservation" (From [The Morningside Review](http://morningsidereview.org/essay/who-swims-with-the-blobfish-anthropomorphic-bias-in-conservation/))
-
-### __Exploratory draft__ for __P3__ due Wednesday 3/29!
+    - **Doniger**, Wendy. "Many Masks, Many Selves."
+    - __Booth__, __Colomb__, and __Williams__. "From Topics to Questions" and "From Questions to Problems"
+- Presentation 10 (Doniger)
+- Due:
+    - RR 10
+    - **P3 Proposal**
 
 ### 20. __Thursday 3/30__
-- Reading:
-    - **McLuhan, Marshall.** "The Gadget Lover: Narcissus as Narcosis."
-- Presentation 11 (McLuhan)  
+- Workshop 9 (P3 Draft)
+- Due:
+    - WR 9
+
+#### __P3 Exploratory draft__ due __Monday 4/3__
 
 ### 21. __Tuesday 4/4__
 - Reading:
-	 - __Booth__, __Colomb__, and __Williams__. "Introductions and Conclusions."
-- Workshop 10 (P3 Draft)  
+    - **McLuhan**, Marshall. "The Gadget Lover: Narcissus as Narcosis."
+    - __Booth__, __Colomb__, and __Williams__. "Introductions and Conclusions."
+- Presentation 11 (McLuhan)  
+- Due:
+    - RR 11
 
 ### 22. __Thursday 4/6__:
-- Reading:
-    - Nagel, Thomas. "What is it like to be a bat?"
-- Presentation 12 (Nagel)
+- Workshop 10 & 11 (P3 Drafts)  
 - Due:
-    - __Formal draft__ for __P3__
+    - WR 10 & 11
+
 
 ### 23. __Tuesday 4/11__
-- Workshop 11 (P3 Draft)
+- Reading:
+    - **Nagel**, Thomas. "What is it like to be a bat?"
+- Presentation 12 (Nagel)
+- Due:
+    - RR 12
+
+
+#### __P3 Formal draft__ due __Wednesday 4/12__
+
+#### Peer Review of P3 Formal Draft due Friday 4/15
 
 ## Progression Four: Opining
 
 ### 24. __Thursday 4/13__
 - Reading:
     - Formerly published UW Op-Eds
-- Due:
-    - Exercise 1
-
-### __Final draft__ for __P3__ due __Sunday__ 4/16!
 
 ### 25. __Tuesday 4/18__
 - Reading:
@@ -340,30 +380,37 @@ __Meet in Butler 306__
     - **Hawking,** Stephen. "Transcendence looks at the implications of artificial intelligence - but are we taking AI seriously enough?"" (from [The Independent](http://www.independent.co.uk/news/science/stephen-hawking-transcendence-looks-at-the-implications-of-artificial-intelligence-but-are-we-taking-9313474.html))
 - Presentation 13 (Dyson)
 - Due:
-    - Exercise 2
+    - RR 13
 
 ### 26. __Thursday 4/20__
 - Reading:
     - **Sagan, Carl**. "Pale Blue Dot."
 - Presentation 14 (Sagan)
 - Workshop 12 (P4 Draft)
+- Due:
+    - RR 14
+    - WR 12
 
-####  __Friday 4/21__: Going Public: Writing and Publishing the Op-Ed (1-2:30pm)
+#### Publishing the Op-Ed Event on __Friday 4/21__ (1-2:30pm)
+
+#### __P3 Final draft__ due __Sunday 4/23__
 
 ### 27. __Tuesday 4/25__
 - Workshops 13 & 14 (P4 Drafts)
+- Due:
+    - WR 13 & 14
 
 ### 28. __Thursday 4/27__
 - Due:
-    - Exploratory draft
+    - **P4 Proposal**
 
-### __Final draft__ for __P4__ due __Friday May 5__ !
+#### __P4 Final draft__ due __Friday May 5__
 
 # Key Dates
 
-| Progression | Exploratory Draft | Formal Draft | Final Draft |
-|:-----------:|:------------:|:-----------:|:-------:|
-|P1| Tuesday 1/31 | Tuesday 2/7 | Friday 2/17 |
-|P2| Thursday 2/23 | Thursday 3/2 | Sunday 3/12 |
-|P3| Wednesday 3/29 | Thursday 4/6 | Sunday 4/16 |
-|P4| Tuesday 12/6 | --- | Monday 12/12 |
+| Progression | Proposal | Exploratory Draft | Formal Draft | Peer Review | Final Draft |
+|:-----------:|:-----------:|:------------:|:-----------:|:-------:|
+|P1| --- | Tuesday 1/31 | Tuesday 2/7 | Friday 2/10 | Friday 2/17 |
+|P2| Thursday 2/23 | Tuesday 2/28 | Tuesday 3/7 | Friday 3/10 | Sunday 3/20 |
+|P3| Tuesday 3/28 | Monday 4/3 | Wednesday 4/12 | Friday 4/15 | Sunday 4/23 |
+|P4| Tuesday 4/27 | --- | --- | --- | Friday 5/5 |
