@@ -15,6 +15,10 @@ geometry: margin=1in
 |_Mailbox Address_:|310 Philosophy Hall|
 
 # University Writing - Data Sciences and Engineering Syllabus
+
+## Table of Contents
+I. [Course Description](#description)
+
 ## Course Description
 
 Can an animal feel pain, joy, or fear as a human does? Will a machine ever be able to think like a human can? What does it mean to feel, to think, and, moreover, to be human? How does technology narrow, extend, reveal, or blur the boundaries between the human and non-human? Might technology transform humans into new creatures? Can a technology become a living and thinking being itself? How should we treat future animals, machines, humans, and cyborgs in a world where the human is not the only feeling and thinking creature?
@@ -29,7 +33,7 @@ In this course, writing will be taught both through _praxis_ (“doing”) and _
 
 __Note__: Your syllabus is a reference document to be frequently consulted. In it you will find course policies, all major due dates, and a schedule of readings. The syllabus is available online on our [Google Site](https://sites.google.com/site/uwfall2016/). Readings and due dates are subject to change throughout the semester, but I will give you warning well advance and update the online syllabus if anything changes.
 
-## Requirements
+## Requirements<a name="description"></a>
 
 1. Four **progression essays** ranging from 750-3000 words. Final essays must be submitted on [CourseWorks](http://Courseworks.columbia.edu)
 
