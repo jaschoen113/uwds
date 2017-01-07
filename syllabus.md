@@ -24,7 +24,7 @@ This class does not presume that students will arrive with any background or ide
 
 We will give special attention to the practices of close reading, rhetorical analysis, research, collaboration, and substantive revision. Students will learn that writing is a process of continual refinement of ideas and their expression. Rather than approaching writing as an innate talent, this course will teach writing as a unique, learned skill that can be practiced and developed.  Over the course of the semester, you will read and discuss texts from a number of fields, complete regular informal reading and writing exercises, write several longer essays, and prepare an editorial for a public audience.
 
-In this course, writing will be taught both through praxis (“doing”) and analysis (“breaking up into pieces”). Classes are divided into **Reading Days** and **Writing Days.** For both of these you will come to class having thoroughly prepared a brief assigned reading: that is, you will have done the reading at least twice, marked especially interesting or challenging passages, and prepared several well thought-out discussion questions; in addition, on Writing Days, you will have prepared a Response Letter (details in class). The primary difference between Reading Days and Writing Days is that on the former we will be discussing Course Readings, which are published essays in modern English; and on the latter we will be discussing your own work and development.
+In this course, writing will be taught both through praxis (“doing”) and analysis (“breaking up into pieces”). Classes are divided into **Reading Days** and **Writing Days.** For both of these you will come to class having thoroughly prepared an assigned reading: that is, you will have done the reading at least twice, marked especially interesting or challenging passages, and prepared several well thought-out discussion questions; in addition, you will have prepared a written response to the reading. The primary difference between Reading Days and Writing Days is that on the former we will be discussing Course Readings, which are published essays in modern English; and on the latter we will be discussing your own work and development.
 
 __Note__: Your syllabus is a reference document to be frequently consulted. In it you will find course policies, all major due dates, and a schedule of readings. The syllabus is available online on our [Google Site](https://sites.google.com/site/uwfall2016/). Readings and due dates are subject to change throughout the semester, but I will give you warning well advance and update the online syllabus if anything changes.
 
@@ -32,7 +32,7 @@ __Note__: Your syllabus is a reference document to be frequently consulted. In i
 
 1. Four **progression essays** ranging from 750-3000 words. Final essays must be submitted on [CourseWorks](http://Courseworks.columbia.edu)
 
-1. **Reading assignments** and __writing exercises__. Complete all exercises in your project file on our shared [Google Drive](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDb2o0M2NuSU9ZWGs)
+1. **Reading responses** and __writing responses__. Complete all responses in our shared [Google Drive folders](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDb2o0M2NuSU9ZWGs)
 
 1. One **Reading Day Presentation**, in which you’ll contextualize a Course Reading, historically and biographically (10 minutes max.), and lead discussion
 
@@ -255,7 +255,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
     - **Sacks,** Oliver. "Anthropologist on Mars."
 - Presentation 5 (Sacks)
 - Due:
-  - RR 5
+    - RR 5
 
 ### 10. __Thursday 2/16__
 - Reading:
@@ -345,12 +345,12 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Reading:
     - **McLuhan**, Marshall. "The Gadget Lover: Narcissus as Narcosis."
     - __Booth__, __Colomb__, and __Williams__. "Introductions and Conclusions."
-- Presentation 11 (McLuhan)  
+- Presentation 11 (McLuhan)
 - Due:
     - RR 11
 
 ### 22. __Thursday 4/6__:
-- Workshop 10 & 11 (P3 Drafts)  
+- Workshop 10 & 11 (P3 Drafts)
 - Due:
     - WR 10 & 11
 
@@ -365,7 +365,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 #### __P3 Formal draft__ due __Wednesday 4/12__
 
-#### Peer Review of P3 Formal Draft due Friday 4/15
+#### **P3 Formal draft Peer Review** due **Friday 4/15**
 
 ## Progression Four: Opining
 
@@ -375,16 +375,16 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 ### 25. __Tuesday 4/18__
 - Reading:
-    - **Dyson, Freeman.** "Science, Guided by Ethics, Can Lift Up the Poor."
-    - **Crawford,** Kate. "Artificial Intelligence's White Guy Problem" (from [The New York Times](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html))
-    - **Hawking,** Stephen. "Transcendence looks at the implications of artificial intelligence - but are we taking AI seriously enough?"" (from [The Independent](http://www.independent.co.uk/news/science/stephen-hawking-transcendence-looks-at-the-implications-of-artificial-intelligence-but-are-we-taking-9313474.html))
+    - **Dyson**, Freeman. "Science, Guided by Ethics, Can Lift Up the Poor."
+    - **Crawford**, Kate. "Artificial Intelligence's White Guy Problem" (from [The New York Times](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html))
+    - **Hawking**, Stephen. "Transcendence looks at the implications of artificial intelligence - but are we taking AI seriously enough?"" (from [The Independent](http://www.independent.co.uk/news/science/stephen-hawking-transcendence-looks-at-the-implications-of-artificial-intelligence-but-are-we-taking-9313474.html))
 - Presentation 13 (Dyson)
 - Due:
     - RR 13
 
 ### 26. __Thursday 4/20__
 - Reading:
-    - **Sagan, Carl**. "Pale Blue Dot."
+    - **Sagan**, Carl. "Pale Blue Dot."
 - Presentation 14 (Sagan)
 - Workshop 12 (P4 Draft)
 - Due:
@@ -409,7 +409,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 # Key Dates
 
 | Progression | Proposal | Exploratory Draft | Formal Draft | Peer Review | Final Draft |
-|:-----------:|:-----------:|:------------:|:-----------:|:-------:|
+|:-----------:|:-----------:|:------------:|:-----------:|:-------:|:-------:|
 |P1| --- | Tuesday 1/31 | Tuesday 2/7 | Friday 2/10 | Friday 2/17 |
 |P2| Thursday 2/23 | Tuesday 2/28 | Tuesday 3/7 | Friday 3/10 | Sunday 3/20 |
 |P3| Tuesday 3/28 | Monday 4/3 | Wednesday 4/12 | Friday 4/15 | Sunday 4/23 |
