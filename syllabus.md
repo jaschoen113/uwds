@@ -2,6 +2,7 @@
 title: 'University Writing - Data Sciences and Engineering'
 author: Jenna Schoen
 date: Spring 2017
+geometry: margin=1in
 ---
 
 |__C1010.503__|__Spring 2017__|
@@ -22,9 +23,9 @@ These are some the questions we will be exploring in our data science-themed Uni
 
 This class does not presume that students will arrive with any background or identified interest in the data sciences and data engineering. Above all, our focus is to develop as writers and readers. Together, we will study how scholars make and support their arguments. Our readings will include academic essays and book chapters, as well as other scholarly and popular texts, all addressing questions of technology and science in some way. In the process of writing academic essays, we will practice the same kind of critical analysis, revision, collaboration, and research skills that these scholars use in their work every day. The main goal for this course is for you to emerge as a more confident reader and writer, capable of writing clear, persuasive prose – skills that will serve you no matter what field you choose.
 
-We will give special attention to the practices of close reading, rhetorical analysis, research, collaboration, and substantive revision. Students will learn that writing is a process of continual refinement of ideas and their expression. Rather than approaching writing as an innate talent, this course will teach writing as a unique, learned skill that can be practiced and developed.  Over the course of the semester, you will read and discuss texts from a number of fields, complete regular informal reading and writing exercises, write several longer essays, and prepare an editorial for a public audience.
+We will give special attention to the practices of close reading, rhetorical analysis, research, collaboration, and substantive revision. Students will learn that writing is a process of continual refinement of ideas and their expression. Rather than approaching writing as an innate talent, this course will teach writing as a unique, learned skill that can be practiced and developed.  Over the course of the semester, you will read and discuss texts from a number of fields, complete regular reading and writing exercises, write several longer essays, and prepare an editorial for a public audience.
 
-In this course, writing will be taught both through praxis (“doing”) and analysis (“breaking up into pieces”). Classes are divided into **Reading Days** and **Writing Days.** For both of these you will come to class having thoroughly prepared an assigned reading: that is, you will have done the reading at least twice, marked especially interesting or challenging passages, and prepared several well thought-out discussion questions; in addition, you will have prepared a written response to the reading. The primary difference between Reading Days and Writing Days is that on the former we will be discussing Course Readings, which are published essays in modern English; and on the latter we will be discussing your own work and development.
+In this course, writing will be taught both through _praxis_ (“doing”) and _analysis_ (“breaking up into pieces”). Classes are divided into **Reading Days** and **Writing Days.** For both of these you will come to class having thoroughly prepared an assigned reading: that is, you will have done the reading at least twice, marked especially interesting or challenging passages, and prepared several well thought-out discussion questions; in addition, you will have prepared a written response to the reading. The primary difference between Reading Days and Writing Days is that on the former we will be discussing Course Readings, which are published essays in modern English; and on the latter we will be discussing your own work and development.
 
 __Note__: Your syllabus is a reference document to be frequently consulted. In it you will find course policies, all major due dates, and a schedule of readings. The syllabus is available online on our [Google Site](https://sites.google.com/site/uwfall2016/). Readings and due dates are subject to change throughout the semester, but I will give you warning well advance and update the online syllabus if anything changes.
 
@@ -48,9 +49,9 @@ You will do at least three types of writing in this course: __responses__, __dra
 
 - **Reading Day Presentation**: Once during the semester you will present on a reading assignment. You will have 5-10 minutes (10 minutes **max**) to contextualize the reading (historically, theoretically, and/or biographically). Then you will lead a class discussion for 25-30 minutes, asking prepared and thoughtful questions on the assigned essay.
 
-- **Writing Day Workshop**: Once during the semester you will workshop one draft of an essay. You must have the essay shared on the class Google Drive **24 hours** in advance of the workshop, so that your peers can read and comment on your essay.
+- **Writing Day Workshop**: Once during the semester you will workshop a draft of an essay. You must have the essay shared on the class Google Drive **24 hours** in advance of the workshop, so that your peers can read and comment on your essay.
 
-- __Drafts__: (500-2800 words). You will be writing your essays in a series of drafts (the number of drafts varies per progression). Drafts are opportunities to explore your ideas, but they are also the beginnings of formal essays. The better your draft, the more useful will be the feedback you will get on it. To facilitate revision, your drafts will receive comments from both me and your classmates. Drafts are __required__, and though they do not receive grades, if you fail to submit any draft of a progression (proposal, exploratory, formal, peer review), you will not receive my feedback on your formal draft. So it is critical that you submit all drafts on-time.
+- __Drafts__: (500-2800 words). You will be writing your essays in a series of drafts (the number of drafts varies per progression). Drafts are opportunities to explore your ideas, but they are also the beginnings of formal essays. The better your draft, the more useful will be the feedback you will get on it. To facilitate revision, your drafts will receive comments from both me and your classmates. Drafts are __required__, and though they do not receive grades, if you fail to submit any draft of a progression (proposal, exploratory, formal, peer review), you will not receive my feedback on your formal draft. So it is critical that you submit all drafts (and on-time).
 
 - __Final Essays__: (750+ words; must have a __title__, __word count__, and a __works cited__ page) Each progression culminates in a __final essay__, which will evolve out of your exercises and drafts. Your final essay will likely differ substantially from the previous drafts in form, and often in content. Your final essay will receive a __formal grade__. All final essays should:
 
@@ -76,15 +77,25 @@ You will write four essays, which can be broadly described as follows:
 
 ### Required VR Headset
 
-- Though there are no required textbooks for this class, you are required to purchase a VR headset for P3. I strongly [__Google Cardboard__](https://store.google.com/product/google_cardboard?utm_source=en-ha-na-us-sem&utm_medium=desktop&utm_content=plas&utm_campaign=Cardboard&gl=us&gclid=CjwKEAiA17LDBRDElqOGq8vR7m8SJAA1AC0_y-3E_vLBK_jun2ZcLzhysLTJ8RrTAekvfJgFBKa9ihoC5_Dw_wcB&dclid=CNmyiYfYqdECFUdDDAodTgsCSg&sku=_google_cardboard_single) which is only $15 and works perfectly well with most VR experiences.  
+- Though there are no required textbooks for this class, you are required to purchase a VR headset for P3. I strongly [__Google Cardboard__](https://store.google.com/product/google_cardboard?utm_source=en-ha-na-us-sem&utm_medium=desktop&utm_content=plas&utm_campaign=Cardboard&gl=us&gclid=CjwKEAiA17LDBRDElqOGq8vR7m8SJAA1AC0_y-3E_vLBK_jun2ZcLzhysLTJ8RrTAekvfJgFBKa9ihoC5_Dw_wcB&dclid=CNmyiYfYqdECFUdDDAodTgsCSg&sku=_google_cardboard_single) which is only $15 and works perfectly well with many VR experiences.  
 
 ### Technology
 
-- As mentioned above, we will be using a [Google Site](https://sites.google.com/site/uwfall2016/) instead of Courseworks. On the Google Site, you find the syllabus, announcements, additional resources, and links to two important Google Drive folders. The [first folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDRVUzMFdjOW9xY3M) (Readings) contains all of our course readings, organized by progression and class day. The [second folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDb2o0M2NuSU9ZWGs) (Writing) will be where you complete all of your writing exercises and drafts. After the first day of class, create a document in the "P1" folder, and title it with your last name. This will be your "project file" for the first progression. You will complete all of your writing exercises and drafts in this file (labeling them accordingly). We will then work directly with these files in class, and your peers and I will comment directly on drafts during peer reviews, etc.
+- As mentioned above, we will be using a [Google Site](link) instead of Courseworks. On the Google Site, you find the syllabus, announcements, additional resources, and links to four important Google Drive folders:
 
-- Because we will be working directly with Google Docs in class, this means you must bring your laptop to every class. If you do not have a personal laptop that you can bring, this is fine. Just email me after the first class and we will work something out.
+	1. [Readings folder](link): where you will find all of our course readings, organized by progression and class day.
+	2. [Reading Response folder](link): where you will post your Reading Response in a collective Google Doc (all 14 docs are in one folder)
+	3. [Draft folder](link): where you will create a single draft file per progression (labelled "Last Name P(x) Draft File"), and write all of your progression drafts in the file
+	4. [Workshop folder](link): where you will post the draft of an essay 24 hours before your workshop
 
-- Unfortunately the Google Site cannot be reached via our Columbia email addresses, so you have to use a personal Gmail account in order to access the site. I will be collecting your Gmail addresses so that I can add you to the site, but if you do not have or do not wish to use a personal Gmail, I have made a general Gmail account with the username uwfall16@gmail.com and password ilovewriting
+
+- Because we will be working directly with Google Docs in class, I encourage you to bring your laptop to class everyday. This way you can directly edit your draft in class, see peer comments on the workshop essay, and see peer responses to the reading assignment. If you do not have a personal laptop that you can bring, then you must print out and bring all your responses and drafts to class.
+
+- Though I encourage you to bring and use your laptops when they are helpful in class, if you are browsing websites, texting, etc., then I will have to ask you to no longer use your laptop in class, which will be very inconvenient for you.
+
+- Even if you bring your laptop to class, **you must print all reading assignments** and bring them to class annotated. There will be no laptop use during presentations.  
+
+- Unfortunately the Google Site cannot be reached via our Columbia email addresses, so you have to use a personal Gmail account in order to access the site. I will be collecting your Gmail addresses so that I can add you to the site, but if you do not have or do not wish to use a personal Gmail, I have made a general Gmail account with the username MAKE and password MAKE
 
 
 ## Course Policies
@@ -98,7 +109,7 @@ Your course work for the semester will be weighted as follows:
 |Progression 2: _Conversation Essay_|1500-2000 w.| __20%__ |
 |Progression 3: _Research Essay_|2400-3000 w.| __35%__ |
 |Progression 4: _Editorial Essay_|~750 w. | __15%__|
-|Presentation, Workshop & Participation|  | __15%__|
+|Presentation, Workshop, Response & Participation|  | __15%__|
 |__Total__ |   | __100%__|
 
 ### Essay Grading
@@ -169,7 +180,7 @@ You will also have **two** 20-30 minute conferences with me during the semester.
 
 ### Assessment and Response
 
-During the first three progressions, I will write marginal comments and typed end-comments to your formal draft as well as your final draft. For your final progression, you will receive end-comments on your exploratory draft, and marginal and end comments on your final draft.
+During the first three progressions, I will write marginal and end-comments to your formal draft as well as your final draft. For your final progression, you will receive end-comments on your proposal, and marginal and end comments on your final draft.
 
 My comments are designed to help you assess your draft and prioritize goals for the next stage of your writing. Just as important, my comments will offer you practical strategies designed to further your ongoing development as a writer.  If you have any questions about my comments, please make an appointment with me to review them.
 
@@ -233,7 +244,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 ### 7. __Tuesday 2/7__  
 - Reading:
-    - **Hofstadter,** Douglas. "On the Seeming Paradox Mechanized Creativity."
+    - **Hofstadter,** Douglas. "On the Seeming Paradox of Mechanized Creativity."
 - Presentation 4 (Hofstadter)
 - Due:
     - RR 4
@@ -269,6 +280,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 ### 11. __Tuesday 2/21__
 - Reading:
     - **Grandin,** Temple. "Animals are not things."
+		- **Graff** and **Birkenstein**. "Yes/No/Okay, But"
 - Presentation 6 (Grandin)
 - Due:
     - RR 6
@@ -324,6 +336,8 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 ### 18. __Thursday 3/23__
 - __Meet in Butler 306__
+- Reading:
+		- **Harris**, Joseph. "Forwarding."
 
 ### 19. __Tuesday 3/28__
 - Reading:
@@ -344,7 +358,6 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 ### 21. __Tuesday 4/4__
 - Reading:
     - **McLuhan**, Marshall. "The Gadget Lover: Narcissus as Narcosis."
-    - __Booth__, __Colomb__, and __Williams__. "Introductions and Conclusions."
 - Presentation 11 (McLuhan)
 - Due:
     - RR 11
