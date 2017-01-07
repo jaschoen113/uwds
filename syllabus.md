@@ -280,7 +280,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 ### 11. __Tuesday 2/21__
 - Reading:
     - **Grandin,** Temple. "Animals are not things."
-		- **Graff** and **Birkenstein**. "Yes/No/Okay, But"
+    - **Graff** and **Birkenstein**. "Yes/No/Okay, But"
 - Presentation 6 (Grandin)
 - Due:
     - RR 6
@@ -337,7 +337,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 ### 18. __Thursday 3/23__
 - __Meet in Butler 306__
 - Reading:
-		- **Harris**, Joseph. "Forwarding."
+    - **Harris**, Joseph. "Forwarding."
 
 ### 19. __Tuesday 3/28__
 - Reading:
