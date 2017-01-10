@@ -17,9 +17,28 @@ geometry: margin=1in
 # University Writing - Data Sciences and Engineering Syllabus
 
 ## Table of Contents
-I. [Course Description](#description)
+I. [Course Description](#course-description)  
+II. [Requirements](#requirements)  
+III. [Assignments](#assignments)  
+IV. [Required Texts](#required-texts)  
+V. [Technology](#technology)  
+VI. [Final Grades](#final-grades)  
+VII. [Essay Grading](#essay-grading)  
+VIII. [Late and Missed Assignments](#late-and-missed-assignments)   
+IX. [Participation Grade](#participation-grade)   
+X. [Conferences](#conferences)  
+XI. [Assessment and Response](#assessment-and-response)  
+XII. [Academic Integrity](#academic-integrity)  
+XIII. [Writing Center](#writing-center)  
+XIV. [Other Support Services](#other-support-services)  
+XV. [Course Calendar](#course-calendar)  
+		i. [Progression One](#progression-one)  
+		ii. [Progression Two](#progression-two)  
+		iii. [Progression Three](#progression-three)  
+		iv. [Progression Four](#progression-four)  
+XVI. [Key Dates](#key-dates)  
 
-## Course Description
+## Course Description<a name="course-description"></a>
 
 Can an animal feel pain, joy, or fear as a human does? Will a machine ever be able to think like a human can? What does it mean to feel, to think, and, moreover, to be human? How does technology narrow, extend, reveal, or blur the boundaries between the human and non-human? Might technology transform humans into new creatures? Can a technology become a living and thinking being itself? How should we treat future animals, machines, humans, and cyborgs in a world where the human is not the only feeling and thinking creature?
 
@@ -33,7 +52,7 @@ In this course, writing will be taught both through _praxis_ (“doing”) and _
 
 __Note__: Your syllabus is a reference document to be frequently consulted. In it you will find course policies, all major due dates, and a schedule of readings. The syllabus is available online on our [Google Site](https://sites.google.com/site/uwfall2016/). Readings and due dates are subject to change throughout the semester, but I will give you warning well advance and update the online syllabus if anything changes.
 
-## Requirements<a name="description"></a>
+## Requirements<a name="requirements"></a>
 
 1. Four **progression essays** ranging from 750-3000 words. Final essays must be submitted on [CourseWorks](http://Courseworks.columbia.edu)
 
@@ -45,7 +64,7 @@ __Note__: Your syllabus is a reference document to be frequently consulted. In i
 
 1.  Attend and participate in all classes and conferences
 
-### Assignments
+### Assignments<a name="assignments"></a>
 
 You will do at least three types of writing in this course: __responses__, __drafts__, and __final essays__. These assignments will connect with one another in a developmental sequence called a __progression__. We will be working on __four progressions__ this semester.
 
@@ -71,11 +90,11 @@ You will write four essays, which can be broadly described as follows:
 - **Third progression: developing and executing a research project**. You will read a major text which raises a series of questions, and in response to one of those questions, present a textual problem in an exhibit of your own choosing. The goal of this progression is to develop a research project of your own that engages with contemporary scholarship.
 - **Fourth progression: speaking to a wider audience**: You will write an opinion piece that would be suitable for publication. The goal of this progression is to develop a compelling, unique authorial voice.
 
-### Required Texts
+### Required Texts<a name="required-texts"></a>
 
-- The syllabus, course description, requirements, readings, assignments, and links to resources are available on our course Google Site: https://sites.google.com/site/uwfall2016/ Bookmark this link!
+- The syllabus, course description, requirements, readings, assignments, and links to resources are available on our course Google Site: https://sites.google.com/site/uwspring2017/ Bookmark this link!
 
-- Additional readings will be assigned from [__The Morningside Review__](http://www.morningsidereview.org), which is the journal of selected essays from Columbia’s Undergraduate Writing Program.
+- Some readings will be assigned from [__The Morningside Review__](http://www.morningsidereview.org) (TMR), which is the journal of selected essays from Columbia’s Undergraduate Writing Program. In addition the the required readings, you are strongly encouraged to read other TMR essays taht model each of the four progressions.
 
 - You might need to consult an up-to-date style manual for current MLA citation formatting conventions. Here is an online version: [__The OnlineWriting Lab from Purdue University__](https://owl.english.purdue.edu/owl/resource/747/01/).
 
@@ -83,14 +102,14 @@ You will write four essays, which can be broadly described as follows:
 
 - Though there are no required textbooks for this class, you are required to purchase a VR headset for P3. I strongly [__Google Cardboard__](https://store.google.com/product/google_cardboard?utm_source=en-ha-na-us-sem&utm_medium=desktop&utm_content=plas&utm_campaign=Cardboard&gl=us&gclid=CjwKEAiA17LDBRDElqOGq8vR7m8SJAA1AC0_y-3E_vLBK_jun2ZcLzhysLTJ8RrTAekvfJgFBKa9ihoC5_Dw_wcB&dclid=CNmyiYfYqdECFUdDDAodTgsCSg&sku=_google_cardboard_single) which is only $15 and works perfectly well with many VR experiences.  
 
-### Technology
+### Technology<a name="technology"></a>
 
-- As mentioned above, we will be using a [Google Site](link) instead of Courseworks. On the Google Site, you find the syllabus, announcements, additional resources, and links to four important Google Drive folders:
+- As mentioned above, we will be using a [Google Site](https://sites.google.com/site/uwspring2017/) instead of Courseworks. On the Google Site, you find the syllabus, announcements, additional resources, and links to four important Google Drive folders:
 
-	1. [Readings folder](link): where you will find all of our course readings, organized by progression and class day.
-	2. [Reading Response folder](link): where you will post your Reading Response in a collective Google Doc (all 14 docs are in one folder)
-	3. [Draft folder](link): where you will create a single draft file per progression (labelled "Last Name P(x) Draft File"), and write all of your progression drafts in the file
-	4. [Workshop folder](link): where you will post the draft of an essay 24 hours before your workshop
+	1. [Readings folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDdzRLWHo2ZHlrSk0): where you will find all of assigned course readings (essays, TMR essays, craft texts)
+	2. [Reading Response folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDbUIwZjhqdXhJaGs): where you will post your Reading Response in a collective Google Doc (all 14 docs are in one folder)
+	3. [Draft folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDT3d2S0REUEtJcTg): where you will create a single draft file per progression (labelled "Last Name P(x) Draft File"), in which you will write (or copy-paste) all of your progression drafts
+	4. [Workshop folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDSmxXajVBN2ExNXM): where you will post the draft of an essay 24 hours before your workshop
 
 
 - Because we will be working directly with Google Docs in class, I encourage you to bring your laptop to class everyday. This way you can directly edit your draft in class, see peer comments on the workshop essay, and see peer responses to the reading assignment. If you do not have a personal laptop that you can bring, then you must print out and bring all your responses and drafts to class.
@@ -99,12 +118,12 @@ You will write four essays, which can be broadly described as follows:
 
 - Even if you bring your laptop to class, **you must print all reading assignments** and bring them to class annotated. There will be no laptop use during presentations.  
 
-- Unfortunately the Google Site cannot be reached via our Columbia email addresses, so you have to use a personal Gmail account in order to access the site. I will be collecting your Gmail addresses so that I can add you to the site, but if you do not have or do not wish to use a personal Gmail, I have made a general Gmail account with the username MAKE and password MAKE
+- Unfortunately the Google Site cannot be reached via our Columbia email addresses, so you have to use a personal Gmail account in order to access the site. I will be collecting your Gmail addresses so that I can add you to the site, but if you do not have or do not wish to use a personal Gmail, I have made a general Gmail account with the username uwspring17@gmail.com and password ilovewriting
 
 
 ## Course Policies
 
-### Final Grades
+### Final Grades<a name="final-grades"></a>
 Your course work for the semester will be weighted as follows:
 
 | Progression |  Word Limit | Weight |
@@ -113,10 +132,10 @@ Your course work for the semester will be weighted as follows:
 |Progression 2: _Conversation Essay_|1500-2000 w.| __20%__ |
 |Progression 3: _Research Essay_|2400-3000 w.| __35%__ |
 |Progression 4: _Editorial Essay_|~750 w. | __15%__|
-|Presentation, Workshop, Response & Participation|  | __15%__|
+|Participation|  | __15%__|
 |__Total__ |   | __100%__|
 
-### Essay Grading
+### Essay Grading<a name="essay-grading"></a>
 
 Each final essay will receive a number grade out of 100 possible points. At the end of the semester, I will adjust these numbers for each essay’s weight, total them, round to the tenth place, and assign a course grade as follows:
 
@@ -135,19 +154,23 @@ Each final essay will receive a number grade out of 100 possible points. At the 
 |F|0-59.4|  
 
 
-- “__A__” (_100_-_90_) essays not only fulfill the goals of the progression, but push beyond those goals in surprising ways. This is more likely to be possible when the writer has found something compelling to write about and has taken great care to attend to his or her language and form. __A__ essays reflect excellence and artistry.
+- “__A__” (_93-97_) essays not only fulfill the goals of the progression, but push beyond those goals in surprising ways. They reflect excellence and artistry in writing. Usually this is because the writer has found something compelling to write about and has taken great care to attend to his or her language and form.
 
-- “__B+__” (_89_-_87_) essays may excel in certain areas and reflect superior understanding of the progression’s goals, but are sufficiently uneven to preclude it from receiving an __A__.
+- “__A-__” (_90-92_) essays fulfill all the progression goals and have some moments of excellence and artistry. However, they are not entirely pristine or even.
 
-- "__B__” (_80_-_87_) essays are good, competent papers.
+- “__B+__” (_88-89_) essays fulfill nearly all of the progression goals, but struggle to execute one or two of them. They are more uneven than A or A- papers.
 
-- “__C__” (_79_-_69_) essays reflect struggle in fulfilling the progression’s goals. These kinds of essays may show a fair amount of work, but do not come together well enough to be competent papers.
+- "__B__” (_83_-_87_) essays show an understanding of all the progression goals, but struggle to execute several of them fully. They might also have some structural or stylistic problems.
 
-- “__D__” (_69_-_59_) essays may appear to have been hastily written, incomplete, or thrown together.
+- “__B-__” (_80_-_82_) essays struggle to execute several progression goals, and indicate incomplete understanding of the progression goals. They show hard work but have larger structural or stylistic problems.  
 
-- “__F__” (_59_-_0_) essays fail to meet the minimum level of expectations for the progression.
+- “__C__” (_70_-_79_) essays fail to execute several of the progression goals. These kinds of essays may show a fair amount of work, but do not come together evenly, and have major structural or stylistic problems.
 
-### Late and Missed Assignments, Drafts, and Final Essays
+- “__D__” (_60_-_69_) essays fail to meet most of the progression goals. These essays appear to have been hastily written, incomplete, or thrown together.
+
+- “__F__” (_0_-_59_) essays fail to meet all or nearly all of the progression goals.
+
+### Late and Missed Assignments<a name="late-and-missed-assignments"></a>
 
 Keeping deadlines is an important aspect of this class, as it gives you the time to develop and revise your ideas, and it gives me the time to offer you productive feedback. If you turn in work late, I may not be able to provide you feedback.
 
@@ -155,9 +178,11 @@ If you hand in a **formal draft 48+ hours late**, your **final essay grade will 
 
 All final drafts must be submitted to Courseworks by the deadline in order to be considered on time. According to the policy of the Undergraduate Writing Program, failure to submit the final draft of any essay by the end of the semester will result in an automatic failure for the course.
 
-### Presentation, Workshop, Response, and Participation Grade  
+### Participation Grade<a name="participation-grade"></a>  
 
-Your presentation, workshop, response, and general participation make up 15% of your grade. Like the essays, this grade is out of 100 points. Presentation and workshop grades are based on the requirements of each assignment (short context presentation, prepared discussion questions, workshop draft ready 24 hours in advance, etc). Response grades are pass/fail: one point will be deducted per missed or late response. Your participation grade is based on attendance, tardiness, and attention in class. Unexcused absences will affect your grade as follows:
+Your participation grade is worth 15% of your total grade; like the essays, it is also out of 100 points. Several components go into your participation grade: presentations, workshops, responses, conferences, attendance, and participation in class. Presentation and workshop grades are based on the requirements of each assignment (short presentation, prepared discussion questions, workshop draft ready 24 hours in advance, etc). Response grades are pass/fail: one point will be deducted per missed or late response.
+
+Absences affect your participation grade until they begin to affect your final course grade. The grade penalties are as follows:
 
 |Number of absences|Grade Penalty|
 |:----------------:|:------------|
@@ -179,17 +204,16 @@ The following are the only reasons for **excused** absences:
 
 - __Section changes__: If you change your section of University Writing in the first two weeks of class, you must provide your new instructor a completed and signed “University Writing Attendance Confirmation” form. Please see Mr. John Stobo in the Undergraduate Writing Program office, 310 Philosophy Hall, for a copy of the form.
 
-### Conferences and Office Hours
-You will also have **two** 20-30 minute conferences with me during the semester. These conferences give you the opportunity to discuss your ideas, to work through your drafts, to prepare for presentations, or to revise your essays. You are welcome to come and see me in office hours or by appointment to discuss any aspect of the course. These conferences also count towards your participation grade (a missed conference will incur 10 points off the participation grade).
+### Conferences<a name="conferences"></a>
+You will have **two** 20-30 minute conferences with me during the semester. These conferences give you the opportunity to discuss your ideas, to work through your drafts, to prepare for presentations, or to revise your essays. You are welcome to come and see me in office hours or by appointment to discuss any aspect of the course. These conferences also count towards your participation grade (a missed conference will incur 10 points off the participation grade).
 
-### Assessment and Response
+### Assessment and Response<a name="assessment-and-response"></a>
 
 During the first three progressions, I will write marginal and end-comments to your formal draft as well as your final draft. For your final progression, you will receive end-comments on your proposal, and marginal and end comments on your final draft.
 
 My comments are designed to help you assess your draft and prioritize goals for the next stage of your writing. Just as important, my comments will offer you practical strategies designed to further your ongoing development as a writer.  If you have any questions about my comments, please make an appointment with me to review them.
 
-
-### Academic Integrity
+### Academic Integrity<a name="academic-integrity"></a>
 University Writing will provide you with strategies for working ethically and accurately with the texts you engage and fulfilling the [Columbia Undergraduate Honor Code](http://www.college.columbia.edu/ccschonorcode). We will discuss source use practices that prevent plagiarism, a serious academic offense that runs counter to our academic community’s core values of honesty and respect for others. Here is a partial list from the [Columbia University Undergraduate Guide to Academic Integrity](https://www.college.columbia.edu/academics/academicintegrity) of some of the forms plagiarism can take:
 
 - “_Verbatim copying without acknowledgment_ – copying a whole paragraph or larger sections; in effect, claiming that the writing is your own.”
@@ -199,18 +223,18 @@ University Writing will provide you with strategies for working ethically and ac
 
 Final drafts that contain plagiarism will receive a zero, may result in failure of the course, and the case will be reported to the director of the [Undergraduate Writing Program and the Office of Judicial Affairs and Community Standards](http://www.studentaffairs.columbia.edu/judicialaffairs/index.php). That office initiates the dean’s discipline process and determines whether to apply sanctions, which range from a warning to expulsion from the university.
 
-### The Writing Center
+### Writing Center<a name="writing-center"></a>
 At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you can receive free individual consultations on your writing at any stage in the writing process, including brainstorming. Writing consultants work with all members of the Columbia community on any academic or nonacademic writing. You can make an appointment and view drop in hours on their website.
 
-### Other Support Services
+### Other Support Services<a name="other-support-services"></a>
 
 - _Accommodations for Students with Disabilities_: Columbia University provides students who register with the [Office of Disability Services (ODS)](http://www.health.columbia.edu/ods/news/ds-programs.html) with a range of support options and will provide you with a letter stating the accommodations to which you are entitled, without disclosing any other information about you.  If you know or believe you have a disability of some kind, please consult with Disability Services and your advising dean as soon as possible; University Writing instructors need official documentation from the ODS in order to provide accommodations, and we cannot make retroactive accommodations.
 
 - _Counseling and Psychological Services_: [The Office of Counseling and Psychological Services (CPS)](http://www.health.columbia.edu/cps/index.html) provides many kinds of support for student wellness and academic success.
 
-# Course Calendar
+# Course Calendar<a name="course-calendar"></a>
 
-## Progression One: Close Reading
+## Progression One<a name="progression-one"></a>
 
 ### 1. __Tuesday 1/17__
 - Course Introduction
@@ -256,7 +280,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 #### **P1 Formal Draft Peer Review** due __Friday 2/10__
 
-## Progression Two: Conversing
+## Progression Two<a name="progression-two"></a>
 
 ### 8. __Thursday 2/9__
 - Reading:
@@ -284,7 +308,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 ### 11. __Tuesday 2/21__
 - Reading:
     - **Grandin,** Temple. "Animals are not things."
-    - **Graff** and **Birkenstein**. "Yes/No/Okay, But"
+		- **Graff** and **Birkenstein**. "Yes/No/Okay, But"
 - Presentation 6 (Grandin)
 - Due:
     - RR 6
@@ -318,7 +342,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 #### __P2 Formal Draft Peer Review__ due __Friday 3/10__
 
-## Progression Three: Researching
+## Progression Three<a name="progression-three"></a>
 
 ### 16. __Thursday 3/9__
 - Reading:
@@ -327,21 +351,20 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 - Due:
     - WR 8
 
-#### __P2 Final Draft__ due __Sunday 3/20__
+#### __P2 Final Draft__ due __Sunday 3/19__
 
 ##  Spring Break 3/13 & 3/17
 
 ### 17. __Tuesday 3/21__
 - Reading:
     - __Hayles__, Katherine. "Embodied Virtuality: Or How to Put Bodies Back into the Picture"
+    - **Harris**, Joseph. "Forwarding."
 - Presentation 9 (Hayles)
 - Due:
     - RR 9
 
 ### 18. __Thursday 3/23__
 - __Meet in Butler 306__
-- Reading:
-    - **Harris**, Joseph. "Forwarding."
 
 ### 19. __Tuesday 3/28__
 - Reading:
@@ -384,7 +407,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 #### **P3 Formal draft Peer Review** due **Friday 4/15**
 
-## Progression Four: Opining
+## Progression Four<a name="progression-four"></a>
 
 ### 24. __Thursday 4/13__
 - Reading:
@@ -423,7 +446,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 #### __P4 Final draft__ due __Friday May 5__
 
-# Key Dates
+# Key Dates<a name="key-dates"></a>
 
 | Progression | Proposal | Exploratory Draft | Formal Draft | Peer Review | Final Draft |
 |:-----------:|:-----------:|:------------:|:-----------:|:-------:|:-------:|

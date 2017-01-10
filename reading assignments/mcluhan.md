@@ -1,0 +1,3 @@
+### Reading Response 11: Marshall McLuhan, "The Gadget Lover: Narcissus as Narcosis"
+
+Imagine that you were to discuss McLuhan and **either** Hayles or Doniger alongside your VR exhibit. How would you put these two sources in conversation with each other alongside your exhibit? You might look for points in which the two essays agree, disagree, or both. Then think about how the conversation you identify between the two sources might be applied to your VR exhibit. It will probably be useful to quickly summarize the main argument of both essays, and identify the intersection and/or conflict of these two arguments (2-3 sentences). If you do not see a clear connection between these sources and your VR exhibit, you can discuss another VR exhibit or VR more generally.

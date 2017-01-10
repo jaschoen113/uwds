@@ -1,0 +1,3 @@
+### Reading Response 8: Daniel Dennett, "Self as a center of narrative gravity"
+
+Find a moment when Dennett is engaging with the ideas of another writer. Quote or summarize this moment depending on its length. Then describe how Dennett introduces, cites, and engages that writer. How much and what kind of context does he provide when introducing the writer? Does he quote or paraphrase? Is this writer a continual or one-time reference in the essay? If he quotes the writer, does he expand on the quote or leave it unexplained? Does he adopt any of terms from that writer into his essay? How does Dennett incorporate the writer's ideas into his own ideas? What is the purpose of these ideas for Dennett's own argument?

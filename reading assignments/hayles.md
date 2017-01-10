@@ -1,0 +1,3 @@
+## Reading Response 9: Katherine Hayles, "Embodied Virtuality: Or How to Put Bodies Back into the Picture"
+
+After you've read the Hayles essay once, read Joseph Harris' "Forwarding." Then go through the Hayles essay one more time, and find **one of each source type** described by Harris (illustrating, authorizing, borrowing, extending). List each source and its type, and then **describe the function of each source** in the essay. What kind of source is it (book chapter, article, etc)? What kind of perspective or authority does it provide? Why might Hayles want to include this particular voice in her essay? How does Hayles introduce, cite, and engage with this source? How does she use it to support her own argument?
