@@ -9,7 +9,7 @@
 - Does the writer include enough context for that given audience? Too much/too little context?
 - Does the writer seem to be speaking directly to that audience?
 
-**Voice***
+**Voice**
 - Does the writer write clearly and engagingly?
 - Has the writer selected a tone and style (passionate, satirical, scornful, humorous, argumentative, etc)?
 - Is that tone and style effective given the topic?
