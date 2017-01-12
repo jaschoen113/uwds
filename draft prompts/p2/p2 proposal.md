@@ -12,7 +12,7 @@ Detail the following for each proposed exhibit:
 
 2. Describe what makes this exhibit a contender for rich interpretation. What do you find interesting, engaging, surprising, confusing, or shocking about this exhibit?
 
-3. List the two essays you would use to read this exhibit.
+3. List the two essays you would put this exhibit in conversation with. 
 
 4. Describe the academic conversation that you would enter via this exhibit and the two essays.
 
