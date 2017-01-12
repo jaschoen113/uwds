@@ -1,8 +1,8 @@
 ## P4 Prompt
 
-Proposal due Tuesday 4/27
+Proposal due **Tuesday 4/27**
 
-Final draft due Friday 5/5
+Final draft due **Friday 5/5**
 
 Write an op-ed article on any topic that you could submit to a publication of your choice. You may revise one of the papers you’ve written for this class, or you may choose an entirely new argument. Like the previous essays you’ve already written, this assignment requires you to find a question or problem worthy of further analysis, select and close read an exhibit, and make an original claim. However, this assignment is formally and stylistically quite different from the previous ones.
 
