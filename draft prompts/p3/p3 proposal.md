@@ -1,6 +1,8 @@
 ## P3 Proposal
 Due Tuesday 3/28
 
+500-700 words
+
 This proposal is meant to establish your research topic and question. In order to settle on your topic and question, you will have to do some preliminary research first. But once you have decided, this exercise will help you narrow your research moving forward.
 
 Before you begin this proposal, read through "From Topics to Questions" and "From Questions to Problems" again. You are essentially expanding on your topic in section 1, question in section 2, and problem in section 3.
