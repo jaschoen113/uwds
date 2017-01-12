@@ -8,6 +8,8 @@ As with previous exploratory drafts, you should use this assignment to explore n
 
 If by the end of this exercise you have adjusted your research topic and question, that is perfectly understandable (and often the case in research projects). Include a brief summary of the change (2-3 sentences) at the end of the draft.
 
+Part one: Annotated Bibliography 
+
 ~700 words
 
 After you have read through at least 12 potential sources, select **six**. Comment on each of them as follows:
@@ -24,6 +26,8 @@ After you have read through at least 12 potential sources, select **six**. Comme
     "borrowing" the source, or it might be a specific detail if you are "authorizing" your paper with the source)
 
 Keep in mind that you should be evaluating the authority, audience, and motive of each source, and striving for a balance of source-types. Are the majority of your sources newspaper articles? And does that weaken your own argument? Are all of your sources authorizing sources? And does that limit the conceptual framework of your paper?
+
+Part two: Paragraph Draft 
 
 ~250 words
 
