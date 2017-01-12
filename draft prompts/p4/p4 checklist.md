@@ -34,4 +34,4 @@
 
 **Motive**
 - Does the writer articulate a clear motive?
-- Is the motive more obvious that it would be in other kinds of writing (for example, a call to action)?
+- Is the motive more obvious than it would be in other kinds of writing (for example, a call to action)?
