@@ -1,6 +1,7 @@
 ## P2 Proposal
 
 Due Thursday 2/23
+
 ~500 words
 
 Select **three** potential exhibits for your P2 paper. For each, propose a project around that exhibit. Then briefly asses the strengths and limits of that project. A paragraph per exhibit should suffice.
