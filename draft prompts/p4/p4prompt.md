@@ -20,11 +20,11 @@ Progression Goals:
 
 2. Direct your essay around the **audience** of your chosen publication
 
-3. Develop a **voice** that is clear and engaging, in a tone and style dependent on your audience and  persuasive tactic
+3. Develop a **voice** that is clear and engaging, in a tone and style dependent on your audience and persuasive tactic
 
-4. State your **opinion** clearly, and as quickly as possible
+4. State your **opinion** clearly, and do so as quickly as possible
 
-5. Choose an **exhibit** that helps you illustrate your opinion. Your exhibit should probably be news.
+5. Choose an **exhibit** that helps you illustrate your opinion--your exhibit should probably be news
 
 6. Use additional **evidence** when necessary, but do not get bogged down by research (this is an opinion piece, not a research paper)
 
