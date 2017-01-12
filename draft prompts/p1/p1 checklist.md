@@ -4,7 +4,7 @@
 - Has the writer selected a passage or pattern that lends itself to different interpretations?
 - If the writer has selected a single passage, has he/she quoted the passage in a way (or place) that enables the reader to follow his/her interpretation?
 - If the writer has selected a pattern throughout several passages, has he/she fully described that pattern and shown sufficient evidence that it exists? Is there too little or too much context around each individual occurrence?
-- Does the writer provide sufficient description of the selected text's larger argument/project, and explain the position of this passage(s) in relation to that project?
+- Does the writer provide sufficient description of the text's larger project, and explain the position of the passage(s) in relation to that project?
 
 **Close Reading**
 - Does the writer engage with the specific language and/or form of the passage(s)? Does he/she pay close attention to things like words, images, rhetorical devices, argument progression, etc?
