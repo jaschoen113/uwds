@@ -10,7 +10,7 @@ Detail the following for each proposed exhibit:
 
 1. Briefly describe the exhibit (no more than 1-2 sentences).
 
-2. Describe what makes this exhibit a contender for rich interpretation. What do you find that interesting, engaging, surprising, confusing, or shocking about this exhibit?
+2. Describe what makes this exhibit a contender for rich interpretation. What do you find interesting, engaging, surprising, confusing, or shocking about this exhibit?
 
 3. List the two essays you would use to read this exhibit.
 
