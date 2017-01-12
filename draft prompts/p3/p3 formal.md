@@ -27,7 +27,7 @@ Middle:
 
 4. Build those paragraphs into your larger **claim**. Even if you hold off on your final claim until the end of the paper, the reader should still feel grounded and guided at all times by your logical progression between sub-claims
 
-3. Maintain your own **voice** among all of this noise: what are you excited to share with us?
+3. Maintain your own **voice** among all of this noise
 
 End:
 
