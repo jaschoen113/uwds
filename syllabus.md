@@ -364,15 +364,16 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
     - RR 9
 
 ### 18. __Thursday 3/23__
-- __Meet in Butler 306__
-
-### 19. __Tuesday 3/28__
 - Reading:
     - **Doniger**, Wendy. "Many Masks, Many Selves."
     - __Booth__, __Colomb__, and __Williams__. "From Topics to Questions" and "From Questions to Problems"
 - Presentation 10 (Doniger)
 - Due:
     - RR 10
+
+### 19. __Tuesday 3/28__
+- __Meet in Butler 306__
+- Due:
     - **P3 Proposal**
 
 ### 20. __Thursday 3/30__
