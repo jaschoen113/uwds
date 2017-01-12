@@ -17,6 +17,7 @@
 **Opinion**
 - Does the writer state his/her opinion clearly?
 - Does the writer state this opinion as soon as possible?
+- Is the writer's opinion original? 
 
 **Exhibit**
 - Has the writer selected an exhibit to illustrate his/her opinion?
