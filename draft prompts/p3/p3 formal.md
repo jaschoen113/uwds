@@ -1,6 +1,7 @@
 ## P3 Formal Draft
 
 Due Wednesday 4/12
+
 2000-2500 words
 
 As you shape your exploratory draft into a formal draft, follow these basic guidelines:
