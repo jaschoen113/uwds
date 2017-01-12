@@ -2,13 +2,13 @@
 
 Due Monday 4/3
 
-~700 words
-
 As with previous exploratory drafts, you should use this assignment to explore new ideas through the process of writing. But the majority of your "exploration" in this draft will be outside the actual written draft and instead in your research.
 
 "Researching" does not mean finding the first 7 sources related to virtual reality and sticking them in this paper. Researching means reading through many, many more sources than you will actually include in your paper in order to select the ones that are most useful for you.
 
 If by the end of this exercise you have adjusted your research topic and question, that is perfectly understandable (and often the case in research projects). Include a brief summary of the change (2-3 sentences) at the end of the draft.
+
+~700 words
 
 After you have read through at least 12 potential sources, select **six**. Comment on each of them as follows:
 
