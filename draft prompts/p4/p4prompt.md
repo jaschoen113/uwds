@@ -12,7 +12,7 @@ Yours is now a public conversation. This means you should distill your most impo
 
 Along with your final draft, you must also submit a paragraph explaining which publication you have in mind for this draft, along with a rationale for that publication (~100 words). 
 
-You can get extra credit on this draft! If you submit this op-ed to the publication, you'll get one extra point on the final essay grade. If your op-ed makes gets published by that publication, you'll get two extra points (for a total of 3 extra points). The only exceptions to this second bonus are Columbia newspapers. 
+You can get extra credit on this draft! If you submit this op-ed to the publication, you'll get one extra point on the final essay grade. If your op-ed gets published by that publication, you'll get two extra points (for a total of 3 extra points). The only exceptions to this second bonus are Columbia newspapers. 
 
 Progression Goals:
 
