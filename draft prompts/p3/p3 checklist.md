@@ -21,6 +21,7 @@
 **Research**
 - Is there a mix of sources and source types (books, scholarly journal articles, etc)?
 - Is there a mix of source function (authorizing, illustrating, borrowing, extending)?
+- Has the writer conducted enough research to add his/her own claims to this conversation? 
 
 **Evidence**
 - Does the writer incorporate sources seamlessly into his/her paper? Does he/she introduce, cite, and engage with each quote?
