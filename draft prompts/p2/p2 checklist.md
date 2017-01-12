@@ -12,7 +12,7 @@
 - Is the exhibit ambivalent? Can it be interpreted in many ways?  
 - Does the writer sufficiently describe the exhibit? Does he/she provide too much unnecessary description?
 
-**Claim***
+**Claim**
 - Does the writer have a single overarching claim (thesis)?
 - Is the claim evaluative or analytical? That is, does the claim simply seek to prove/disprove the essays via the exhibit, or is it instead developing a new claim *about* the exhibit and essays?
 - Does the claim connect the exhibit to the specified conversation?
