@@ -22,7 +22,7 @@ You will gather **7-9 sources** that will illuminate your exhibit; these should 
 
 Progression Goals:
 
-1. Select an **exhibit** that lends itself to dynamic interpretation and raises questions that a research paper can address.
+1. Select an **exhibit** that lends itself to dynamic interpretation and raises questions that a research paper can address
 
 1. Ask a **research question** inspired by your exhibit that does not have an obvious answer
 
