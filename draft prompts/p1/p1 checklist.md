@@ -31,7 +31,7 @@
 **Evidence**
 - Does the writer provide ample evidence (textual support) to prove him/her claim?
 - Does the writer rely too heavily on quotations? Does the writer need more quotations?
-- Does the writer engage with every quotation? Or does he simply drop in a quote and move on?
+- Does the writer engage with every quotation? Or does he/she simply drop in a quote and move on?
 
 **Motive**
 - Does the writer identify a motive for his/her essay in the introduction? That is, does he/she make it clear why the reader should keep reading the essay?
