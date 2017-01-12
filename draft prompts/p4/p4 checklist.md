@@ -1,7 +1,7 @@
 ## P4 Checklist
 
 **Publication**
-- Has the writer chosen a specific publication he/she imagines submitting this piece?
+- Has the writer chosen a specific publication to which he/she imagines submitting this piece?
 - Does the writer have a sensible rationale for choosing this publication?
 
 **Audience**
