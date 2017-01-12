@@ -1,9 +1,10 @@
 ## P2 Checklist
 
 **Conversation**
-- Has the writer identified a dynamic academic conversation at play in both essays?
+- Has the writer identified a dynamic academic conversation at play in both selected essays?
 - Is the conversation too broad? Too narrow? Does it have space for the writer to add his/her own ideas?
-- Does the writer show how both essays engage with the conversation? Does the writer show points in which they agree, disagree, or intersect in other ways?
+- Does the writer show how the essays engage with the conversation? 
+- Does the writer show where the essays agree, disagree, or intersect in other ways?
 
 **Exhibit**
 - Is the exhibit manageable? Is it too expansive or too restrictive?
