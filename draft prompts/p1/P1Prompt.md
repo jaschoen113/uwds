@@ -10,7 +10,8 @@ Formal draft peer review due **Friday 2/10**
 
 Final draft due **Friday 2/17**   
 
-Prompt:
+Prompt:  
+
 Your first essay will focus on one of the three texts that we’ve read in this progression (Turing, Jamison, or Martin). It helps to work on a text that you feel drawn to or engaged by. Being ‘drawn to’ a text is different from liking or disliking it. Being 'drawn to' a text means feeling that you could help someone read your text more deeply, see it in a new light, or understand something about the text that he or she might have missed. 
 
 Your essay should be crafted around a close reading of the text. When you close read a text, you do not simply summarize what the text says, nor do you simply seek to prove or disprove the author's argument. Rather, you describe what the text is *doing* and why the writer might have made the writerly choices he/she did. You can close read a single passage or a pattern that you find throughout the text. More important is that you select one *specific* passage or pattern with rich language and/or form that might be interpreted in more than one way. Your original interpretation of that passage or pattern will then develop into an original argument about the essay at large.
