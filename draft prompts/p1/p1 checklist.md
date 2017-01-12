@@ -38,5 +38,5 @@
 - Is the motive too extreme (stakes so high they are unbelievable) or too minimal (stakes so low they do not warrant further reading)?
 
 **Implications**
-- Does the writer move beyond his main claim (thesis) in the conclusion to discuss the larger implications of that claim?
+- Does the writer move beyond his/her main claim (thesis) in the conclusion to discuss the larger implications of that claim?
 - Are those implications believable? Are they too much of a leap? Are they interesting, exciting, or surprising? Do they leave you with a new appreciation of the writer's argument?
