@@ -30,15 +30,15 @@ Progression Goals:
 
 4. **Research** and find seven to nine sources of various types, for various purposes  
 
-5. Use **evidence** from these sources and your exhibit convincingly to prove your claim.
+5. Use **evidence** from these sources and your exhibit convincingly to prove your claim
 
 5. Maintain a coherent **structure** throughout the essay
 
 4. Establish a clear **motive** in your introduction.
 
-5. Expand on the **implications** of your argument in your conclusion.
+5. Expand on the **implications** of your argument in your conclusion
 
-5. Document sources using the **MLA** in-text citation method and include a works cited.
+5. Document sources using the **MLA** in-text citation method and include a works cited
 
 10. Write an intriguing **introduction** and a thoughtful **conclusion**
 
