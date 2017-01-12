@@ -16,7 +16,7 @@ You can get extra credit on this draft! If you submit this op-ed to the publicat
 
 Progression Goals:
 
-1. Choose a reputable **publication** that might be interested in the problem you frame and adhere to the style of that publication 
+1. Choose a reputable **publication** that might be interested in your opinion and adhere to the style of that publication 
 
 2. Direct your essay around the **audience** of your chosen publication
 
