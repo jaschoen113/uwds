@@ -10,10 +10,10 @@
 - Is the question too broad? Too narrow?
 - Does the question lead to specific and dynamic research?
 
-**Claim***
+**Claim**
 - Does the writer have a single overarching claim (thesis)?
 - Does the claim answer the research question?  
-- Is the claim evaluative or analytical?
+- Is the claim analytical rather than evaluative?
 - Is the claim original?
 - By the end of the paper, has the claim been reiterated enough for you to fully understand it?
 - Are there counter-arguments the writer should take into account?
@@ -21,6 +21,7 @@
 **Research**
 - Is there a mix of sources and source types (books, scholarly journal articles, etc)?
 - Is there a mix of source function (authorizing, illustrating, borrowing, extending)?
+- Has the writer conducted enough research to add his/her own claims to this conversation? 
 
 **Evidence**
 - Does the writer incorporate sources seamlessly into his/her paper? Does he/she introduce, cite, and engage with each quote?

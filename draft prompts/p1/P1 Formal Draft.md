@@ -10,13 +10,15 @@ Remember that the goal of this essay is to help someone read the selected text m
 
 As you think about how to structure your draft, consider your readers. What will they need to know in order to appreciate the value of your project? You are writing for astute, general readers who may be completely unfamiliar with your chosen essay and subject matter. Your readers are willing to be generous, as long as you give them a sense that your project matters, and that you have crafted your essay carefully to carry out this project.
 
-Follow these basic guidelines as you work formalize your writing:
+Follow these basic guidelines as you formalize your writing:
 
 Beginning:
 
-1. Write a **working title** and **beginning** for your essay’s formal draft. Beginnings of essays serve two overarching purposes: they establish a relation with your readers, and they invite readers to follow your idea or argument.
+1. Write a **working title** of your essay’s formal draft.
 
-2. Somewhere in this beginning, present the **author's primary argument**, and specify the **central claims** or **questions** this writer’s text raises for readers.
+2. Write a **working introduction** of your essay. Keep in mind that introductions serve two overarching purposes: they establish a relation with your readers, and they invite readers to follow your idea or argument. Your introduction will evolve as your argument evolves, so do not spend too much time on the introduction right away (be sure to return to it later). 
+
+2. Somewhere in this introduction, present the **author's primary argument**, and specify the **central claims** or **questions** this text raises for readers.
 
 3. Present your specific **project** and larger **purpose** for this essay: what are you specifically looking at in this text? What do you want to illuminate about the text? What gaps or unexplored possibilities do you see in the text, and what do you intend to bring to them?
 

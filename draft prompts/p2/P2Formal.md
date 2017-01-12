@@ -29,4 +29,4 @@ Middle:
 
 End:
 
-4. Flesh out **implications** of your argument.
+4. Flesh out the **implications** of your argument.

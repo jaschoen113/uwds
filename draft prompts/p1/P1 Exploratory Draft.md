@@ -21,7 +21,7 @@ These are the general objectives for this draft:
 If you are still struggling to select a passage(s), here are some tips:
 
 - Select a passage(s) that requires interpretation, has terms that shift in meaning, and/or has claims that suggest significant room for debate. Don't select a passage that simply declares a basic point or sum up the author's ideas.   
-- A passage may be a single sentence or several sentences long. A pattern may be a term/expression/image/device/question, etc. that occurs in different places throughout the essay. But you shouldn't just be piling up examples; you need to raise a _specific_ interpretation as a result of a _specifc_ observation.
+- A passage may be a single sentence or several sentences long. A pattern may be a term/expression/image/device/question, etc. that occurs in different places throughout the essay. But you shouldn't just be piling up examples; you need to raise a _specific_ interpretation as a result of a _specific_ observation.
 
 If you are still struggling to interpret your passage(s), here are some questions you might ask yourself:
 

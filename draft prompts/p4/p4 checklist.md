@@ -1,7 +1,7 @@
 ## P4 Checklist
 
 **Publication**
-- Has the writer chosen a specific publication he/she imagines submitting this piece?
+- Has the writer chosen a specific publication to which he/she imagines submitting this piece?
 - Does the writer have a sensible rationale for choosing this publication?
 
 **Audience**
@@ -9,7 +9,7 @@
 - Does the writer include enough context for that given audience? Too much/too little context?
 - Does the writer seem to be speaking directly to that audience?
 
-**Voice***
+**Voice**
 - Does the writer write clearly and engagingly?
 - Has the writer selected a tone and style (passionate, satirical, scornful, humorous, argumentative, etc)?
 - Is that tone and style effective given the topic?
@@ -17,6 +17,7 @@
 **Opinion**
 - Does the writer state his/her opinion clearly?
 - Does the writer state this opinion as soon as possible?
+- Is the writer's opinion original? 
 
 **Exhibit**
 - Has the writer selected an exhibit to illustrate his/her opinion?
@@ -34,4 +35,4 @@
 
 **Motive**
 - Does the writer articulate a clear motive?
-- Is the motive more obvious that it would be in other kinds of writing (for example, a call to action)?
+- Is the motive more obvious than it would be in other kinds of writing (for example, a call to action)?

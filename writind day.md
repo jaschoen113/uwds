@@ -1,6 +1,6 @@
-## Workshops and Writing Responses
+## Writing Days: Workshops and Writing Responses
 
-### Workshopping your draft
+### Workshops
 
 Once during the semester you will workshop one of your drafts in class. Workshops will last about 35 minutes. During workshops we will discuss your draft according to the progression goals. We will predominantly focus on large scale matters (argument, structure, etc), though sentence-level and stylistic suggestions might also be brought up over the course of the workshop. These workshops are intended not only to improve your particular progression draft, but also to call attention to larger trends in your writing.
 
@@ -8,7 +8,7 @@ You must submit your draft **24 hours** before your workshop (so, if you are wor
 
 On the day of the workshop, you will begin by briefly commenting on the stage of your draft so far. Tell the class what you like about this draft, what you're struggling with in this draft, and where you'd like it to be by the end of the progression (this should only take a minute or so). Then the class will be open to respond to your comments and discuss their own observations. Though you will be free to respond to any questions, clarify any points, etc., refrain from monopolizing the conversation with a defense of every criticism. Though this is an understandable impulse, it is more useful to first fully understand *how* readers are reading your essay, and why they might be reading it that way, before you simply *tell* them how you meant it to be read. Only when you fully understand the reader's current perspective can you know how to change your essay to alter that perspective.
 
-### Workshopping another's draft
+### Writing Responses
 
 Before **each of the 14 workshops** (excluding your own), you will write a Writing Response to your peer's draft. You will find the draft in the "Workshop" folder on the Google Site. Read through the draft in its entirety once. Then write at least 2 marginal notes and one end-line comment (copy-paste, or simply write in, at the end of the document). The end-line comment should be about 100-200 words. You have 24 hours to read the essay and write comments. Any missed or late comments will deduct one point from your participation grade.
 

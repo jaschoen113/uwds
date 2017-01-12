@@ -4,7 +4,7 @@
 - Has the writer selected a passage or pattern that lends itself to different interpretations?
 - If the writer has selected a single passage, has he/she quoted the passage in a way (or place) that enables the reader to follow his/her interpretation?
 - If the writer has selected a pattern throughout several passages, has he/she fully described that pattern and shown sufficient evidence that it exists? Is there too little or too much context around each individual occurrence?
-- Does the writer provide sufficient description of the selected text's larger argument/project, and explain the position of this passage(s) in relation to that project?
+- Does the writer provide sufficient description of the text's larger project, and explain the position of the passage(s) in relation to that project?
 
 **Close Reading**
 - Does the writer engage with the specific language and/or form of the passage(s)? Does he/she pay close attention to things like words, images, rhetorical devices, argument progression, etc?
@@ -31,12 +31,12 @@
 **Evidence**
 - Does the writer provide ample evidence (textual support) to prove him/her claim?
 - Does the writer rely too heavily on quotations? Does the writer need more quotations?
-- Does the writer engage with every quotation? Or does he simply drop in a quote and move on?
+- Does the writer engage with every quotation? Or does he/she simply drop in a quote and move on?
 
 **Motive**
 - Does the writer identify a motive for his/her essay in the introduction? That is, does he/she make it clear why the reader should keep reading the essay?
 - Is the motive too extreme (stakes so high they are unbelievable) or too minimal (stakes so low they do not warrant further reading)?
 
 **Implications**
-- Does the writer move beyond his main claim (thesis) in the conclusion to discuss the larger implications of that claim?
+- Does the writer move beyond his/her main claim (thesis) in the conclusion to discuss the larger implications of that claim?
 - Are those implications believable? Are they too much of a leap? Are they interesting, exciting, or surprising? Do they leave you with a new appreciation of the writer's argument?
