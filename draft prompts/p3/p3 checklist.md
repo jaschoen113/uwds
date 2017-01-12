@@ -13,7 +13,7 @@
 **Claim**
 - Does the writer have a single overarching claim (thesis)?
 - Does the claim answer the research question?  
-- Is the claim evaluative or analytical?
+- Is the claim analytical rather than evaluative?
 - Is the claim original?
 - By the end of the paper, has the claim been reiterated enough for you to fully understand it?
 - Are there counter-arguments the writer should take into account?
