@@ -2,8 +2,12 @@
 
 ## Presentations
 
+<<<<<<< HEAD:Reading Day.md
 Once during the semester you will present on the assigned reading. First you will provide a **brief** context presentation on the text and its author. You can discuss biographical, historical, cultural, and/or theoretical context. Present any information that will help the class better understand the perspective and motives of the author, as well as the impact of this text. The presentation should be at least 5 minutes long, and **cannot be any longer than 10 minutes** (5 minutes is perfectly fine). This does not need to be a very formal presentation; you do not need any kind of slideshow, media, etc. However, you do need provide the class with better and more interesting information than what they might glean from Wikipedia.
 
+=======
+Once during the semester you will present on the assigned reading for that day's class. First you will provide a **brief** context presentation on the text and its author. You can discuss biographical, historical, cultural, and/or theoretical context. Present any information that will help the class better understand the perspective and motives of the author, as well as the impact of this text. The presentation should be at least 5 minutes long, and **cannot be any longer than 10 minutes** (5 minutes is perfectly fine). This does not need to be a very formal presentation; you do not need any kind of slideshow, media, etc. However, you do need provide the class with better and more interesting information than what they might glean from Wikipedia. 
+>>>>>>> origin/master:reading assignments/presentation.md
 
 After the context presentation, you will lead the class discussion for **25-30 minutes**. In order to lead the discussion, you will have discussion questions prepared ahead of time. The amount of discussion questions you prepare depends on the type of questions you prepare. Productive discussion questions direct the class to certain moments or aspects of the text but do not have an obvious answer. They should be neither too general nor too specific. In the extreme, take the following examples:
 
