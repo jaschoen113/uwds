@@ -7,9 +7,9 @@ As you shape your exploratory draft into a formal draft, follow these basic guid
 
 Beginning:
 
-1. Write a *working* **title** and **introduction** for your essay’s formal draft (no more than a page). Keep in mind that your introduction will evolve as your writing evolves.
+1. Write a *working* **title** for your essay’s formal draft (no more than a page). 
 
-2. Try to write a catchy **introduction** (you might do this step last). "Catchy" doesn't necessarily mean cute or campy; it just means it grabs the attention of the reader *somehow*.
+2. Try to write a catchy **introduction** (you might do this step last). "Catchy" doesn't necessarily mean cute or campy; it just means it grabs the attention of the reader *somehow*. 
 
 2. Lay out your **research topic** and **research question** in the introduction.
 
