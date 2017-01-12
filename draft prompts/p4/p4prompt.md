@@ -30,7 +30,7 @@ Progression Goals:
 
 7. **Structure** your essay so that it moves quickly (i.e. avoid large paragraphs)
 
-8. Articulate a **motive.** Op-ed motives are often more obvious than intellectual pieces (for example, calls to action).
+8. Articulate a **motive.** Op-ed motives are often more obvious than intellectual pieces (for example, calls to action)
 
 Length:
 
