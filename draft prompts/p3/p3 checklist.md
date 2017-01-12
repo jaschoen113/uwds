@@ -10,7 +10,7 @@
 - Is the question too broad? Too narrow?
 - Does the question lead to specific and dynamic research?
 
-**Claim***
+**Claim**
 - Does the writer have a single overarching claim (thesis)?
 - Does the claim answer the research question?  
 - Is the claim evaluative or analytical?
