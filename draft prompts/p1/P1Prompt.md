@@ -16,10 +16,14 @@ Your first essay will focus on one of the three texts that we’ve read in this 
 Your essay should be crafted around a close reading of the text. When you close read a text, you do not simply summarize what the text says, nor do you simply seek to prove or disprove the author's argument. Rather, you describe what the text is *doing* and why the writer might have made the writerly choices he/she did. You can close read a single passage or a pattern that you find throughout the text. More important is that you select one *specific* passage or pattern with rich language and/or form that might be interpreted in more than one way. Your original interpretation of that passage or pattern will then develop into an original argument about the essay at large.
 
 Essay projects of this kind generally accomplish one or more of the following aims:
-    - extend readers’ understanding of a text (“the text is about X, but it’s also about Y”)
-    - illuminate a lacuna (“we have a gap in our knowledge and this is how to fill it”)
-    - correct a possible misreading (“we may think it’s X, but actually it is Y”)
-    - demonstrate the relationship of parts to the whole (“we can’t understand X until we can see Y”)
+
+   - extend readers’ understanding of a text (“the text is about X, but it’s also about Y”)
+   
+   - illuminate a lacuna (“we have a gap in our knowledge and this is how to fill it”)
+   
+   - correct a possible misreading (“we may think it’s X, but actually it is Y”)
+   
+   - demonstrate the relationship of parts to the whole (“we can’t understand X until we can see Y”)
 
 Progression Goals:
 
