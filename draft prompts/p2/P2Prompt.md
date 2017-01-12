@@ -14,7 +14,7 @@ Final draft due **Sunday 3/20**
 
 Prompt:
 
-Find an **exhibit** that you can interpret alongside **two** of our course readings (Turing, Jamison, Martin, Hofstadter, Sacks, Grandin).*
+Find an **exhibit** that you can interpret alongside **two** of our course readings (Turing, Jamison, Martin, Hofstadter, Sacks, Grandin).
 
 An exhibit can be a text, a film, an event, a performance, a speech, an image, or anything that can be interpreted and carries the potential for rich analysis. In P1, the essay that you close read was your exhibit. In P2, you select your own exhibit, and use the assigned essays to bolster your close reading of your chosen exhibit. In addition, you will be entering into a specific academic **conversation** via your exhibit and chosen essays. Your goal is to show how your exhibit can complicate that existing academic conversation, as well as how the conversation can complicate our understanding of your exhibit.
 
@@ -44,4 +44,4 @@ Length:
 
 The paper should be __1500-2000__ words long (include a word count at the end of each draft).
 
-* Note: If one of your selected essays is the essay you used for P1, you may not write about the same topic. In other words, you cannot simply adapt your P1 paper into your P2 paper. If you want to use the same essay for P2, you **must** meet with me to discuss how you will use it differently. In addition, as with P1, you may use an essay that is assigned later in the semester, but you **must** get my approval first.
+Note: If one of your selected essays is the essay you used for P1, you may not write about the same topic. In other words, you cannot simply adapt your P1 paper into your P2 paper. If you want to use the same essay for P2, you **must** meet with me to discuss how you will use it differently. In addition, as with P1, you may use an essay that is assigned later in the semester, but you **must** get my approval first.
