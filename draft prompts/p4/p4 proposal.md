@@ -1,4 +1,7 @@
+## P4 Proposal 
+
 Due Tuesday 12/6
+
 ~ 500 words
 
 Write a proposal in which you address each of these sections (label them within your draft).
