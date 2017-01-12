@@ -10,9 +10,13 @@ Like the previous essays you’ve already written, this assignment requires you 
 
 Yours is now a public conversation. This means you should distill your most important ideas into clear, concise prose that will appeal to the specific audience you have identified. From start to finish, imagine the people you’re talking to. Write like your perfectly-articulate, talking self. Consider if your audience might already know the basics of your topic, and therefore what specific context your particular audience will really need to understand your opinion. It’s not that op-eds need NO context, it’s that they require a more targeted kind.
 
+Along with your final draft, you must also submit a paragraph explaining which publication you have in mind for this draft, along with a rationale for that publication (~100 words). 
+
+You can get extra credit on this draft! If you submit this op-ed to the publication, you'll get one extra point on the final essay grade. If your op-ed makes gets published by that publication, you'll get two extra points (for a total of 3 extra points). The only exceptions to this second bonus are Columbia newspapers. 
+
 Progression Goals:
 
-1. Choose a reputable **publication** that might be interested in the problem you frame and adhere to the style of that publication.
+1. Choose a reputable **publication** that might be interested in the problem you frame and adhere to the style of that publication 
 
 2. Direct your essay around the **audience** of your chosen publication
 
