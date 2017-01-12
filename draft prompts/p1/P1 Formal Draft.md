@@ -18,7 +18,7 @@ Beginning:
 
 2. Write a **working introduction** of your essay. Keep in mind that introductions serve two overarching purposes: they establish a relation with your readers, and they invite readers to follow your idea or argument. Your introduction will evolve as your argument evolves, so do not spend too much time on the introduction right away (be sure to return to it later). 
 
-2. Somewhere in this introduction, present the **author's primary argument**, and specify the **central claims** or **questions** this writer’s text raises for readers.
+2. Somewhere in this introduction, present the **author's primary argument**, and specify the **central claims** or **questions** this text raises for readers.
 
 3. Present your specific **project** and larger **purpose** for this essay: what are you specifically looking at in this text? What do you want to illuminate about the text? What gaps or unexplored possibilities do you see in the text, and what do you intend to bring to them?
 
