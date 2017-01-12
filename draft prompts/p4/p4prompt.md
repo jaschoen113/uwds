@@ -4,7 +4,9 @@ Proposal due **Tuesday 4/27**
 
 Final draft due **Friday 5/5**
 
-Write an op-ed article on any topic that you could submit to a publication of your choice. You may revise one of the papers you’ve written for this class, or you may choose an entirely new argument. Like the previous essays you’ve already written, this assignment requires you to find a question or problem worthy of further analysis, select and close read an exhibit, and make an original claim. However, this assignment is formally and stylistically quite different from the previous ones.
+Write an op-ed article that you could submit to a publication of your choice. You may revise one of the papers you’ve written for this class, or you may choose an entirely new argument. Ideally the op-ed would somehow relate to science and technology in some way, but it's also okay to branch out; just let me know ahead of time. 
+
+Like the previous essays you’ve already written, this assignment requires you to find a question or problem worthy of further analysis, select and close read an exhibit, and make an original claim. However, this assignment is formally and stylistically quite different from the previous ones.
 
 Yours is now a public conversation. This means you should distill your most important ideas into clear, concise prose that will appeal to the specific audience you have identified. From start to finish, imagine the people you’re talking to. Write like your perfectly-articulate, talking self. Consider if your audience might already know the basics of your topic, and therefore what specific context your particular audience will really need to understand your opinion. It’s not that op-eds need NO context, it’s that they require a more targeted kind.
 
