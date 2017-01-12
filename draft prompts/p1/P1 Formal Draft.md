@@ -10,7 +10,7 @@ Remember that the goal of this essay is to help someone read the selected text m
 
 As you think about how to structure your draft, consider your readers. What will they need to know in order to appreciate the value of your project? You are writing for astute, general readers who may be completely unfamiliar with your chosen essay and subject matter. Your readers are willing to be generous, as long as you give them a sense that your project matters, and that you have crafted your essay carefully to carry out this project.
 
-Follow these basic guidelines as you work formalize your writing:
+Follow these basic guidelines as you formalize your writing:
 
 Beginning:
 
