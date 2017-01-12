@@ -4,9 +4,9 @@ Once during the semester you will present on the assigned reading for that day's
 
 After the context presentation, you will lead the class discussion for **25-30 minutes**. In order to lead the discussion, you will have discussion questions prepared ahead of time. The amount of discussion questions you prepare depends on the type of questions you prepare. Productive discussion questions direct the class to certain moments or aspects of the text but do not have an obvious answer. They should be neither too general nor too specific. In the extreme, take the following examples:
 
-Question: "Did you like this text?" Answer: "Like the text how? Like the argument? Like the style? Like all of the text? Some of the text?" (While this might incite a conversation that lasts 45 minutes, that conversation will probably involve many speakers discussing many different and unrelated points. It will be hard to keep the conversation on one specific point, and so it will be hard to grasp a very meaningful understanding of the essay)
+Question: "Did you like this text?" Answer: "Well *I* like this argument...well *I* like this sentence...well *I* dislike this image...well *I* dislike with this claim..." (While this might incite a conversation that lasts 45 minutes, that conversation will probably involve many speakers discussing many different and unrelated points. It will be hard to keep the conversation on one specific point, and so it will be hard to grasp a very meaningful understanding of the essay)
 
-Question: "What's the name of the author's dog?" Answer: Max. (This has not been a very productive conversation)
+Question: "What's the name of the author's dog?" Answer: "Max." (This has not been a very productive conversation)
 
 Ideally you want to ask a question that is not easily answered, that opens a specific discussion or debate, and that leads the class into the text itself. This might mean something along the lines of:
 
