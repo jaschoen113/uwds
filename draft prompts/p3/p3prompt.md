@@ -28,7 +28,7 @@ Progression Goals:
 
 3. Answer that question with a strong **claim**  
 
-4. **Research** and find seven to nine sources of a variety of type
+4. **Research** and find seven to nine sources of various types, for various purposes  
 
 5. Use **evidence** from these sources and your exhibit convincingly to prove your claim.
 
