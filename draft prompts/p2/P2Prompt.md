@@ -32,7 +32,7 @@ Progression Goals:
 
 - Use **evidence** fairly and persuasively
 
-- Integrate your **sources** with deliberation and purpose. Using the **ICE method:** introduce, cite, explain
+- Integrate your **sources** with deliberation and purpose, using the **ICE method:** introduce, cite, explain
 
 - Establish a strong **motive** in your introduction
 
