@@ -1,7 +1,8 @@
 ## P3 Exploratory Draft
 
-Due
-(~700 words)
+Due Monday 4/3
+
+~700 words
 
 As with previous exploratory drafts, you should use this assignment to explore new ideas through the process of writing. But the majority of your "exploration" in this draft will be outside the actual written draft and instead in your research.
 
