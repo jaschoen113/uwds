@@ -1,4 +1,4 @@
-## Reading Days: Presentations and Reading Responses
+# Reading Days: Presentations and Reading Responses
 
 ## Presentations
 
