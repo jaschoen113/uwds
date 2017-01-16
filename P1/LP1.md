@@ -1,9 +1,9 @@
-#Class 1 Lesson Plan (Tuesday 9/6)
+#Class 1 Lesson Plan (Tuesday 1/17)
 
 ##To Print
 - syllabus
 - exercise 1
-- maldive shark handout
+- nebular theory
 - sign up sheet with personal (not columbia) gmail
 
 ##Schedule (75 mins)
@@ -69,60 +69,33 @@ Some possible goals to bring up:
 13. Adopt multiple roles in a seminar setting to enrich discussion, support the intellectual community of a class, and listen with purpose
 
 ##Syllabus Overview (15 min)
-- Read through syllabus with them, highlighting the 4 progressions, the 3 themes (animal rights, artificial intelligence, posthumanism), the different draft versions, the purpose of exercises, general admin (google site vs courseworks vs hardcopy), conferences, office hours
+- Read through syllabus with them 
 
-- Blurb about progressions: in P1, you will write about a single essay, identifying a textual problem or question and answering it through close reading of the content and form of the essay. the goal of this essay is to deepen our understanding of the value or implications of a single rich text by extending its work or by filling in its gaps. in P2, you will read a set of scholarly texts with rich definitions, concepts, and oppositions. you will then select two of these texts to read alongside an exhibit of your choice. the goal of this progression is to produce a rich close reading of an exhibit via an intellectual conversation. in P3, you will read a major text which raises a series of questions, and in response to one of those questions, present a textual problem in an exhibit of your own choosing. the goal of this progression is to develop a research project of your own that engages with contemporary scholarship. in p4, you will write an opinion piece that would be suitable for publication. the goal of this progression is to develop a compelling, unique authorial voice.
+- We will be reading 14 essays this semester. In progression one, one of these essays will be the topic of your essay, and in progression 2, two of these essays will be prominent voices in your essay. But throughout the rest of class, these essays will be critical models that we examine to discuss writing style, form, and technique. All of the essays deal with science and technology in some way (some more explicitly than others), and all add to critical conversations surrounding what it means to be a human and how science and technology complicates that definition. Some essays are meant for popular audiences, others were published in academic journals. Some are narrative-heavy, some are research-heavy. All of them will provide us with rich intellectual problems to consider and various writing techniques to model.  
 
-- Blurb about theme progressions: as you will see, each progression builds off each other; we will develop writerly and readerly skills in progression one that will then be supplemented and complicated in progression two, then added to in progression three, etc. in addition, our readings will lead us through various aspects of a large intellectual debate, building off questions that previous readings raised, and by the end of the course you will hopefully come to think about intelligence, species, machines, humans, and data in new and exciting lights. we will begin, in progression one, by considering the differences, similarities, and boundaries between animal and human intelligence, and the ethical implications of such considerations. after considering whether other species are intelligent, and whether that or other factors should affect our treatment of them, we will then step back to ask - what is intelligence exactly? how do you measure it? can we create it artificially? so in progression two, we will be diving deeper into questions of human and machine intelligence. finally, in progression 3, we will be exploring how other systems of self and intelligence might exist beyond merely the mind; how one's body, tools, and environment play a role and maybe even help make up one's intelligence, and what that means for humans moving forward. in progression four we'll talk some more about all of these questions, and you'll have a chance to write, in an opinion piece, about one of the questions that compelled you the most in the course.
+- To help us navigate each of the 14 essays, you each will give one presentation (hand out presentation assignment)
+
+- The other central component of this course is the workshops (hand out workshop assignment)
 
 - Google site and google drive (sign up sheet with personal gmails); if you do not have personal gmail or do not feel comfortable using your personal gmail, then i will make a generic gmail that the entire class can use
 
+- I will send out the presentation and workshop sign-ups at 5pm today. Read through both of these assignments to understand what is expected of you. All course readings are also already up if you want to take a look at them. Note that for workshops, you're either going to work ahead or have only a few days to implement changes.
+
 ##Annotation & Close Reading Exercise (30 minutes)
 
-- Now we're going to begin working on our writing. To write well, first we have to make sure we're reading well. In the next half hour I want to go over active reading (annotating) and close reading, a strategy that we will be developing throughout this entire class and especially in this first progression.
+- Now we're going to begin working on our writing. To write well, first we have to make sure we're reading well.
 
 - While you'll be close reading primarily academic essays in your own writing this semester, I want to start off with a poem. Poems tend to be particularly rich for close reading because of their interesting language, dynamic forms, and vibrant images. But you can apply this same practice to any form of writing, art, or media.
 
-Poem: Melville "the maldive shark"
-
-About the Shark, phlegmatical one,
-Pale sot of the Maldive sea,
-The sleek little pilot-fish, azure and slim,
-How alert in attendance be.
-From his saw-pit of mouth, from his charnel of maw
-They have nothing of harm to dread,
-But liquidly glide on his ghastly flank
-Or before his Gorgonian head;
-Or lurk in the port of serrated teeth
-In white triple tiers of glittering gates,
-And there find a haven when peril’s abroad,
-An asylum in jaws of the Fates!
-They are friends; and friendly they guide him to prey,
-Yet never partake of the treat—
-Eyes and brains to the dotard lethargic and dull,
-Pale ravener of horrible meat.
+Poem: Constance Naden, Nebular Theory
 
 1. First, let's read the poem out loud, and I just want you to think about what the poem is saying on its most basic level. If you were to summarize the poem for a 7 year old, what would you say? Feel free to annotate as we read, marking anything you find particularly important for this task. (Have someone read it out loud and come up with a basic summary, write on board)
 
-2. Now let's read it again. This time, I want you to read it alone, and I want you to annotate it as you go, especially if you didn't the first time (using whatever strategies you know of so far). As you read, I also want you to look for anything you find particularly striking. Is there an unexpected word or phrase? A contradictory image? An ambiguous meaning in one line? A tension between a formal element (a rhyme, the line-breaks, etc) and the meaning we've discussed? Write **observation**: **tension**, **contradiction**, **ambiguity** on the board. The observations we are looking for usually fall into these categories (other words for tension/contradiction/ambiguity = anything unnerving/illogical/strange). (Read through it again, jot down some ideas on board)
+2. Now let's read it again. This time, I want you to read it alone, and I want you to annotate it as you go, especially if you didn't the first time. As you read, I also want you to look for anything you find particularly striking. Is there an unexpected word or phrase? A contradictory image? An ambiguous meaning in one line? A tension between a formal element (a rhyme, the line-breaks, etc) and the meaning we've discussed? Anything unnerving? illogical? strange? Is it playing with form or convention in some way? (Read through it again, jot down some ideas on board)
 
 3. Now that we have our summary and our observation on the board, can we make any more solid links between the primary meaning of the poem and one of our observations? In other words, can we connect any of these observations to the larger "point" of the passage? Do any of these observations change/reinforce/complicate our understanding of the larger text? Given this particular observation, can you say anything more nuanced, complicated, or interesting about the entire poem itself, or a possible reading of the poem? This will be our **claim** (write on board in third column). If they are not answering quickly, give them a minute to jot a potential claim down.
 
-4. Now, let's finally talk about how we marked up our text. Ask them for how they annotated the passage (collect strategies on the board), ask them for any other annotation strategies they know of, particularly for reading essays instead of poetry (write those on board as well), then add to the board any they haven't yet come up with:
-  - underline topic sentence in paragraph
-  - put question marks in margin
-  - put exclamations in margin
-  - star critical lines or passages
-  - write questions in margins
-  - add your opinion or another author's opinions in margins
-  - add an outline (1, 2, 3 or a, b, c etc) for when there are points in succession
-  - draw arrows between ideas
-  - summarize in margins  
-  - circle words you don't know/need to look up
-  - bracket important concepts/key terms/other sources or authors
 
-##Hand out exercise 1 (last couple minutes)
-- I won't usually hand out exercises in class; you'll find them all online; they will always be building off what we went over in class and assigned reading, and the directions are pretty straightforward
-- For this Thursday, as you read Grandin you'll be annotating using strategies we discussed, summarizing succinctly, making an observation and a claim as we discussed in class
-- You'll also have a craft text assigned in addition to the Grandin - it's a very short article by Patricia Klein with more close reading strategies.  
-- You should think of exercises as breaking up your essay writing; they are not extra work but rather training you to apply the necessary critical strategies in your essay, and they often produce ideas and writing that feed directly and importantly into your further drafts
+##TMR Essay
+- For Thursday, you do not have an assigned response to write. But you do have an assigned reading. You'll be reading a TMR essay for P1. For every progression, we'll start with a TMR essay to see right away what the final product we're aiming for might look like. These essays serve as potential models, but are by no means the only way you can write your P1 paper. I encourage you to read other TMR essays (you can find them organized by progression) http://morningsidereview.org/assignment/critical-response/
+- For Thursday, print out, read, and annotate the TMR article. Identify (on the essay) the main argument or thesis (star), and also note moments of close reading. 

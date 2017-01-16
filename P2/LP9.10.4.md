@@ -1,10 +1,9 @@
 Lesson Plan 9
-10.4
+Tuesday 2/14
 
-- Slideshow of deep art and discussion (10 min)
-- Searle conversation exercise (15 minutes)
-- Hofstader conversation (20 minutes)
-- Exhibit lesson (30 min)
+Schedule:
+- Sacks Presentation and Discussion (35 minutes)
+- Identifying conversations (30 minutes)
 
 Slideshow (10 min)
 - While we are looking through the slideshow, mention what your original photograph and art inspiration was. You might also comment on whether it came out like you expected, whether you were pleasantly or unpleasantly surprised, whether you think there is something particularly interesting going on - did this make you think about your photograph or the original artwork in a different light? Do you think this is a cool piece of art in its own sense?
