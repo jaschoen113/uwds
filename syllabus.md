@@ -8,7 +8,7 @@ geometry: margin=1in
 |__C1010.503__|__Spring 2017__|
 |:-----------:|:-----------|
 |_Day/Time_:|Tuesday and Thursday - __10:10__ - __11:25 a.m.__|
-|_Location_:| |
+|_Location_:| Philosophy 201D |
 |_Instructor_:|Jenna Schoen|
 |_Email_:|jas2286@columbia.edu|
 |_Office hours_:|Thursday - __11:30__-__1:30 p.m__ - Brownie's (basement of Avery)|
@@ -74,7 +74,7 @@ You will do at least three types of writing in this course: __responses__, __dra
 
 - **Writing Day Workshop**: Once during the semester you will workshop a draft of an essay. You must have the essay shared on the class Google Drive **24 hours** in advance of the workshop, so that your peers can read and comment on your essay.
 
-- __Drafts__: (500-2800 words). You will be writing your essays in a series of drafts (the number of drafts varies per progression). Drafts are opportunities to explore your ideas, but they are also the beginnings of formal essays. The better your draft, the more useful will be the feedback you will get on it. To facilitate revision, your drafts will receive comments from both me and your classmates. Drafts are __required__, and though they do not receive grades, if you fail to submit any draft of a progression (proposal, exploratory, formal, peer review), you will not receive my feedback on your formal draft. So it is critical that you submit all drafts (and on-time).
+- __Drafts__: (500-2800 words). You will be writing your essays in a series of drafts (the number of drafts varies per progression). Drafts are opportunities to explore your ideas, but they are also the beginnings of formal essays. The better your draft, the more useful will be the feedback you will get on it. Drafts are __required__, and though they do not receive grades, if you fail to submit any draft of a progression (proposal, exploratory, formal, peer review), you will not receive my feedback on your formal draft. So it is critical that you submit all drafts (and on-time).
 
 - __Final Essays__: (750+ words; must have a __title__, __word count__, and a __works cited__ page) Each progression culminates in a __final essay__, which will evolve out of your exercises and drafts. Your final essay will likely differ substantially from the previous drafts in form, and often in content. Your final essay will receive a __formal grade__. All final essays should:
 
@@ -100,13 +100,13 @@ You will write four essays, which can be broadly described as follows:
 
 ### Required VR Headset
 
-- Though there are no required textbooks for this class, you are required to purchase a VR headset for P3. I strongly [__Google Cardboard__](https://store.google.com/product/google_cardboard?utm_source=en-ha-na-us-sem&utm_medium=desktop&utm_content=plas&utm_campaign=Cardboard&gl=us&gclid=CjwKEAiA17LDBRDElqOGq8vR7m8SJAA1AC0_y-3E_vLBK_jun2ZcLzhysLTJ8RrTAekvfJgFBKa9ihoC5_Dw_wcB&dclid=CNmyiYfYqdECFUdDDAodTgsCSg&sku=_google_cardboard_single) which is only $15 and works perfectly well with many VR experiences.  
+- Though there are no required textbooks for this class, you are required to purchase a VR headset for P3. I strongly suggest [__Google Cardboard__](https://store.google.com/product/google_cardboard?utm_source=en-ha-na-us-sem&utm_medium=desktop&utm_content=plas&utm_campaign=Cardboard&gl=us&gclid=CjwKEAiA17LDBRDElqOGq8vR7m8SJAA1AC0_y-3E_vLBK_jun2ZcLzhysLTJ8RrTAekvfJgFBKa9ihoC5_Dw_wcB&dclid=CNmyiYfYqdECFUdDDAodTgsCSg&sku=_google_cardboard_single) which is only $15 and works perfectly well with many VR experiences.  
 
 ### Technology<a name="technology"></a>
 
-- As mentioned above, we will be using a [Google Site](https://sites.google.com/site/uwspring2017/) instead of Courseworks. On the Google Site, you find the syllabus, announcements, additional resources, and links to four important Google Drive folders:
+- As mentioned above, we will be using a [Google Site](https://sites.google.com/site/uwspring2017/) instead of Courseworks. On the Google Site, you will find the syllabus, announcements, additional resources, and links to four important Google Drive folders:
 
-	1. [Readings folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDdzRLWHo2ZHlrSk0): where you will find all of assigned course readings (essays, TMR essays, craft texts)
+	1. [Readings folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDdzRLWHo2ZHlrSk0): where you will find all of our assigned course readings (essays, TMR essays, craft texts)
 	2. [Reading Response folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDbUIwZjhqdXhJaGs): where you will post your Reading Response in a collective Google Doc (all 14 docs are in one folder)
 	3. [Draft folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDT3d2S0REUEtJcTg): where you will create a single draft file per progression (labelled "Last Name P(x) Draft File"), in which you will write (or copy-paste) all of your progression drafts
 	4. [Workshop folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDSmxXajVBN2ExNXM): where you will post the draft of an essay 24 hours before your workshop
@@ -205,7 +205,7 @@ The following are the only reasons for **excused** absences:
 - __Section changes__: If you change your section of University Writing in the first two weeks of class, you must provide your new instructor a completed and signed “University Writing Attendance Confirmation” form. Please see Mr. John Stobo in the Undergraduate Writing Program office, 310 Philosophy Hall, for a copy of the form.
 
 ### Conferences<a name="conferences"></a>
-You will have **two** 20-30 minute conferences with me during the semester. These conferences give you the opportunity to discuss your ideas, to work through your drafts, to prepare for presentations, or to revise your essays. You are welcome to come and see me in office hours or by appointment to discuss any aspect of the course. These conferences also count towards your participation grade (a missed conference will incur 10 points off the participation grade).
+You will have **two** conferences with me during the semester. These conferences give you the opportunity to discuss your ideas, to work through your drafts, to prepare for presentations, or to revise your essays. You are welcome to come and see me in office hours or by appointment to discuss any aspect of the course. These conferences also count towards your participation grade (a missed conference will incur 10 points off the participation grade).
 
 ### Assessment and Response<a name="assessment-and-response"></a>
 
@@ -308,7 +308,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 ### 11. __Tuesday 2/21__
 - Reading:
     - **Grandin,** Temple. "Animals are not things."
-		- **Graff** and **Birkenstein**. "Yes/No/Okay, But"
+    - **Graff** and **Birkenstein**. "Yes/No/Okay, But"
 - Presentation 6 (Grandin)
 - Due:
     - RR 6

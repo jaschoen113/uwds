@@ -1,3 +1,7 @@
+---
+geometry: margin=1in
+---
+
 ## Writing Days: Workshops and Writing Responses
 
 ### Workshops

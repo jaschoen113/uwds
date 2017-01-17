@@ -11,6 +11,8 @@ Overview:
   - How does Hofstadter use key terms to develop his claim?
   - What are the advantages/disadvantages of creating a term like sphexishness?
   - How does he use exempla to develop his claim?
+  - What do you think about Hofstadter main premise that creativity is already mechanical? Can you think of any examples that would support his claim, or any that would negate it?
+  - What do you think about the potential for machines to be creative? Would such creativity be like or unlike our own creativity? What might it look like?
   - What do you make of the link between writing and mechanization?
 - Look at line about rewriting as transition to revision
 

@@ -1,6 +1,10 @@
+---
+geometry: margin=1in
+---
+
 ## Reading Days: Presentations and Reading Responses
 
-## Presentations
+### Presentations
 
 Once during the semester you will present on the assigned reading. First you will provide a **brief** context presentation on the text and its author. You can discuss biographical, historical, cultural, and/or theoretical context. Present any information that will help the class better understand the perspective and motives of the author, as well as the impact of this text. The presentation should be at least 5 minutes long, and **cannot be any longer than 10 minutes** (5 minutes is perfectly fine). This does not need to be a very formal presentation; you do not need any kind of slideshow, media, etc. However, you do need provide the class with better and more interesting information than what they might glean from Wikipedia.
 
@@ -26,7 +30,7 @@ However, not all questions need to be fully directed at a passage or page number
 
 As you're asking these questions, do not feel obligated to respond to every answer; in fact, it's best not to respond to every answer. Allow the class to develop their own discussion. Your job is to encourage and guide discussion, not to fill up the class time with your own ideas. Try not to answer your own question, at least until all other students have been given a chance to do so. However, feel free to redirect the discussion if things have gone off-course, and jump in with a new question when the current one has been exhausted.
 
-## Reading Responses
+### Reading Responses
 
 For **each of the 14 assigned essays**, you will write a response of about **100-300 words**. These responses are meant to direct your attention to the **style and form of the essays**, as well as to provide practice on various **reading and writing skills**. Often these responses will feed directly into your essay writing. You will submit each response to the **collective Google Doc** for each essay (found under the Reading Response folder on our Google Site). Please write your name (in bold), and then paste the response into the document. The shared document allows you to read your peer's responses and begin a conversation about the essay even before our discussion in class.
 
@@ -34,4 +38,4 @@ You will find the prompt for each reading response under the "Reading Assignment
 
 The responses are graded pass/fail, and count towards your participation grade. Every missed or late response will deduct one point from that grade. The responses are due by 10:10 (class time) every reading day, though I encourage you to submit responses the night before class, so that your peers (and I) have time to read through all the responses before our discussion.
 
-Keep in mind that these responses are informal, and not graded for style/structure/content, etc. They are a low-stakes assignment in which you are encouraged to discover your ideas through exploratory writing. You should not spend more than 45 minutes per response. While I don't want responses to consume your time, this does not mean you can submit bullet-points or half-hearted attempts either. Making the most of responses will  better prepare you not only for class discussion but for progression essays.
+Keep in mind that these responses are informal, and not graded for style/structure/content, etc. They are a low-stakes assignment in which you are encouraged to discover your ideas through exploratory writing. You should not spend more than 45 minutes per response. While I don't want responses to consume your time, this does not mean you can submit bullet-points or half-hearted attempts either. Making the most of responses will  better prepare you not only for class discussion but also for progression essays.
