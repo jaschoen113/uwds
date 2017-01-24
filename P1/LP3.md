@@ -26,7 +26,4 @@
 - What kinds of questions did you ask?
 - What kinds of responses did you get?
 - Why do you think certain questions are more difficult than others?
-
-
-##Reminder
-- Make sure in addition to exploratory draft you read the sample TMR essay and **bring** it to class Thursday cause we're going to work with it; though the student is writing on another essay which we have not read, it is still a useful model. Write on board: As you're reading, identify the observation, problem, claim, motive, warrant of the text.   
+ 
