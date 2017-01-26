@@ -4,6 +4,8 @@ Due  **Tuesday 1/31**
 
 700-900 words
 
+Submit in a **Google Doc** in the P1 Drafts Folder. Title the document "(Last Name) P1 Drafts"
+
 The purpose of this draft is to explore your ideas through the act of writing. This is an **informal** document. You should focus on content rather than form. Try not to stop writing even if you're not quite sure where a point may be going. Explore each potential idea and see if the very act of writing can get you to a larger claim. Don't worry too much about structure, but begin a new paragraph/section every time you do something new.
 
 These are the general objectives for this draft:
@@ -20,8 +22,11 @@ These are the general objectives for this draft:
 
 If you are still struggling to select a passage(s), here are some tips:
 
-- Select a passage(s) that requires interpretation, has terms that shift in meaning, and/or has claims that suggest significant room for debate. Don't select a passage that simply declares a basic point or sum up the author's ideas.   
-- A passage may be a single sentence or several sentences long. A pattern may be a term/expression/image/device/question, etc. that occurs in different places throughout the essay. But you shouldn't just be piling up examples; you need to raise a _specific_ interpretation as a result of a _specific_ observation.
+- A passage may be a single sentence or several sentences long. A pattern may be a term/expression/image/device/question, etc. that occurs in different places throughout the essay.
+
+- Select a passage(s) that requires interpretation, has terms that shift in meaning, and/or has claims that suggest significant room for debate. Don't select a passage that simply declares a basic point or sums up the author's ideas.   
+
+- Select a passage(s) that will allow you to analyze the text in an original way. Don't select a passage that is simply a weak spot in the author's argument. Remember the goal of this essay is to create our own interesting claims, not to knock down the claims of others.
 
 If you are still struggling to interpret your passage(s), here are some questions you might ask yourself:
 
@@ -31,5 +36,5 @@ If you are still struggling to interpret your passage(s), here are some question
 - Why might the author structure his/her argument this way?
 - What makes this passage stand out from the rest of the text?
 - Are there any assumptions that the author makes, either explicitly or implicitly? How does recognizing those assumptions change how we understand his or her argument?
-- Why does the author choose this particular evidence or particular kind of evidence?  
+- Why does the author choose this particular evidence or particular kind of evidence?
 - Do any passages from the rest of the text support your interpretation of this particular passage?
