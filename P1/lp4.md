@@ -9,6 +9,10 @@
 - Additional questions:  
 - Where are moments of ethos, pathos, logos in this piece?
 - Can we think about these rhetorical moves in relation to her larger exploration of empathy?
+- How does she use pronouns to play with the idea of empathy?
+- What is the effect of the script structure? 
+- What are some recurring images in this text? 
+- Why might she hold the heart surgery off from us? Does that feel reconciled? Is there a protectiveness there, as she describes? 
 
 ##Motif Close Reading (20 min)
 - Like the Turing exercise we did last class, let's select one pattern.
