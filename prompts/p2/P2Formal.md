@@ -1,6 +1,7 @@
 ## P2 Formal Draft
 
-Due Tuesday 3/7  
+Due  Wednesday 7/5  
+
 1100-1400 words
 
 As you shape your exploratory draft into a formal draft, follow these basic guidelines:

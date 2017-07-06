@@ -38,17 +38,25 @@
 
 Poem: Constance Naden, Nebular Theory
 
+About Constance Naden: English poet, lectured on philosophy and science, born 1858. Interested in Herbert Spencer's philosophy that maps evolution onto social science (society as organism that evolves through natural selection).
+
 1. First, let's read the poem out loud, and I just want you to think about what the poem is saying on its most basic level. If you were to summarize the poem for a 7 year old, what would you say? Feel free to annotate as we read, marking anything you find particularly important for this task. (Have someone read it out loud and come up with a basic summary, write on board)
 
 2. Now let's read it again. This time, I want you to read it alone, and I want you to annotate it as you go, especially if you didn't the first time. As you read, I also want you to look for anything you find particularly striking. Is there an unexpected word or phrase? A contradictory image? An ambiguous meaning in one line? A tension between a formal element (a rhyme, the line-breaks, etc) and the meaning we've discussed? Anything unnerving? illogical? strange? Is it playing with form or convention in some way? (Read through it again, jot down some ideas on board)
 
 3. Now that we have our summary and our observation on the board, can we make any more solid links between the primary meaning of the poem and one of our observations? In other words, can we connect any of these observations to the larger "point" of the passage? Do any of these observations change/reinforce/complicate our understanding of the larger text? Given this particular observation, can you say anything more nuanced, complicated, or interesting about the entire poem itself, or a possible reading of the poem? Does the "simple" meaning of the poem become more complex when we pay close attention to the language? This will be our **claim** (write on board in third column). If they are not answering quickly, give them a minute to jot a potential claim down.
 
+##Example questions
+
+Context: Constance Naden was a follower of Herbert Spencer, who believed that we can describe society in scientific, evolutionary terms. Do we see that belief system at play in this poem?
+Content: The poem suggests that there is a more scientific narrative of creation than we are used to. But is this still ultimately a story? That is, does this poem really explain the science behind creation? What does it mean to explain that science?
+Form: I notice a lot of alliteration, particularly in the middle of the poem. How does that alliteration intensify or even mimic the subject matter?
+
 ##Class Goals
 
 1) What do you find most difficult about writing?
 2) Has anyone ever told you something about your writing that you agree you need to work on?
-3) What are you worried about in transitioning your writing from high school level to undergraduate level?
+3) What are your goals for your writing in this class and in college in general?
 
 We're going to be doing a lot of free-writing like this in class. The goal here is to really "word vomit." Don't go for polished writing - just write whatever comes to your mind. I'll never cold call on you to read out what you've written. This exercise serves mainly as a springboard for our discussions.
 
