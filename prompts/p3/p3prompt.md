@@ -1,16 +1,14 @@
 ## Progression 3: Research Essay
 
-Proposal due **Tuesday 3/28**
+Proposal due **Monday 7/17**
 
-Exploratory draft due **Monday 4/3**
+Exploratory draft due **Monday 7/24**
 
-Formal draft due **Wednesday 4/12**
+Formal draft due **Monday 7/31**
 
-Peer review final draft due **Friday 4/15**
+Final draft due **Friday 8/11**
 
-Final draft due **Sunday 4/23**
-
-Your task in this progression is to write an extensive, well-researched critical essay around a **virtual reality exhibit**. Your exhibit can be a virtual reality film, game, or experience. I have provided a list of possible virtual reality exhibits on our Google Site, but you are more than welcome (and even encouraged) to choose something not on the list. It is also possible to choose an exhibit that cannot be seen with a Google Cardboard, and might even be rather loosely related to virtual reality, but you must run that by me first. 
+Your task in this progression is to write an extensive, well-researched critical essay around a **virtual reality exhibit**. Your exhibit can be a virtual reality film, game, or experience. I have provided a list of possible virtual reality exhibits on our Google Site, but you are more than welcome (and even encouraged) to choose something not on the list. It is also possible to choose an exhibit that cannot be seen with a Google Cardboard, and might even be rather loosely related to virtual reality, but you must run that by me first.
 
 This essay should **not be about evaluation** – about telling us whether the exhibit is good or bad, worth watching or not; assume that by analyzing it, you’re making a case for the **exhibit’s value** from the beginning. Like the Progression 1 essay, this essay must deepen our understanding of how the exhibit works, what it communicates, and why it matters. And like the Progression 2 essay, it needs to do so by incorporating multiple sources. The added level of difficulty here is that you must conduct your own research to uncover sources relevant to your project.
 
