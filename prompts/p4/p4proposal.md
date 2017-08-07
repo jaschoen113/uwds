@@ -1,6 +1,6 @@
-## P4 Proposal 
+## P4 Proposal
 
-Due Tuesday 12/6
+Due Wednesday 8/9
 
 ~ 500 words
 
