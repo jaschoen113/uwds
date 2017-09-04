@@ -1,5 +1,5 @@
 ## P3 Proposal
-Due Tuesday 7/17
+Due Tuesday 11/9
 
 500-700 words
 

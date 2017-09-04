@@ -1,6 +1,6 @@
 ## P3 Exploratory Draft
 
-Due Monday 7/24
+Due Tuesday 11/16
 
 As with previous exploratory drafts, you should use this assignment to explore new ideas through the process of writing. But the majority of your "exploration" in this draft will be outside the actual written draft and instead in your research.
 

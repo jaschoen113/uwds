@@ -2,23 +2,21 @@
 
 Draft Deadlines:
 
-Proposal due **Monday 6/26**
+Proposal due **Thursday 10/12**
 
-Exploratory draft due **Wednesday 6/28**
+Exploratory draft due **Tuesday 10/17**
 
-Formal draft due **Wednesday 7/5**
+Formal draft due **Tuesday 10/24**
 
-Final draft due **Sunday 7/16**
+Final draft due **Friday 11/3**
 
 Prompt:
 
-Find an **exhibit** that you can interpret alongside **two** of our course readings (Ford, Jamison, Martin, Sacks, Grandin, Slater).
+Find an **exhibit** that you can interpret alongside **two** of our course readings (Ford, Turing, Jamison, Martin, Hofstadter, Slater, Dennett, Grandin).
 
 An exhibit can be a text, a film, an event, a performance, a speech, an image, or anything that can be interpreted and carries the potential for rich analysis. In P1, the essay that you close read was your exhibit. In P2, you select your own exhibit, and use the assigned essays to bolster your close reading of your chosen exhibit. In addition, you will be entering into a specific academic **conversation** via your exhibit and chosen essays. Your goal is to show how your exhibit can complicate that existing academic conversation, as well as how the conversation can complicate our understanding of your exhibit.
 
 Keep in mind that an exhibit is not merely an example. While an example merely affirms an argument, an exhibit is dynamic; indeed, the exhibit itself may raise problems with our status quo understanding. Through careful analysis, our developing ideas about the exhibit may change or challenge our initial assumptions.
-
-We will be looking at example exhibits on our trip to the MoMA, and you will have time afterwards to find an exhibit of your own. I strongly encourage everyone to write about an artwork from the MoMA, since art is usually easier to close read and write interestingly about than other exhibits (even if it is intimidating at first). If you want to write about something else though, get my approval first.
 
 Progression Goals:
 
@@ -44,4 +42,4 @@ Length:
 
 The paper should be __1500-2000__ words long (include a word count at the end of each draft).
 
-Note: If one of your selected essays is the essay you used for P1, you may not write about the same topic. In other words, you cannot simply adapt your P1 paper into your P2 paper. If you want to use the same essay for P2, you **must** meet with me to discuss how you will use it differently. 
+Note: If one of your selected essays is the essay you used for P1, you may not write about the same topic. In other words, you cannot simply adapt your P1 paper into your P2 paper. If you want to use the same essay for P2, you **must** meet with me to discuss how you will use it differently.

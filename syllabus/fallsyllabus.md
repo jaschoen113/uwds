@@ -11,7 +11,7 @@ geometry: margin=1in
 |_Location_:| Philosophy 401A |
 |_Instructor_:|Jenna Schoen|
 |_Email_:|jas2286@columbia.edu|
-|_Office hours_:|Thursday - __10:00 __ - __12:00__ - Brownie's (basement of Avery)|
+|_Office hours_:|Thursday - __1:00__ - __3:00__ - Brownie's (basement of Avery)|
 |_Mailbox Address_:|310 Philosophy Hall|
 
 # University Writing
@@ -48,31 +48,23 @@ This class does not presume that students will arrive with any background or ide
 
 We will give special attention to the practices of close reading, rhetorical analysis, research, collaboration, and substantive revision. Students will learn that writing is a process of continual refinement of ideas and their expression. Rather than approaching writing as an innate talent, this course will teach writing as a unique, learned skill that can be practiced and developed.  Over the course of the semester, you will read and discuss texts from a number of fields, complete regular reading and writing exercises, write several longer essays, and prepare an editorial for a public audience.
 
-In this course, writing will be taught both through _praxis_ (“doing”) and _analysis_ (“breaking up into pieces”). Classes are divided into **Reading Days** and **Writing Days.** For both of these you will come to class having thoroughly prepared an assigned reading: that is, you will have done the reading at least twice, marked especially interesting or challenging passages, and prepared several well thought-out discussion questions; in addition, you will have prepared a written response to the reading. The primary difference between Reading Days and Writing Days is that on the former we will be discussing Course Readings, which are published essays in modern English; and on the latter we will be discussing your own work and development.
-
 __Note__: Your syllabus is a reference document to be frequently consulted. In it you will find course policies, all major due dates, and a schedule of readings. The syllabus is available online on our [Google Site](https://sites.google.com/site/uwfall2017/). Readings and due dates are subject to change throughout the semester, but I will give you warning well advance and update the online syllabus if anything changes.
 
 ## Requirements<a name="requirements"></a>
 
-1. Four **progression essays** ranging from 750-3000 words. Final essays must be submitted on [CourseWorks](http://Courseworks.columbia.edu)
+1. Four **progression essays** ranging from 750-3000 words. Final essays must be submitted on [Canvas](https://courseworks2.columbia.edu/courses/47496/files) (under "Files") and emailed to me as a private Google Doc
 
-1. **Reading responses** and __writing responses__. Complete all responses in our shared [Google Drive folders]
+1. One **presentation**, in which you and a classmate will contextualize a course reading, historically and biographically (10 minutes max.), and lead discussion.
 
-1. One **Reading Day Presentation**, in which you’ll contextualize a Course Reading, historically and biographically (10 minutes max.), and lead discussion
-
-1. One **Writing Day Workshop**, in anticipation of which you will upload a shared Google Doc to the Workshop folder on our [Google Drive](link to drive folder)
+1. One **workshop**, in anticipation of which you will upload a shared Google Doc to the Workshop folder on our [Google Drive](link to drive folder). You will also read and comment on your peers' workshop drafts before workshop days.
 
 1.  Attend and participate in all classes and conferences
 
 ### Assignments<a name="assignments"></a>
 
-You will do at least three types of writing in this course: __responses__, __drafts__, and __final essays__. These assignments will connect with one another in a developmental sequence called a __progression__. We will be working on __four progressions__ this semester.
+- **Workshops**: At least once during the semester you will workshop a draft of an essay. You must have the essay shared on the class Google Drive **24 hours** in advance of the workshop, so that your peers can read and comment on your essay. For every other workshop, you will write marginal and end-note comments on your peer's workshop essay. These responses are essential not only because they provide feedback to your peer, but also because they foster a critical and revisory perspective towards your own writing.
 
-- __Responses__: (100-300 words) You will have a response assigned for every class this semester. There are two kinds of responses: reading responses and writing responses. **Reading responses** are assigned on Reading Days, and answer prompts designed to elucidate the assigned reading. These are meant to direct your attention to the style and form of the essays, as well as to provide practice on various reading and writing skills. Often these responses will feed directly into your essay writing. **Writing responses** are assigned on Writing Days, and consist of marginal and end-note comments on your peer's workshop essay. These responses are essential not only because they provide feedback to your peer, but also because they foster a critical and revisory perspective towards your own writing. Responses are graded __pass/fail__.
-
-- **Reading Day Presentation**: Once during the semester you will present on a reading assignment. You will have 5-10 minutes (10 minutes **max**) to contextualize the reading (historically, theoretically, and/or biographically). Then you will lead a class discussion for 25-30 minutes, asking prepared and thoughtful questions on the assigned essay.
-
-- **Writing Day Workshop**: Once during the semester you will workshop a draft of an essay. You must have the essay shared on the class Google Drive **24 hours** in advance of the workshop, so that your peers can read and comment on your essay.
+- **Presentation**: Once during the semester you and a classmate will present on a reading assignment. You will have 5-10 minutes (10 minutes **max**) to contextualize the reading (historically, theoretically, and/or biographically). Then you will lead a class discussion for 25-30 minutes, asking prepared and thoughtful questions on the assigned essay. You and your partner should prepare both the context and discussion questions together, but you can choose how to divide the presentation.  
 
 - __Drafts__: (500-2800 words). You will be writing your essays in a series of drafts (the number of drafts varies per progression). Drafts are opportunities to explore your ideas, but they are also the beginnings of formal essays. The better your draft, the more useful will be the feedback you will get on it. Drafts are __required__, and though they do not receive grades, if you fail to submit any draft of a progression (proposal, exploratory, formal, peer review), you will not receive my feedback on your formal draft. So it is critical that you submit all drafts (and on-time).
 
@@ -92,7 +84,7 @@ You will write four essays, which can be broadly described as follows:
 
 ### Required Texts<a name="required-texts"></a>
 
-- The syllabus, course description, requirements, readings, assignments, and links to resources are available on our course Google Site: https://sites.google.com/site/uwspring2017/ Bookmark this link!
+- The syllabus, course description, requirements, readings, assignments, and links to resources are available on our course Google Site: https://sites.google.com/site/uwfall2017/ Bookmark this link!
 
 - Some readings will be assigned from [__The Morningside Review__](http://www.morningsidereview.org) (TMR), which is the journal of selected essays from Columbia’s Undergraduate Writing Program. In addition the the required readings, you are strongly encouraged to read other TMR essays taht model each of the four progressions.
 
@@ -104,12 +96,12 @@ You will write four essays, which can be broadly described as follows:
 
 ### Technology<a name="technology"></a>
 
-- As mentioned above, we will be using a [Google Site](https://sites.google.com/site/uwspring2017/) instead of Courseworks. On the Google Site, you will find the syllabus, announcements, additional resources, and links to four important Google Drive folders:
+- As mentioned above, we will be using a [Google Site](https://sites.google.com/site/uwfall2017/) instead of Courseworks. On the Google Site, you will find the syllabus, announcements, additional resources, and links to four important Google Drive folders:
 
-	1. [Readings folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDdzRLWHo2ZHlrSk0): where you will find all of our assigned course readings (essays, TMR essays, craft texts)
-	2. [Reading Response folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDbUIwZjhqdXhJaGs): where you will post your Reading Response in a collective Google Doc (all 14 docs are in one folder)
-	3. [Draft folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDT3d2S0REUEtJcTg): where you will create a single draft file per progression (labelled "Last Name P(x) Draft File"), in which you will write (or copy-paste) all of your progression drafts
-	4. [Workshop folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDSmxXajVBN2ExNXM): where you will post the draft of an essay 24 hours before your workshop
+	1. [Readings folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDTXBsS1p6dnV3M1U): where you will find all of our assigned course readings (essays, TMR essays, craft texts)
+	2. [Draft prompts](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDY2VoZC0wZ1gzY1U): where you will find the draft prompt assignments for each progression, as well as a checklist for each essay
+	3. [Draft folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDVjdOSXNMYmk0TUk): where you will create a single draft file per progression (labelled "Last Name P(x) Draft File"), in which you will write (or copy-paste) all of your progression drafts
+	4. [Workshop folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDU2E4dXNyaE9DVGs): where you will post the draft of an essay 24 hours before your workshop
 
 
 - Because we will be working directly with Google Docs in class, I encourage you to bring your laptop to class everyday. This way you can directly edit your draft in class, see peer comments on the workshop essay, and see peer responses to the reading assignment. If you do not have a personal laptop that you can bring, then you must print out and bring all your responses and drafts to class.
@@ -239,28 +231,23 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 ### 2. __Thursday 9/7__
 - Reading:
-    - **Bahk**, Sue. "The Final Judgement in 'Monster Culture.'" (from [The Morningside Review](http://morningsidereview.org/essay/the-final-judgement-in-monster-culture/))
+	- **Ford**, Richard. "Save the Robots."  
 
 ### 3. __Tuesday 9/12__
 - Reading:
     - **Turing**, Alan. "Computing Machinery and Intelligence."
 - Presentation 1 (Turing)
-- Due:
-    - RR (Reading Response) 1
 
 ### 4. __Thursday 9/14__
 - Reading:
     - **Jamison**, Leslie. "The Empathy Exams."
 - Presentation 2 (Jamison)
-- Due:
-    - RR 2
 
 ### 5. __Tuesday 9/19__
 - Reading:
-    - **Martin,** Emily. "The Egg and the Sperm: How Science Has Constructed a Romance Based on Stereotypical Male-Female Roles."
-- Presentation 3 (Martin)
+    - **Bahk**, Sue. "The Final Judgement in 'Monster Culture.'" (from [The Morningside Review](http://morningsidereview.org/essay/the-final-judgement-in-monster-culture/))
+    - **Martin**, Emily. "The Egg and the Sperm: How Science Has Constructed a Romance Based on Stereotypical Male-Female Roles.
 - Due:
-    - RR 3
     - **P1 Exploratory Draft**
 
 ### 6. __Thursday 9/21__  
@@ -269,35 +256,27 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
     - WR (Writing Response) 1 & 2
 
 ### 7. __Tuesday 9/26__  
-- Reading:
-    - **Hofstadter,** Douglas. "On the Seeming Paradox of Mechanized Creativity."
-- Presentation 4 (Hofstadter)
+- Workshop 3 & 4 (P1 Draft)
 - Due:
-    - RR 4
+    - WR 3 & 4
     - **P1 Formal Draft**  
 
 ## Progression Two<a name="progression-two"></a>
 
 ### 8. __Thursday 9/28__
-- Reading:
-    - **Man**, Emily. "Brainy or Busty? Both. Sexuality and Intelligence in BBC’s Sherlock" (from [The Morningside Review](http://morningsidereview.org/essay/brainy-or-busty-both-sexuality-and-intelligence-in-bbcs-sherlock/))
-- Workshop 3 (P1 Draft)
-- Due:
-    - WR 3  
+- Reading:   
+    - **Hofstadter**, Douglas. "On the Seeming Paradox of Mechanized Creativity."
+- Presentation 3 (Hofstadter)
 
 ### 9. __Tuesday 10/3__
 - Reading:
-    - **Sacks,** Oliver. "Anthropologist on Mars."
-- Presentation 5 (Sacks)
-- Due:
-    - RR 5
+    - **Slater,** Lauren. "Dr. Daedalus."
+- Presentation 4 (Slater)
 
 ### 10. __Thursday 10/5__
 - Reading:
-    - __Booth__, __Colomb__, and __Williams__. "Revising Style: Telling your Story Clearly."
-- Workshop 4 (P1 Draft)
-- Due:
-    - WR 4
+    - **Dennett**, Daniel. "Self as a center of narrative gravity."
+- Presentation 5 (Dennett)
 
 ### __P1 Final draft__ due __Friday 10/6__
 
@@ -306,120 +285,90 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
     - **Grandin,** Temple. "Animals are not things."
     - **Graff** and **Birkenstein**. "Yes/No/Okay, But"
 - Presentation 6 (Grandin)
-- Due:
-    - RR 6
 
 ### 12. __Thursday 10/12__
-- Workshop 5 (P2 draft)
+- Reading:
+    - **Man**, Emily. "Brainy or Busty? Both. Sexuality and Intelligence in BBC’s Sherlock" (from [The Morningside Review](http://morningsidereview.org/essay/brainy-or-busty-both-sexuality-and-intelligence-in-bbcs-sherlock/))
 - Due:
-    - WR 5
     - **P2 Proposal**
 
 ### 13. __Tuesday 10/17__
-- Reading:
-    - **Slater,** Lauren. "Dr. Daedalus."
-- Presentation 7 (Slater)
 - Due:
-    - RR 7
     - **P2 Exploratory Draft**
 
 ### 14. __Thursday 10/19__
-- Workshops 6 & 7 (P2 Drafts)
+- Workshops 5 & 6 (P2 Drafts)
 - Due:
-    - WR 6 & 7
+    - WR 5 & 6
 
 ### 15. __Tuesday 10/24__
-- Reading:
-    - **Dennett**, Daniel. "Self as a center of narrative gravity."
-- Presentation 8 (Dennett)
+- Workshops 7 & 8 (P2 Drafts)
 - Due:
-    - RR 8
+    - WR 7 & 8
     - **P2 Formal Draft**
 
 ## Progression Three<a name="progression-three"></a>
 
 ### 16. __Thursday 10/26__
 - Reading:
-    - **Wright**, Rebecca. "Hives, Damn Hives, and the Internet" (From [The Morningside Review](http://morningsidereview.org/essay/hives-damn-hives-and-the-internet/))
-- Workshop 8 (P2 Draft)
-- Due:
-    - WR 8
+    - __Hayles__, Katherine. "Embodied Virtuality: Or How to Put Bodies Back into the Picture"
 
 ### 17. __Tuesday 10/31__
 - Reading:
-    - __Hayles__, Katherine. "Embodied Virtuality: Or How to Put Bodies Back into the Picture"
     - **Harris**, Joseph. "Forwarding."
-- Presentation 9 (Hayles)
-- Due:
-    - RR 9
+    - __Booth__, __Colomb__, and __Williams__. "From Topics to Questions" and "From Questions to Problems"
 
 ### 18. __Thursday 11/2__
-- Reading:
-    - **Doniger**, Wendy. "Many Masks, Many Selves."
-    - __Booth__, __Colomb__, and __Williams__. "From Topics to Questions" and "From Questions to Problems"
-- Presentation 10 (Doniger)
+- __Meet in Butler 203__
 - Due:
-    - RR 10
+    - **P3 Proposal**
 
 #### __P2 Final Draft__ due __Friday 11/3__
 
 ### 19. __Tuesday 11/9__
-- __Meet in Butler 306__
-- Due:
-    - **P3 Proposal**
+- Reading:
+    - **Doniger**, Wendy. "Many Masks, Many Selves."
+- Presentation 7 (Doniger)
+
 
 ### 20. __Thursday 11/14__
-- Workshop 9 (P3 Draft)
-- Due:
-    - WR 9
+- Reading:
+    - **Wright**, Rebecca. "Hives, Damn Hives, and the Internet" (From [The Morningside Review](http://morningsidereview.org/essay/hives-damn-hives-and-the-internet/))
 
 ### 21. __Tuesday 11/16__
-- Reading:
-    - **McLuhan**, Marshall. "The Gadget Lover: Narcissus as Narcosis."
-- Presentation 11 (McLuhan)
 - Due:
-    - RR 11
     - **P3 Exploratory draft**
 
 ### 22. __Thursday 11/21__:
-- Workshop 10 & 11 (P3 Drafts)
+- Workshop 9 & 10 (P3 Drafts)
 - Due:
-    - WR 10 & 11
+    - WR 9 & 10
 
 
 ### 23. __Tuesday 11/28__
-- Reading:
-    - **Nagel**, Thomas. "What is it like to be a bat?"
-- Presentation 12 (Nagel)
+- Workshop 11 & 12 (P3 Drafts)
 - Due:
-    - RR 12
+		- WR 11 & 12
     - __P3 Formal draft__
 
 ## Progression Four<a name="progression-four"></a>
 
 ### 24. __Thursday 11/30__
 - Reading:
-    - Formerly published UW Op-Eds
+    - **Dyson**, Freeman. "Science, Guided by Ethics, Can Lift Up the Poor."
+    - **Crawford**, Kate. "Artificial Intelligence's White Guy Problem" (from [The New York Times](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html))
+    - **Hawking**, Stephen. "Transcendence looks at the implications of artificial intelligence - but are we taking AI seriously enough?"" (from [The Independent](http://www.independent.co.uk/news/science/stephen-hawking-transcendence-looks-at-the-implications-of-artificial-intelligence-but-are-we-taking-9313474.html))
 
 #### Publishing the Op-Ed Event on __Friday 12/1__ (1-2:30pm)
 
 ### 25. __Tuesday 12/5__
-- Reading:
-    - **Dyson**, Freeman. "Science, Guided by Ethics, Can Lift Up the Poor."
-    - **Crawford**, Kate. "Artificial Intelligence's White Guy Problem" (from [The New York Times](http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html))
-    - **Hawking**, Stephen. "Transcendence looks at the implications of artificial intelligence - but are we taking AI seriously enough?"" (from [The Independent](http://www.independent.co.uk/news/science/stephen-hawking-transcendence-looks-at-the-implications-of-artificial-intelligence-but-are-we-taking-9313474.html))
-- Presentation 13 (Dyson)
+- Workshop 13 & 14 (P4 Drafts)
 - Due:
-    - RR 13
+    - WR 13 & 14
 
 ### 26. __Thursday 12/7__
-- Reading:
-    - **Sagan**, Carl. "Pale Blue Dot."
-- Presentation 14 (Sagan)
-- Workshop 12, 13 & 14 (P4 Draft)
+- Last day of class
 - Due:
-    - RR 14
-    - WR 12, 13 & 14
     - **P4 Proposal**
 
 #### __P3 Final draft__ due __Friday 12/8__

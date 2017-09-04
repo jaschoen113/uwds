@@ -1,6 +1,6 @@
 #P1 Exploratory Draft
 
-Due  **Friday 6/2**
+Due  **Tuesday 9/19**
 
 700-900 words
 
@@ -10,7 +10,7 @@ The purpose of this draft is to explore your ideas through the act of writing. T
 
 These are the general objectives for this draft:
 
-1.  Select whether you'd like to write on  **Jamison** or **Ford** (you can only write on one text for this progression).
+1.  Select whether you'd like to write on  **Jamison**, **Turing** or **Ford** (you can only write on one text for this progression).
 
 2.  Select a passage or pattern of passages that has rich language and/or form that you can interpret originally. Type the passage(s) in a document and cite the page number(s).
 

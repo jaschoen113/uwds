@@ -2,15 +2,15 @@
 
 Draft Deadlines:
 
-Exploratory draft due **Friday 6/2**
+Exploratory draft due **Tuesday 9/19**
 
-Formal draft due **Wednesday 6/7**  
+Formal draft due **Tuesday 9/26**  
 
-Final draft due **Sunday 6/18**   
+Final draft due **Friday 10/6**   
 
 Prompt:  
 
-Your first essay will focus on one of the two texts that we’ve read in this progression (Jamison or Ford). It helps to work on a text that you feel drawn to or engaged by. Being ‘drawn to’ a text is different from liking or disliking it. Being 'drawn to' a text means feeling that you could help someone read your text more deeply, see it in a new light, or understand something about the text that he or she might have missed.
+Your first essay will focus on one of the two texts that we’ve read in this progression (Jamison, Ford or Turing). It helps to work on a text that you feel drawn to or engaged by. Being ‘drawn to’ a text is different from liking or disliking it. Being 'drawn to' a text means feeling that you could help someone read your text more deeply, see it in a new light, or understand something about the text that he or she might have missed.
 
 Your essay should be crafted around a close reading of the text. When you close read a text, you do not simply summarize what the text says, nor do you simply seek to prove or disprove the author's argument. Rather, you describe what the text is *doing* and why the writer might have made the writerly choices he/she did. You can close read a single passage or a pattern that you find throughout the text. More important is that you select one *specific* passage or pattern with rich language and/or form that might be interpreted in more than one way. Your original interpretation of that passage or pattern will then develop into an original argument about the essay at large.
 
@@ -43,4 +43,4 @@ Progression Goals:
 Length:
 The paper should be __1200-1500__ words long (include a word count at the end of each draft).
 
-Note: if you do not feel drawn to the Turing, Jamison, or Martin, and if you believe that you cannot write a successful P1 essay on any of these three texts, you may -- **with my permission** -- write on an essay assigned later in the semester. However, keep in mind that we will not have discussed this essay yet, which will most likely make writing more difficult for you. I therefore strongly suggest that you really grapple with these three texts before you start reading ahead. But because we write the best essays when we write about texts that engage us, I am willing to discuss this possibility with you.
+Note: if you do not feel drawn to the Turing, Jamison, or Ford, and if you believe that you cannot write a successful P1 essay on any of these three texts, you may -- **with my permission** -- write on an essay assigned later in the semester. However, keep in mind that we will not have discussed this essay yet, which will most likely make writing more difficult for you. I therefore strongly suggest that you really grapple with these three texts before you start reading ahead. But because we write the best essays when we write about texts that engage us, I am willing to discuss this possibility with you.

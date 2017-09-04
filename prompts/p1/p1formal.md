@@ -1,6 +1,6 @@
 #P1 Formal Draft
 
-Due **Wednesday 6/7**  
+Due **Friday 10/6**  
 
 ~900 words
 

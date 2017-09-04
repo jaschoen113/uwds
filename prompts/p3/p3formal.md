@@ -1,6 +1,6 @@
 ## P3 Formal Draft
 
-Due 7/31
+Due Tuesday 11/28
 
 2000-2500 words
 
