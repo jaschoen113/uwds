@@ -8,7 +8,7 @@ geometry: margin=1in
 |__C1010.002__|__Fall 2017__|
 |:-----------:|:-----------|
 |_Day/Time_:| Tuesday and Thursday - __8:40__ - __9:55 a.m.__|
-|_Location_:| Philosophy 401A |
+|_Location_:| Philosophy 408A |
 |_Instructor_:|Jenna Schoen|
 |_Email_:|jas2286@columbia.edu|
 |_Office hours_:|Thursday - __1:00__ - __3:00__ - Brownie's (basement of Avery)|
@@ -48,7 +48,7 @@ This class does not presume that students will arrive with any background or ide
 
 We will give special attention to the practices of close reading, rhetorical analysis, research, collaboration, and substantive revision. Students will learn that writing is a process of continual refinement of ideas and their expression. Rather than approaching writing as an innate talent, this course will teach writing as a unique, learned skill that can be practiced and developed.  Over the course of the semester, you will read and discuss texts from a number of fields, complete regular reading and writing exercises, write several longer essays, and prepare an editorial for a public audience.
 
-__Note__: Your syllabus is a reference document to be frequently consulted. In it you will find course policies, all major due dates, and a schedule of readings. The syllabus is available online on our [Google Site](https://sites.google.com/site/uwfall2017/). Readings and due dates are subject to change throughout the semester, but I will give you warning well advance and update the online syllabus if anything changes.
+__Note__: Your syllabus is a reference document to be frequently consulted. In it you will find course policies, all major due dates, and a schedule of readings. The syllabus is available online on our [Google Site](https://sites.google.com/site/uwfall2017/). Readings and due dates are subject to change throughout the semester, but I will give you warning well in advance and update the online syllabus if anything changes.
 
 ## Requirements<a name="requirements"></a>
 
@@ -66,7 +66,7 @@ __Note__: Your syllabus is a reference document to be frequently consulted. In i
 
 - **Presentation**: Once during the semester you and a classmate will present on a reading assignment. You will have 5-10 minutes (10 minutes **max**) to contextualize the reading (historically, theoretically, and/or biographically). Then you will lead a class discussion for 25-30 minutes, asking prepared and thoughtful questions on the assigned essay. You and your partner should prepare both the context and discussion questions together, but you can choose how to divide the presentation.  
 
-- __Drafts__: (500-2800 words). You will be writing your essays in a series of drafts (the number of drafts varies per progression). Drafts are opportunities to explore your ideas, but they are also the beginnings of formal essays. The better your draft, the more useful will be the feedback you will get on it. Drafts are __required__, and though they do not receive grades, if you fail to submit any draft of a progression (proposal, exploratory, formal, peer review), you will not receive my feedback on your formal draft. So it is critical that you submit all drafts (and on-time).
+- __Drafts__: (500-2800 words). You will be writing your essays in a series of drafts (the number of drafts varies per progression). Drafts are opportunities to explore your ideas, but they are also the beginnings of formal essays. The better your draft, the more useful will be the feedback you will get on it. Drafts are __required__, and though they do not receive individual grades, if you fail to submit any draft of a progression (proposal, exploratory, formal), your final essay grade will suffer. So it is critical that you submit all drafts (and on-time).
 
 - __Final Essays__: (750+ words; must have a __title__, __word count__, and a __works cited__ page) Each progression culminates in a __final essay__, which will evolve out of your exercises and drafts. Your final essay will likely differ substantially from the previous drafts in form, and often in content. Your final essay will receive a __formal grade__. All final essays should:
 
@@ -104,7 +104,7 @@ You will write four essays, which can be broadly described as follows:
 	4. [Workshop folder](https://drive.google.com/drive/u/0/folders/0B3k284_PDVjDU2E4dXNyaE9DVGs): where you will post the draft of an essay 24 hours before your workshop
 
 
-- Because we will be working directly with Google Docs in class, I encourage you to bring your laptop to class everyday. This way you can directly edit your draft in class, see peer comments on the workshop essay, and see peer responses to the reading assignment. If you do not have a personal laptop that you can bring, then you must print out and bring all your responses and drafts to class.
+- Because we will be working directly with Google Docs in class, I encourage you to bring your laptop to class everyday. This way you can directly edit your draft in class and see peer comments on the workshop essay. If you do not have a personal laptop that you can bring, then you must print out and bring all your responses, drafts, and workshop papers to class.
 
 - Though I encourage you to bring and use your laptops when they are helpful in class, if you are browsing websites, texting, etc., then I will have to ask you to no longer use your laptop in class, which will be very inconvenient for you.
 
@@ -163,11 +163,13 @@ Each final essay will receive a number grade out of 100 possible points. At the 
 
 ### Late and Missed Assignments<a name="late-and-missed-assignments"></a>
 
-Keeping deadlines is an important aspect of this class, as it gives you the time to develop and revise your ideas, and it gives me the time to offer you productive feedback. If you turn in work late, I may not be able to provide you feedback.
+Keeping deadlines is an important aspect of this class, as it gives you the time to develop and revise your ideas, and it gives me the time to offer you productive feedback. I can't comment on late formal drafts, so it is essential that you submit drafts on time in order to receive written feedback before your final essay is due.
 
-If you hand in a **formal draft 48+ hours late**, your **final essay grade will be lowered by 10 points**. If you hand in a **final essay late**, your **final essay grade will be lowered by 3 points for every day that it is late**.  
+Besides each progression's final essay, progression drafts and other assignments are graded pass/fail. However, late and incomplete assignments deduct from your final progression essay grade. Each **late draft** will deduct **2 points per day** late. Each **late final essay** will deduct **3 points per day** late. Missed **workshops and presentations** will deduct **5 points** from the current progression grade. Missed **workshop comments** will deduct **2 points** from the current progression grade.
 
-All final drafts must be submitted to Courseworks by the deadline in order to be considered on time. According to the policy of the Undergraduate Writing Program, failure to submit the final draft of any essay by the end of the semester will result in an automatic failure for the course.
+I will allow each student **one** 48 hour extension on **one** assignment (one exploratory draft, one formal draft, one final draft, etc) in the semester (**not per progression**). You **must** notify me at least an hour before the assignment is due in order to apply the extension. I will not give any other extensions for any other assignments.
+
+All **final** essay drafts must be submitted to Canvas and emailed to me by the deadline in order to be considered on time. According to the policy of the Undergraduate Writing Program, failure to submit the final draft of any essay by the end of the semester will result in an automatic failure for the course.
 
 ### Absences and Lateness<a name="participation-grade"></a>  
 
@@ -195,7 +197,7 @@ The following are the only reasons for **excused** absences:
 
 
 ### Conferences<a name="conferences"></a>
-You will have **two** conferences with me during the semester. These conferences give you the opportunity to discuss your ideas, to work through your drafts, to prepare for presentations, or to revise your essays. You are welcome to come and see me in office hours or by appointment to discuss any aspect of the course. These conferences also count towards your participation grade (a missed conference will incur 10 points off the participation grade).
+You will have **two** conferences with me during the semester. These conferences give you the opportunity to discuss your ideas, to work through your drafts, to prepare for presentations, or to revise your essays. You are welcome to come and see me in office hours or by appointment to discuss any aspect of the course.
 
 ### Assessment and Response<a name="assessment-and-response"></a>
 
@@ -251,12 +253,12 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
     - **P1 Exploratory Draft**
 
 ### 6. __Thursday 9/21__  
-- Workshop 1 & 2 (P1 Draft)
+- Workshops 1 & 2 (P1 Draft)
 - Due:
     - WR (Writing Response) 1 & 2
 
 ### 7. __Tuesday 9/26__  
-- Workshop 3 & 4 (P1 Draft)
+- Workshops 3 & 4 (P1 Draft)
 - Due:
     - WR 3 & 4
     - **P1 Formal Draft**  
@@ -325,28 +327,28 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 
 #### __P2 Final Draft__ due __Friday 11/3__
 
-### 19. __Tuesday 11/9__
+### 19. __Thursday 11/9__
 - Reading:
     - **Doniger**, Wendy. "Many Masks, Many Selves."
 - Presentation 7 (Doniger)
 
 
-### 20. __Thursday 11/14__
+### 20. __Tuesday 11/14__
 - Reading:
     - **Wright**, Rebecca. "Hives, Damn Hives, and the Internet" (From [The Morningside Review](http://morningsidereview.org/essay/hives-damn-hives-and-the-internet/))
 
-### 21. __Tuesday 11/16__
+### 21. __Thursday 11/16__
 - Due:
     - **P3 Exploratory draft**
 
-### 22. __Thursday 11/21__:
-- Workshop 9 & 10 (P3 Drafts)
+### 22. __Tuesday 11/21__:
+- Workshops 9 & 10 (P3 Drafts)
 - Due:
     - WR 9 & 10
 
 
 ### 23. __Tuesday 11/28__
-- Workshop 11 & 12 (P3 Drafts)
+- Workshops 11 & 12 (P3 Drafts)
 - Due:
 		- WR 11 & 12
     - __P3 Formal draft__
@@ -362,7 +364,7 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 #### Publishing the Op-Ed Event on __Friday 12/1__ (1-2:30pm)
 
 ### 25. __Tuesday 12/5__
-- Workshop 13 & 14 (P4 Drafts)
+- Workshops 13 & 14 (P4 Drafts)
 - Due:
     - WR 13 & 14
 
@@ -381,5 +383,5 @@ At the [Writing Center](www.college.columbia.edu/core/uwp/writing-center) you ca
 |:-----------:|:-----------:|:------------:|:-----------:|:-------:|
 |P1| --- | Tuesday 9/19 | Tuesday 9/26 | Friday 10/6 |
 |P2| Thursday 10/12 | Tuesday 10/17 | Tuesday 10/24 | Friday 11/3 |
-|P3| Tuesday 11/9 | Tuesday 11/16 | Tuesday 11/28 | Friday 12/8 |
+|P3| Tuesday 11/9 | Thursday 11/16 | Tuesday 11/28 | Friday 12/8 |
 |P4| Thursday 12/7 | --- | --- | Tuesday 12/12 |

@@ -2,7 +2,7 @@
 
 Proposal due **Tuesday 11/9**
 
-Exploratory draft due **Tuesday 11/16**
+Exploratory draft due **Thursday 11/16**
 
 Formal draft due **Tuesday 11/28**
 
