@@ -36,7 +36,7 @@ XV. [Course Calendar](#course-calendar)
 		ii. [Progression Two](#progression-two)  
 		iii. [Progression Three](#progression-three)  
 		iv. [Progression Four](#progression-four)  
-XVI. [Key Dates](#key-dates)  
+XVI. [Key Dates](#key-dates)   
 
 ## Course Description<a name="course-description"></a>
 

@@ -27,4 +27,16 @@ look for disruptive - something that's bothering you
 
 ##blei
 - presentation, field some questions from students, set aside time to generate questions (groups, individually)
-- how to craft questions - how do you come up with project idas? how do you execute it? 
+- how to craft questions - how do you come up with project idas? how do you execute it?
+
+
+##other ideas
+- have them when they hand in papers say what they would change
+- cold calling, say early in semester that you do this because they wanna hear from you, dont take it as you have to say something if you dont have anything to say can always just pass it on ; tend to cold call on students when there is an answer they have to prepare -- not intrepretive work on their feet
+- put questions and answers as focus of every class
+- use coming to terms to frame project
+- use general intellectual takeaways
+- what is their claim and how do they justify it?
+- after first reading, make sure students read out loud important part of the text in class; make sure you're generating textual problems; have them look specifically at passage -- what are the patterns you see here?
+- post your annotations -- tie to interpretive problems, if you're looking for changing expectations then write out your expectation before hand
+- what dennis tenen chapters would be good 
