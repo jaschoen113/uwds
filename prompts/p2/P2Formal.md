@@ -1,6 +1,6 @@
 ## P2 Formal Draft
 
-Due Thursday 10/24  
+Due Tuesday 3/6 
 
 1100-1400 words
 

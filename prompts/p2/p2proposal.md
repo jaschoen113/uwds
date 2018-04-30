@@ -1,6 +1,6 @@
 ## P2 Proposal
 
-Due Thursday 10/12
+Due Tuesday 2/20
 
 ~500 words
 

@@ -2,6 +2,7 @@
 
 ##To Print
 - P1 prompt
+- Workshops and Presentations Assignment
 
 ##Schedule
 - Icebreaker (5 minutes)

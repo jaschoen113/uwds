@@ -1,6 +1,6 @@
 ## P2 Exploratory Draft
 
-Due Wednesday Tuesday 10/17
+Due Wednesday Tuesday 2/27
 
 800-1000 words
 

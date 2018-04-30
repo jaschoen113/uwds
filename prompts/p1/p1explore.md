@@ -1,6 +1,6 @@
 #P1 Exploratory Draft
 
-Due  **Tuesday 9/19**
+Due  **Sunday 1/28**
 
 700-900 words
 

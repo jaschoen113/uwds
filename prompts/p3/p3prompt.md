@@ -1,12 +1,12 @@
 ## Progression 3: Research Essay
 
-Proposal due **Tuesday 11/9**
+Proposal due **Tuesday 3/27**
 
-Exploratory draft due **Thursday 11/16**
+Exploratory draft due **Thursday 4/5**
 
-Formal draft due **Tuesday 11/28**
+Formal draft due **Thursday 4/12**
 
-Final draft due **Friday 12/8**
+Final draft due **Sunday 4/22**
 
 Your task in this progression is to write an extensive, well-researched critical essay around a **virtual reality exhibit**. Your exhibit can be a virtual reality film, game, or experience. I have provided a list of possible virtual reality exhibits on our Google Site, but you are more than welcome (and even encouraged) to choose something not on the list. It is also possible to choose an exhibit that cannot be seen with a Google Cardboard, and might even be rather loosely related to virtual reality, but you must run that by me first.
 

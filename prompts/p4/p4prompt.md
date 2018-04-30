@@ -1,8 +1,8 @@
 ## P4 Prompt
 
-Proposal due **Thursday 12/7**
+Proposal due **Thursday 4/26**
 
-Final draft due **Tuesday 12/12**
+Final draft due **Wednesday 5/2**
 
 Write an op-ed article that you could submit to a publication of your choice. You may revise one of the papers you’ve written for this class, or you may choose an entirely new argument. Ideally the op-ed would somehow relate to science and technology in some way, but it's also okay to branch out; just let me know ahead of time.
 

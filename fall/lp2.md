@@ -34,7 +34,9 @@ My rules:
 - Reflection on presentation: about 5 minutes, a little more, or a little less - but it wasn't a minute, and definitely wasn't 15 minutes. read several articles on nyt and new yorker about his books, listened to an interview with him, to get a better sense of his general views. i tried to then link what i've learned to a question about how we might consider the essay accordingly. also thought relevant to mention the publication, and fact about the industry. the exact kind of information i presented might not be the most relevant or available for all the essays - not a strict formula for the presentations, you want to do research to figure out what's most relevant. sometimes might be more useful to talk about background on something in the essay, or the general field. i spent about an hour reading various articles and doing research for these 5 minutes.
 
 ##Questions (20 minutes)
-- First question is a "content" question. In the beginning of his essay, Ford insists on the "ambiguities and ambulances" of his argument (page 1575). 1) Can we identify those ambiguities? What might Ford say is ambiguous about the doppelganger? 2) Why might it be important for Ford to forefront the ambiguity of his argument? What does that mean for his larger argument?
+- First question is a basic "content question": what is Ford's most basic argument in this piece? (Summary for 7-year old) -- it's important to establish what he think is his main argument, and then complicate it from there
+    - Ford argues that cyber doppelgangers will slowly take away our autonomy unless we do something about it now
+- Next question moves into a more "formal question." In the beginning of his essay, Ford insists on the "ambiguities and ambulances" of his argument (page 1575). 1) Can we identify those ambiguities? What might Ford say is ambiguous about the doppelganger? 2) Why might it be important for Ford to forefront the ambiguity of his argument? What does that mean for his larger argument?
     - Means that we have a harder time distinguishing his actual beliefs (he even admits he feels ambivalent about it), which in a way parallels the increasingly blurred boundary between human and machine in his scenario (hard to tell difference between machine and human || hard to tell what Ford, or we, really feel about this)
 - Second question is "formal" question. 1) How would you identify Ford's "voice" or "tone", particularly in the second section of the essay? How is he addressing the reader? How does that voice differ from the rest of the essay? 2) And how might we connect that voice to the content at hand?
     - sarcastic, funny, aggressive
@@ -61,4 +63,4 @@ Claim (debatable): Ford's suggestions are not to be taken seriously, since he ha
 ##Introduce P1
 - Hand out P1 prompt
 
-jamel and harrison 
+jamel and harrison

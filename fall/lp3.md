@@ -1,5 +1,7 @@
 #Class Three Lesson Plan, Tuesday 1/24
 
+office hours = tuesday 10-11 and thurs 2-3, everyone can make one of those times?
+
 ##Doodle
 - Fill out Doodle for office hours when walking in
 - Also if you have not signed up for workshop/presentation, do so now
@@ -13,7 +15,7 @@
 - Introduce exploratory draft (5 minutes)
 - Play chatterbot (10 mins)
 
-##P1 Prompt 
+##P1 Prompt
 
 ##Turing Presentation and Discussion (30-35 minutes)
 - Other questions:

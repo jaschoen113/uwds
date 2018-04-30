@@ -1,5 +1,10 @@
+##office hours
+
+need to be able to come to 20 minutes: tues 10-11 thurs 1:30-2:30
+if not, will arrange with people who can't come
+
 ##Writing Prompt
-- How might you define close reading? Why do you think it's a valuable skill? Why is it difficult? Any other thoughts on close reading 
+- How might you define close reading? Why do you think it's a valuable skill? Why is it difficult? Any other thoughts on close reading
 
 ##Questions about Turing close reading?
 - Do we want to go over that again since it was rushed?

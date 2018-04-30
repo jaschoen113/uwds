@@ -78,4 +78,4 @@ Form: I notice a lot of alliteration, particularly in the middle of the poem. Ho
 ##Thursday Assignment
 - For Thursday, you have an assigned reading. Print, read, and annotate it. Also, try to find one moment in the text that interests you(it could be a sentence, a paragraph, or a structural observation) and chart out the "summary, observation, claim" -- try your best at this, and we'll discuss them in class
 - Read through the entire syllabus, the reading and writing day assignments
-- Sign up for presentation and workshop
+- Sign up for presentation and workshop and Doodle Office Hours 

@@ -2,13 +2,13 @@
 
 Draft Deadlines:
 
-Proposal due **Thursday 10/12**
+Proposal due **Tuesday 2/20**
 
-Exploratory draft due **Tuesday 10/17**
+Exploratory draft due **Tuesday 2/27**
 
-Formal draft due **Tuesday 10/24**
+Formal draft due **Tuesday 3/6**
 
-Final draft due **Friday 11/3**
+Final draft due **Monday 3/19**
 
 Prompt:
 

@@ -2,11 +2,11 @@
 
 Draft Deadlines:
 
-Exploratory draft due **Tuesday 9/19**
+Exploratory draft due **Friday 1/26**
 
-Formal draft due **Tuesday 9/26**  
+Formal draft due **Thursday 2/1**  
 
-Final draft due **Friday 10/6**   
+Final draft due **Monday 2/12**   
 
 Prompt:  
 
